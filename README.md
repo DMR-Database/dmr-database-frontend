@@ -12,6 +12,9 @@ docker website
 sudo docker run --name nginx-php-webserver-database -p 80:8080 --restart always -v /home/einstein/website-database:/var/www/html trafex/php-nginx
 
 
+#
+docker compose for mariadb with adminer
+
 ##
 version: '3.1'
 
