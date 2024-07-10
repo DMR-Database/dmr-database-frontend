@@ -12,7 +12,7 @@ docker website
 sudo docker run --name nginx-php-webserver-database -p 80:8080 --restart always -v /home/einstein/website-database:/var/www/html trafex/php-nginx
 
 
-#
+##
 version: '3.1'
 
 services:
@@ -21,7 +21,7 @@ services:
     image: mariadb:10.10
     restart: always
     environment:
-      MARIADB_ROOT_PASSWORD: EFeVPRJxD3WB
+      MARIADB_ROOT_PASSWORD: passw0rd
     ports:
       - 3306:3306
 
