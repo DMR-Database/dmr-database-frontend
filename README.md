@@ -1,49 +1,34 @@
-CSV Download Portal
-#
-Welcome to the CSV Download Portal, your one-stop destination for accessing a wide range of CSV databases tailored to your specific needs. This portal provides a streamlined and user-friendly interface for generating and downloading various CSV files. Whether you need comprehensive databases for Anytone devices or specific regional data, our portal ensures you have the right tools at your fingertips.
-#
-Features:
-#
-Secure Access:
-###
-Our portal ensures secure access with a login feature to protect sensitive data. Use the password "passw0rd" to access the resources.
-#
-Intuitive Navigation:
-##
-Easily navigate between different sections of the portal using the menu options. Select the required section to generate and download the desired CSV file.
-#
-Home:
-##
-Start here to get an overview of the portal's functionalities and select the desired options.
-#
-Download Full CSV:
-##
-Generate and download the complete database in CSV format. Ideal for users needing a comprehensive data set.
-Download Anytone CSV:
-#
-Generate and download the full database specifically formatted for Anytone devices. Ensures compatibility and ease of use.
-Download Dutch Database:
-#
-Access and download a specialized database focusing on Dutch data for Anytone devices. Perfect for users in or working with data from the Netherlands.
-Download Filtered Database:
-#
-Customize your download by selecting specific countries. Generate and download a filtered database tailored to your needs.
-Instructions for Use:
-Login:
+    <h1>CSV Download Portal</h1>
+    <p>Welcome to the CSV Download Portal, your one-stop destination for accessing a wide range of CSV databases tailored to your specific needs. This portal provides a streamlined and user-friendly interface for generating and downloading various CSV files. Whether you need comprehensive databases for Anytone devices or specific regional data, our portal ensures you have the right tools at your fingertips.</p>
 
-Enter the password "passw0rd" in the login section to gain access to the portal.
-Navigation:
+    <h2>Features:</h2>
+    <ul class="feature-list">
+        <li><strong>Secure Access</strong>: Our portal ensures secure access with a login feature to protect sensitive data. Use the password "roodwitblauw" to access the resources.</li>
+        <li><strong>Intuitive Navigation</strong>: Easily navigate between different sections of the portal using the menu options. Select the required section to generate and download the desired CSV file.</li>
+        <li><strong>Home</strong>: Start here to get an overview of the portal's functionalities and select the desired options.</li>
+        <li><strong>Download Full CSV</strong>: Generate and download the complete database in CSV format. Ideal for users needing a comprehensive data set.</li>
+        <li><strong>Download Anytone CSV</strong>: Generate and download the full database specifically formatted for Anytone devices. Ensures compatibility and ease of use.</li>
+        <li><strong>Download Dutch Database</strong>: Access and download a specialized database focusing on Dutch data for Anytone devices. Perfect for users in or working with data from the Netherlands.</li>
+        <li><strong>Download Filtered Database</strong>: Customize your download by selecting specific countries. Generate and download a filtered database tailored to your needs.</li>
+    </ul>
 
-Use the navigation menu to select the desired section:
-Home: Overview and welcome message.
-Download Full CSV: Download the complete database.
-Download Anytone CSV: Download the full database formatted for Anytone devices.
-Download Dutch Database: Download the Dutch-specific database for Anytone devices.
-Download Filtered Database: Select a country and download a filtered database.
-Generate and Download CSV:
+    <h2>Instructions for Use:</h2>
+    <ul class="instructions-list">
+        <li><strong>Login</strong>: Enter the password "roodwitblauw" in the login section to gain access to the portal.</li>
+        <li><strong>Navigation</strong>: Use the navigation menu to select the desired section:
+            <ul>
+                <li><strong>Home</strong>: Overview and welcome message.</li>
+                <li><strong>Download Full CSV</strong>: Download the complete database.</li>
+                <li><strong>Download Anytone CSV</strong>: Download the full database formatted for Anytone devices.</li>
+                <li><strong>Download Dutch Database</strong>: Download the Dutch-specific database for Anytone devices.</li>
+                <li><strong>Download Filtered Database</strong>: Select a country and download a filtered database.</li>
+            </ul>
+        </li>
+        <li><strong>Generate and Download CSV</strong>: In each section, click the download button to generate and download the selected CSV file.</li>
+    </ul>
 
-In each section, click the download button to generate and download the selected CSV file.
-Our portal is designed to provide a seamless experience, ensuring you have quick and easy access to the data you need. For any questions or support, feel free to contact our helpdesk. Thank you for using the CSV Download Portal!
+    <p>Our portal is designed to provide a seamless experience, ensuring you have quick and easy access to the data you need. For any questions or support, feel free to contact our helpdesk. Thank you for using the CSV Download Portal!</p>
+
 
 
 
