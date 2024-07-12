@@ -301,7 +301,14 @@ def main(version):
     # Close MySQL connection
     conn.close()
     print("MySQL connection closed")
-
+    
+    # Delete the user.csv file
+    try:
+        os.remove('user.csv')
+        print("user.csv file deleted")
+    except OSError as e:
+        print(f"Error deleting user.csv file: {e}")
+        
 if __name__ == "__main__":
     main(script_version)
 
