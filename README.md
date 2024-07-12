@@ -5,7 +5,7 @@ Welcome to the CSV Download Portal, your one-stop destination for accessing a wi
 Features:
 Secure Access:
 
-Our portal ensures secure access with a login feature to protect sensitive data. Use the password "roodwitblauw" to access the resources.
+Our portal ensures secure access with a login feature to protect sensitive data. Use the password "passw0rd" to access the resources.
 Intuitive Navigation:
 
 Easily navigate between different sections of the portal using the menu options. Select the required section to generate and download the desired CSV file.
