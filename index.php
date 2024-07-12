@@ -340,6 +340,7 @@ if (isset($_POST['download_all'])) {
         <a href="#download-anytone" onclick="showSection('download-anytone')">Download Anytone CSV</a>
         <a href="#download-dutch" onclick="showSection('download-dutch')">Download Dutch Database</a>
         <a href="#download-filtered" onclick="showSection('download-filtered')">Download Filtered Database</a>
+        <a href="#download-pistar" onclick="showSection('download-pistar')">Download Pi-Star Database</a>
     </nav>
     <div class="container">
         <div id="home" class="section">
@@ -578,6 +579,13 @@ if (isset($_POST['download_all'])) {
                 <button type="submit" name="download_filtered">Download Filtered Database (Anytone)</button>
             </form>
         </div>
+        <div id="download-pistar" class="section">
+            <h2>Generate and Download the Pi-Star CSV</h2>
+            <form action="" method="post">
+                <button type="submit" name="download_pistar">Download CSV</button>
+            </form>
+        </div>
+
     </div>
     
     <script>
