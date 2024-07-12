@@ -319,6 +319,15 @@ if (isset($_POST['download_all'])) {
             border-radius: 5px;
             border: 1px solid #ccc;
         }
+        .copyright {
+            margin-top: 30px;
+            font-size: 0.8rem;
+            text-align: center;
+        }
+        .copyright a {
+            color: #007bff;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -575,7 +584,7 @@ if (isset($_POST['download_all'])) {
         document.getElementById('login-form').addEventListener('submit', function(e) {
             e.preventDefault();
             var password = document.getElementById('password').value;
-            if (password === 'passw0rd') {
+            if (password === 'roodwitblauw') {
                 document.getElementById('login').style.display = 'none';
                 document.querySelector('nav').style.display = 'block';
                 showSection('home');
@@ -592,6 +601,9 @@ if (isset($_POST['download_all'])) {
             document.getElementById(sectionId).style.display = 'block';
         }
     </script>
+    <div class="copyright">
+        &copy; 2024 CSV Download Portal by DMR-Database Team. All rights reserved. | <a href="https://github.com/DMR-Database" target="_blank">Visit us on GitHub</a>
+    </div>
 </body>
 </html>
 
