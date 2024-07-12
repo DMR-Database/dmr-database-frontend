@@ -135,6 +135,48 @@ function process_to_anytone($csv_filename, $anytone_filename) {
     return true;
 }
 
+$table_hamvoip = 'hamvoip_data'; // New table name
+$columns_hamvoip = ['Extension', 'Callsign', 'Name']; // Columns for Hamvoip data
+
+// Function to export data from Hamvoip table to CSV
+function exportHamvoipDataToCSV($host, $user, $password, $database, $table, $columns, $output_file) {
+    // Establish database connection
+    $conn = new mysqli($host, $user, $password, $database);
+
+    // Check connection
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+
+    // SQL query to fetch data
+    $sql = "SELECT " . implode(', ', $columns) . " FROM $table";
+    $result = $conn->query($sql);
+
+    if ($result->num_rows > 0) {
+        // Open CSV file for writing
+        $csvFile = fopen($output_file, 'w');
+
+        // Write headers to the CSV file
+        fputcsv($csvFile, $columns);
+
+        // Fetch and write data rows to the CSV file
+        while ($row = $result->fetch_assoc()) {
+            fputcsv($csvFile, $row);
+        }
+
+        // Close CSV file handle
+        fclose($csvFile);
+
+        // Close database connection
+        $conn->close();
+
+        return true; // CSV file successfully generated
+    } else {
+        $conn->close();
+        return false; // No rows fetched
+    }
+}
+
 
 // Check which download button is clicked
 if (isset($_POST['download_all'])) {
@@ -238,6 +280,23 @@ if (isset($_POST['download_all'])) {
     } else {
         echo "Failed to generate CSV file or no data found.";
     }
+} elseif (isset($_POST['download_hamvoip'])) {
+    $output_file_hamvoip = 'hamvoip_export.csv';
+
+    // Generate CSV file for Hamvoip data
+    $csvGeneratedHamvoip = exportHamvoipDataToCSV($host, $user, $password, $database, $table_hamvoip, $columns_hamvoip, $output_file_hamvoip);
+
+    // If CSV file is generated, initiate download
+    if ($csvGeneratedHamvoip) {
+        // Set headers to force download
+        header('Content-Type: application/csv');
+        header('Content-Disposition: attachment; filename="' . basename($output_file_hamvoip) . '"');
+        header('Pragma: no-cache');
+        readfile($output_file_hamvoip); // Output file contents
+        exit;
+    } else {
+        echo "Failed to generate CSV file or no Hamvoip data found.";
+    }
 }
 ?>
 
@@ -245,7 +304,7 @@ if (isset($_POST['download_all'])) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CSV Download Portal</title>
+    <title>DMR-Database Download Portal</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -328,19 +387,27 @@ if (isset($_POST['download_all'])) {
             color: #007bff;
             text-decoration: none;
         }
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
     </style>
 </head>
 <body>
     <header>
-        <h1>CSV Download Portal</h1>
+        <h1>DMR-Database Download Portal</h1>
     </header>
     <nav>
         <a href="#home" onclick="showSection('home')">Home</a>
-        <a href="#download-all" onclick="showSection('download-all')">Download Full CSV</a>
-        <a href="#download-anytone" onclick="showSection('download-anytone')">Download Anytone CSV</a>
-        <a href="#download-dutch" onclick="showSection('download-dutch')">Download Dutch Database</a>
-        <a href="#download-filtered" onclick="showSection('download-filtered')">Download Filtered Database</a>
-        <a href="#download-pistar" onclick="showSection('download-pistar')">Download Pi-Star Database</a>
+        <a href="#download-all" onclick="showSection('download-all')">Full Database</a>
+        <a href="#download-anytone" onclick="showSection('download-anytone')">Anytone Full Database</a>
+        <a href="#download-dutch" onclick="showSection('download-dutch')">Dutch Database</a>
+        <a href="#download-filtered" onclick="showSection('download-filtered')">Filtered Database</a>
+        <a href="#download-pistar" onclick="showSection('download-pistar')">Pi-Star Database</a>
+        <a href="#download-hamvoip" onclick="showSection('download-hamvoip')">Hamvoip Database</a>
     </nav>
     <div class="container">
         <div id="home" class="section">
@@ -359,28 +426,28 @@ if (isset($_POST['download_all'])) {
         </div>
 
         <div id="download-all" class="section">
-            <h2>Generate and Download the Full CSV</h2>
+            <h2>Generate and Download the Full DMR-Database</h2>
             <form action="" method="post">
-                <button type="submit" name="download_all">Download CSV</button>
+                <button type="submit" name="download_all">Download Full CSV</button>
             </form>
         </div>
         
         <div id="download-anytone" class="section">
-            <h2>Generate and Download the Full Database for Anytone</h2>
+            <h2>Generate and Download the Full DMR-Database for Anytone</h2>
             <form action="" method="post">
-                <button type="submit" name="download_all_anytone">Download CSV (Anytone)</button>
+                <button type="submit" name="download_all_anytone">Download Full CSV for Anytone</button>
             </form>
         </div>
         
         <div id="download-dutch" class="section">
-            <h2>Generate and Download Dutch Database for Anytone</h2>
+            <h2>Generate and Download Dutch DMR-Database for Anytone</h2>
             <form action="" method="post">
-                <button type="submit" name="download_dutch">Download Dutch Database (Anytone)</button>
+                <button type="submit" name="download_dutch">Download Dutch CSV for Anytone</button>
             </form>
         </div>
         
         <div id="download-filtered" class="section">
-            <h2>Generate and Download Filtered Database for Anytone</h2>
+            <h2>Generate and Download Filtered DMR-Database for Anytone</h2>
             <form action="" method="post">
                 <label for="filter">Select Country</label>
                 <select name="filter" id="filter">
@@ -576,15 +643,35 @@ if (isset($_POST['download_all'])) {
                     <option value="645">Zambia 645</option>
                     <option value="648">Zimbabwe 648</option>
                 </select>
-                <button type="submit" name="download_filtered">Download Filtered Database (Anytone)</button>
+                <button type="submit" name="download_filtered">Download Filtered CSV for Anytone</button>
             </form>
         </div>
         <div id="download-pistar" class="section">
             <h2>Generate and Download the Pi-Star CSV</h2>
             <form action="" method="post">
-                <button type="submit" name="download_pistar">Download CSV</button>
+                <button type="submit" name="download_pistar">Download DMR-Database for Pi-Star (not done yet)</button>
             </form>
         </div>
+
+
+<div id="download-hamvoip" class="section">
+    <h2>Generate and Download Hamvoip Extension Database</h2>
+    <div class="button-container">
+        <form action="" method="post">
+            <div class="column">
+                <button class="download-btn" type="submit" name="download_hamvoip">Download Hamvoip CSV (All Users)</button>
+                <button class="download-btn" type="submit" name="download_cisco">Download Hamvoip XML (Cisco na)</button>
+                <button class="download-btn" type="submit" name="download_dapnet">Download Hamvoip CSV (Dapnet na)</button>
+            </div>
+            <div class="column">
+                <br><button class="download-btn" type="submit" name="download_other">Download Hamvoip CSV (Other na)</button>
+                <button class="download-btn" type="submit" name="download_fanvil">Download Hamvoip CSV (Fanvil na)</button>
+                <button class="download-btn" type="submit" name="download_yealink">Download Hamvoip CSV (Yealink na)</button>
+            </div>
+        </form>
+    </div>
+</div>
+
 
     </div>
     
