@@ -50,7 +50,47 @@ function exportMariaDBToCSV($host, $user, $password, $database, $table, $columns
     }
 }
 
+function exportLimitedMariaDBToCSV($host, $user, $password, $database, $table, $columns, $output_file, $limit) {
 
+    // Establish database connection
+    $conn = new mysqli($host, $user, $password, $database);
+
+    // Check connection
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+
+    // SQL query to fetch data
+    $sql = "SELECT " . implode(', ', $columns) . " FROM $table LIMIT $limit";
+    if (!empty($filter)) {
+        $sql .= " WHERE " . $filter;
+    }
+    $result = $conn->query($sql);
+
+    if ($result->num_rows > 0) {
+        // Open CSV file for writing
+        $csvFile = fopen($output_file, 'w');
+
+        // Write headers to the CSV file
+        fputcsv($csvFile, $columns);
+
+        // Fetch and write data rows to the CSV file
+        while ($row = $result->fetch_assoc()) {
+            fputcsv($csvFile, $row);
+        }
+
+        // Close CSV file handle
+        fclose($csvFile);
+
+        // Close database connection
+        $conn->close();
+
+        return true; // CSV file successfully generated
+    } else {
+        $conn->close();
+        return false; // No rows fetched
+    }
+}
 // Custom function to write a CSV row with CRLF line endings and minimal quoting
 function custom_fputcsv($handle, $fields, $delimiter = ',', $enclosure = '"', $escape_char = '\\') {
     $output = '';
@@ -134,6 +174,75 @@ function process_to_anytone($csv_filename, $anytone_filename) {
     
     return true;
 }
+// 
+$output_file = 'DMRIds.dat'; // Output CSV file name
+function export_to_pistar($host, $user, $password, $database, $output_file) {
+
+    // Establish database connection
+    $conn = new mysqli($host, $user, $password, $database);
+
+    // Check connection
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+
+
+    // SQL query to fetch specific columns from radioid_data table
+    $sql = "SELECT RADIO_ID, CALLSIGN FROM radioid_data";
+
+    // Execute query
+    $result = $conn->query($sql);
+
+    // Check for query execution errors
+    if (!$result) {
+        echo "Error executing query: " . $conn->error . "\n";
+        $conn->close();
+        return false;
+    }
+
+    if ($result->num_rows > 0) {
+        // Open CSV file for writing
+        $csvFile = fopen($output_file, 'w');
+
+        // Check if file opened successfully
+        if (!$csvFile) {
+            echo "Error opening CSV file for writing.\n";
+            $conn->close();
+            return false;
+        }
+
+        // Define headers for Pi-Star CSV format
+        // $headers = ['Radio ID', 'Callsign'];
+
+        // Write headers to the CSV file
+        // fputcsv($csvFile, $headers);
+
+        // Fetch and write data rows to the CSV file
+        while ($row = $result->fetch_assoc()) {
+            // Adjust the row data if necessary
+            $csvRow = [
+                $row['RADIO_ID'],
+                $row['CALLSIGN']
+            ];
+
+            // Write row to the CSV file
+            fputcsv($csvFile, $csvRow);
+        }
+
+        // Close CSV file handle
+        fclose($csvFile);
+
+        // Close database connection
+        $conn->close();
+
+        return true; // CSV file successfully generated
+    } else {
+        $conn->close();
+        echo "No rows fetched from the database.\n";
+        return false; // No rows fetched
+    }
+}
+//
 
 $table_hamvoip = 'hamvoip_data'; // New table name
 $columns_hamvoip = ['Extension', 'Callsign', 'Name']; // Columns for Hamvoip data
@@ -196,7 +305,33 @@ if (isset($_POST['download_all'])) {
     } else {
         echo "Failed to generate CSV file or no data found.";
     }
-} elseif (isset($_POST['download_all_anytone'])) {
+} elseif (isset($_POST['download_all_anytone_200000'])) {
+    $output_file = 'radioid_export.csv';
+
+    // Generate CSV file for limited data
+    $csvGenerated = exportLimitedMariaDBToCSV($host, $user, $password, $database, $table, $columns, $output_file, 200000);
+
+    // If CSV file is generated, process it and initiate download for Anytone and Nytone
+    if ($csvGenerated) {
+        $anytone_filename = 'output_anytone_all_200000.csv';
+
+        // Process for Anytone
+        $processing_result_anytone = process_to_anytone($output_file, $anytone_filename);
+        if ($processing_result_anytone) {
+            // Set headers to force download for Anytone
+            header('Content-Type: application/csv');
+            header('Content-Disposition: attachment; filename="' . basename($anytone_filename) . '"');
+            header('Pragma: no-cache');
+            readfile($anytone_filename); // Output file contents
+            exit;
+        } else {
+            echo "Failed to process CSV to Anytone format.";
+        }
+
+    } else {
+        echo "Failed to generate CSV file or no data found.";
+    }
+}elseif (isset($_POST['download_all_anytone'])) {
     $output_file = 'radioid_export.csv';
 
     // Generate CSV file for all data
@@ -280,7 +415,25 @@ if (isset($_POST['download_all'])) {
     } else {
         echo "Failed to generate CSV file or no data found.";
     }
-} elseif (isset($_POST['download_hamvoip'])) {
+} elseif (isset($_POST['download_pistar'])) {
+    $output_file_pistar = 'DMRIds.dat';
+
+    // Generate CSV file for Pi-Star data
+    // $csvGeneratedPistar = exportPistarDataToCSV($host, $user, $password, $database, $table_pistar, $columns_pistar, $output_file_pistar);
+    $csvGeneratedPistar = export_to_pistar($host, $user, $password, $database, $output_file_pistar);
+
+    // If CSV file is generated, initiate download
+    if ($csvGeneratedPistar) {
+        // Set headers to force download
+        header('Content-Type: application/csv');
+        header('Content-Disposition: attachment; filename="' . basename($output_file_pistar) . '"');
+        header('Pragma: no-cache');
+        readfile($output_file_pistar); // Output file contents
+        exit;
+    } else {
+        echo "Failed to generate CSV file or no Pistar data found.";
+    }
+}elseif (isset($_POST['download_hamvoip'])) {
     $output_file_hamvoip = 'hamvoip_export.csv';
 
     // Generate CSV file for Hamvoip data
@@ -298,6 +451,7 @@ if (isset($_POST['download_all'])) {
         echo "Failed to generate CSV file or no Hamvoip data found.";
     }
 }
+
 ?>
 
 <!DOCTYPE html>
@@ -430,9 +584,13 @@ if (isset($_POST['download_all'])) {
         </div>
         
         <div id="download-anytone" class="section">
-            <h2>Generate and Download the Full Anytone DMR-Database</h2>
+            <h2>Generate and Download CSV for Anytone AT-D878UV (200000 Users)</h2>
             <form action="" method="post">
-                <button type="submit" name="download_all_anytone">Download Full CSV for Anytone</button>
+                <button type="submit" name="download_all_anytone_200000">Download CSV for Anytone AT-D878UV</button>
+            </form>
+            <h2>Generate and Download Full CSV for Anytone AT-D878UV II</h2>
+            <form action="" method="post">
+                <button type="submit" name="download_all_anytone">Download CSV for Anytone AT-D878UV II</button>
             </form>
             <h2>Generate and Download the Dutch DMR-Database for Anytone</h2>
             <form action="" method="post">
@@ -641,11 +799,11 @@ if (isset($_POST['download_all'])) {
         <div id="download-hd1" class="section">
             <h2>Generate and Download the Full Ailunce HD1 DMR-Database</h2>
             <form action="" method="post">
-                <button type="submit" name="download_all_hd1">Download Full CSV for Ailunce HD1</button>
+                <button type="submit" name="download_all_hd1">Download Full CSV for Ailunce HD1 (not done yet)</button>
             </form>
             <h2>Generate and Download the Dutch DMR Database for Ailunce HD1</h2>
             <form action="" method="post">
-                <button type="submit" name="download_dutch_hd1">Download Dutch CSV for Ailunce HD1</button>
+                <button type="submit" name="download_dutch_hd1">Download Dutch CSV for Ailunce HD1 (not done yet)</button>
             </form>
         </div>
 
@@ -653,18 +811,21 @@ if (isset($_POST['download_all'])) {
         <div id="download-tytera" class="section">
             <h2>Generate and Download the Full Tytera MD380/390 DMR-Database</h2>
             <form action="" method="post">
-                <button type="submit" name="download_all_tytera">Download Full CSV for Tytera MD380/390</button>
+                <button type="submit" name="download_all_tytera">Download Full CSV for Tytera MD380/390 (not done yet)</button>
             </form>
             <h2>Generate and Download the Dutch Tytera MD380/390 DMR-Database</h2>
 	    <form action="" method="post">
-                <button type="submit" name="download_dutch_tytera">Download Dutch CSV for Tytera MD380/390</button>
+                <button type="submit" name="download_dutch_tytera">Download Dutch CSV for Tytera MD380/390 (not done yet)</button>
             </form>
         </div>
 
         <div id="download-pistar" class="section">
             <h2>Generate and Download the Full Pi-Star/WPSD DMR-Database</h2>
             <form action="" method="post">
-                <button type="submit" name="download_pistar">Download Full CSV for Pi-Star (not done yet)</button>
+                <button type="submit" name="download_pistar">Download Full CSV for Pi-Star</button>
+            </form>
+            <br><form action="" method="post">
+                <button type="submit" name="download_wpsd">Download Full CSV for WPSD (not done yet)</button>
             </form>
         </div>
 
@@ -674,13 +835,13 @@ if (isset($_POST['download_all'])) {
         <form action="" method="post">
             <div class="column">
                 <button class="download-btn" type="submit" name="download_hamvoip">Download Hamvoip CSV (All Users)</button>
-                <button class="download-btn" type="submit" name="download_cisco">Download Hamvoip XML (Cisco na)</button>
+                <button class="download-btn" type="submit" name="download_other">Download Hamvoip CSV (Other na)</button>
                 <button class="download-btn" type="submit" name="download_dapnet">Download Hamvoip CSV (Dapnet na)</button>
             </div>
             <div class="column">
-                <br><button class="download-btn" type="submit" name="download_other">Download Hamvoip CSV (Other na)</button>
-                <button class="download-btn" type="submit" name="download_fanvil">Download Hamvoip CSV (Fanvil na)</button>
+                <br><button class="download-btn" type="submit" name="download_fanvil">Download Hamvoip CSV (Fanvil na)</button>
                 <button class="download-btn" type="submit" name="download_yealink">Download Hamvoip CSV (Yealink na)</button>
+                <button class="download-btn" type="submit" name="download_cisco">Download Hamvoip XML (Cisco na)</button>
             </div>
         </form>
     </div>
