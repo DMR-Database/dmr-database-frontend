@@ -387,13 +387,10 @@ if (isset($_POST['download_all'])) {
             color: #007bff;
             text-decoration: none;
         }
-.button-container {
-    display: flex;
-    justify-content: center;
-}
-
-
-
+        .button-container {
+            display: flex;
+            justify-content: center;
+        }
     </style>
 </head>
 <body>
@@ -403,9 +400,9 @@ if (isset($_POST['download_all'])) {
     <nav>
         <a href="#home" onclick="showSection('home')">Home</a>
         <a href="#download-all" onclick="showSection('download-all')">Full Database</a>
-        <a href="#download-anytone" onclick="showSection('download-anytone')">Anytone Full Database</a>
-        <a href="#download-dutch" onclick="showSection('download-dutch')">Dutch Database</a>
-        <a href="#download-filtered" onclick="showSection('download-filtered')">Filtered Database</a>
+        <a href="#download-anytone" onclick="showSection('download-anytone')">Anytone Database</a>
+        <a href="#download-hd1" onclick="showSection('download-hd1')">Ailunce HD1</a>
+        <a href="#download-tytera" onclick="showSection('download-tytera')">Tytera</a>
         <a href="#download-pistar" onclick="showSection('download-pistar')">Pi-Star Database</a>
         <a href="#download-hamvoip" onclick="showSection('download-hamvoip')">Hamvoip Database</a>
     </nav>
@@ -413,7 +410,7 @@ if (isset($_POST['download_all'])) {
         <div id="home" class="section">
             <h2>Welcome to the CSV Download Portal</h2>
             <p>Welcome to the CSV Download Portal, your one-stop destination for accessing a wide range of CSV databases tailored to your specific needs. This portal provides a streamlined and user-friendly interface for generating and downloading various CSV files. Whether you need comprehensive databases for Anytone devices or specific regional data, our portal ensures you have the right tools at your fingertips.</p>
-	    <p>Choose an option from the menu to proceed.</p>
+            <p>Choose an option from the menu to proceed.</p>
         </div>
         
         <div id="login" class="login-section">
@@ -433,20 +430,14 @@ if (isset($_POST['download_all'])) {
         </div>
         
         <div id="download-anytone" class="section">
-            <h2>Generate and Download the Full DMR-Database for Anytone</h2>
+            <h2>Generate and Download the Anytone DMR-Database</h2>
             <form action="" method="post">
                 <button type="submit" name="download_all_anytone">Download Full CSV for Anytone</button>
             </form>
-        </div>
-        
-        <div id="download-dutch" class="section">
             <h2>Generate and Download Dutch DMR-Database for Anytone</h2>
             <form action="" method="post">
                 <button type="submit" name="download_dutch">Download Dutch CSV for Anytone</button>
             </form>
-        </div>
-        
-        <div id="download-filtered" class="section">
             <h2>Generate and Download Filtered DMR-Database for Anytone</h2>
             <form action="" method="post">
                 <label for="filter">Select Country</label>
@@ -507,35 +498,31 @@ if (isset($_POST['download_all'])) {
                     <option value="602">Egypt 602</option>
                     <option value="706">El Salvador 706</option>
                     <option value="627">Equatorial Guinea 627</option>
-                    <option value="248">Estonia 248</option>
-                    <option value="750">Falkland Islands 750</option>
-                    <option value="288">Faroe Islands 288</option>
+                    <option value="657">Falkland Islands 657</option>
+                    <option value="542">Fiji Islands 542</option>
                     <option value="244">Finland 244</option>
                     <option value="208">France 208</option>
-                    <option value="340">French Guiana 340</option>
-                    <option value="547">French Polynesia 547</option>
-                    <option value="742">Galapagos Islands 742</option>
+                    <option value="330">French Antilles 330</option>
+                    <option value="632">Gabon 632</option>
                     <option value="628">Gambia 628</option>
-                    <option value="282">Georgia 282</option>
+                    <option value="226">Georgia 226</option>
                     <option value="262">Germany 262</option>
                     <option value="620">Ghana 620</option>
                     <option value="266">Gibraltar 266</option>
                     <option value="202">Greece 202</option>
-                    <option value="290">Greenland 290</option>
-                    <option value="352">Grenada 352</option>
-                    <option value="714">Guatemala 714</option>
-                    <option value="632">Guinea 632</option>
-                    <option value="713">Guyana 713</option>
-                    <option value="332">Haiti 332</option>
+                    <option value="334">Grenada 334</option>
+                    <option value="352">Guadeloupe 352</option>
+                    <option value="535">Guam 535</option>
+                    <option value="704">Guatemala 704</option>
+                    <option value="611">Guinea 611</option>
+                    <option value="632">Guinea Equatorial 632</option>
+                    <option value="372">Guyana 372</option>
                     <option value="708">Honduras 708</option>
-                    <option value="454">Hong Kong 454</option>
                     <option value="216">Hungary 216</option>
-                    <option value="274">Iceland 274</option>
+                    <option value="465">Iceland 465</option>
                     <option value="404">India 404</option>
                     <option value="510">Indonesia 510</option>
                     <option value="432">Iran 432</option>
-                    <option value="418">Iraq 418</option>
-                    <option value="272">Ireland 272</option>
                     <option value="425">Israel 425</option>
                     <option value="222">Italy 222</option>
                     <option value="338">Jamaica 338</option>
@@ -543,19 +530,14 @@ if (isset($_POST['download_all'])) {
                     <option value="416">Jordan 416</option>
                     <option value="401">Kazakhstan 401</option>
                     <option value="639">Kenya 639</option>
-                    <option value="545">Kiribati 545</option>
-                    <option value="419">Kuwait 419</option>
-                    <option value="437">Kyrgyz Republic 437</option>
+                    <option value="470">Korea 470</option>
+                    <option value="467">Kuwait 467</option>
+                    <option value="437">Kyrgyzstan 437</option>
                     <option value="457">Laos 457</option>
                     <option value="247">Latvia 247</option>
-                    <option value="415">Lebanon 415</option>
-                    <option value="629">Lesotho 629</option>
-                    <option value="630">Liberia 630</option>
-                    <option value="606">Libya 606</option>
-                    <option value="246">Liechtenstein 246</option>
-                    <option value="247">Lithuania 247</option>
+                    <option value="246">Lithuania 246</option>
                     <option value="270">Luxembourg 270</option>
-                    <option value="455">Macau 455</option>
+                    <option value="455">Macao 455</option>
                     <option value="294">Macedonia 294</option>
                     <option value="646">Madagascar 646</option>
                     <option value="650">Malawi 650</option>
@@ -569,14 +551,13 @@ if (isset($_POST['download_all'])) {
                     <option value="617">Mauritius 617</option>
                     <option value="334">Mexico 334</option>
                     <option value="550">Micronesia 550</option>
-                    <option value="259">Moldova 259</option>
+                    <option value="255">Moldova 255</option>
                     <option value="212">Monaco 212</option>
                     <option value="428">Mongolia 428</option>
                     <option value="297">Montenegro 297</option>
-                    <option value="604">Morocco 604</option>
-                    <option value="650">Mozambique 650</option>
-                    <option value="414">Myanmar 414</option>
+                    <option value="514">Myanmar 514</option>
                     <option value="649">Namibia 649</option>
+                    <option value="536">Nauru 536</option>
                     <option value="429">Nepal 429</option>
                     <option value="204">Netherlands 204</option>
                     <option value="362">Netherlands Antilles 362</option>
@@ -585,74 +566,102 @@ if (isset($_POST['download_all'])) {
                     <option value="710">Nicaragua 710</option>
                     <option value="614">Niger 614</option>
                     <option value="621">Nigeria 621</option>
+                    <option value="257">Northern Ireland 257</option>
                     <option value="242">Norway 242</option>
                     <option value="422">Oman 422</option>
                     <option value="410">Pakistan 410</option>
                     <option value="552">Palau 552</option>
                     <option value="714">Panama 714</option>
                     <option value="537">Papua New Guinea 537</option>
-                    <option value="744">Paraguay 744</option>
-                    <option value="716">Peru 716</option>
+                    <option value="278">Paraguay 278</option>
+                    <option value="748">Peru 748</option>
                     <option value="515">Philippines 515</option>
                     <option value="260">Poland 260</option>
                     <option value="268">Portugal 268</option>
                     <option value="330">Puerto Rico 330</option>
-                    <option value="427">Qatar 427</option>
+                    <option value="424">Qatar 424</option>
+                    <option value="226">Republic of Kosovo 226</option>
                     <option value="226">Romania 226</option>
-                    <option value="250">Russia 250</option>
+                    <option value="250">Russian Federation 250</option>
                     <option value="635">Rwanda 635</option>
-                    <option value="539">Samoa 539</option>
-                    <option value="208">San Marino 208</option>
+                    <option value="647">Saint Helena 647</option>
+                    <option value="356">Saint Lucia 356</option>
+                    <option value="358">Saint Vincent and the Grenadines 358</option>
+                    <option value="360">Saint Kitts and Nevis 360</option>
+                    <option value="549">Samoa 549</option>
+                    <option value="292">San Marino 292</option>
+                    <option value="608">Sao Tome and Principe 608</option>
+                    <option value="420">Saudi Arabia 420</option>
                     <option value="608">Senegal 608</option>
                     <option value="220">Serbia 220</option>
                     <option value="633">Seychelles 633</option>
                     <option value="619">Sierra Leone 619</option>
                     <option value="525">Singapore 525</option>
-                    <option value="231">Slovakia 231</option>
+                    <option value="231">Slovak Republic 231</option>
                     <option value="293">Slovenia 293</option>
                     <option value="540">Solomon Islands 540</option>
                     <option value="637">Somalia 637</option>
                     <option value="655">South Africa 655</option>
-                    <option value="450">South Korea 450</option>
+                    <option value="659">South Georgia 659</option>
+                    <option value="630">South Sudan 630</option>
                     <option value="214">Spain 214</option>
-                    <option value="634">Sri Lanka 634</option>
-                    <option value="748">Suriname 748</option>
+                    <option value="514">Sri Lanka 514</option>
+                    <option value="634">Sudan 634</option>
+                    <option value="746">Suriname 746</option>
                     <option value="240">Sweden 240</option>
                     <option value="228">Switzerland 228</option>
                     <option value="417">Syria 417</option>
                     <option value="466">Taiwan 466</option>
                     <option value="640">Tanzania 640</option>
                     <option value="520">Thailand 520</option>
-                    <option value="514">Timor-Leste 514</option>
                     <option value="615">Togo 615</option>
                     <option value="374">Trinidad and Tobago 374</option>
                     <option value="605">Tunisia 605</option>
                     <option value="286">Turkey 286</option>
                     <option value="438">Turkmenistan 438</option>
+                    <option value="376">Turks and Caicos Islands 376</option>
                     <option value="641">Uganda 641</option>
                     <option value="255">Ukraine 255</option>
                     <option value="424">United Arab Emirates 424</option>
-                    <option value="234">United Kingdom 234</option>
+                    <option value="226">United Kingdom 226</option>
                     <option value="310">United States 310</option>
                     <option value="748">Uruguay 748</option>
                     <option value="434">Uzbekistan 434</option>
-                    <option value="541">Vanuatu 541</option>
+                    <option value="548">Vanuatu 548</option>
                     <option value="734">Venezuela 734</option>
                     <option value="452">Vietnam 452</option>
-                    <option value="635">Yemen 635</option>
+                    <option value="421">Yemen 421</option>
                     <option value="645">Zambia 645</option>
                     <option value="648">Zimbabwe 648</option>
                 </select>
-                <button type="submit" name="download_filtered">Download Filtered CSV for Anytone</button>
+                <button type="submit" name="download_filtered_anytone">Download Filtered CSV</button>
             </form>
         </div>
+
+        <div id="download-hd1" class="section">
+            <h2>Generate and Download the Ailunce HD1 DMR-Database</h2>
+            <form action="" method="post">
+                <button type="submit" name="download_all_hd1">Download Full CSV for Ailunce HD1</button>
+            </form>
+            <h2>Generate and Download Dutch DMR Database for Ailunce HD1</h2>
+            <form action="" method="post">
+                <button type="submit" name="download_dutch_hd1">Download Dutch CSV for Ailunce HD1</button>
+            </form>
+        </div>
+
+        <div id="download-tytera" class="section">
+            <h2>Generate and Download the AnyTone D878UV DMR-Database</h2>
+            <form action="" method="post">
+                <button type="submit" name="download_all_anytone">Download Full CSV for AnyTone D878UV</button>
+            </form>
+        </div>
+
         <div id="download-pistar" class="section">
             <h2>Generate and Download the Pi-Star CSV</h2>
             <form action="" method="post">
                 <button type="submit" name="download_pistar">Download DMR-Database for Pi-Star (not done yet)</button>
             </form>
         </div>
-
 
 <div id="download-hamvoip" class="section">
     <h2>Generate and Download Hamvoip Extension Database</h2>
@@ -673,8 +682,6 @@ if (isset($_POST['download_all'])) {
 </div>
 
 
-    </div>
-    
     <script>
         document.getElementById('login-form').addEventListener('submit', function(e) {
             e.preventDefault();
@@ -696,9 +703,6 @@ if (isset($_POST['download_all'])) {
             document.getElementById(sectionId).style.display = 'block';
         }
     </script>
-    <div class="copyright">
-        &copy; 2024 CSV Download Portal by DMR-Database Team. All rights reserved. | <a href="https://github.com/DMR-Database" target="_blank">Visit us on GitHub</a>
-    </div>
 </body>
 </html>
 
