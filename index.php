@@ -430,15 +430,15 @@ if (isset($_POST['download_all'])) {
         </div>
         
         <div id="download-anytone" class="section">
-            <h2>Generate and Download the Anytone DMR-Database</h2>
+            <h2>Generate and Download the Full Anytone DMR-Database</h2>
             <form action="" method="post">
                 <button type="submit" name="download_all_anytone">Download Full CSV for Anytone</button>
             </form>
-            <h2>Generate and Download Dutch DMR-Database for Anytone</h2>
+            <h2>Generate and Download the Dutch DMR-Database for Anytone</h2>
             <form action="" method="post">
                 <button type="submit" name="download_dutch">Download Dutch CSV for Anytone</button>
             </form>
-            <h2>Generate and Download Filtered DMR-Database for Anytone</h2>
+            <h2>Generate and Download a Filtered DMR-Database for Anytone</h2>
             <form action="" method="post">
                 <label for="filter">Select Country</label>
                 <select name="filter" id="filter">
@@ -634,32 +634,37 @@ if (isset($_POST['download_all'])) {
                     <option value="645">Zambia 645</option>
                     <option value="648">Zimbabwe 648</option>
                 </select>
-                <button type="submit" name="download_filtered_anytone">Download Filtered CSV</button>
+                <button type="submit" name="download_filtered">Download Filtered CSV</button>
             </form>
         </div>
 
         <div id="download-hd1" class="section">
-            <h2>Generate and Download the Ailunce HD1 DMR-Database</h2>
+            <h2>Generate and Download the Full Ailunce HD1 DMR-Database</h2>
             <form action="" method="post">
                 <button type="submit" name="download_all_hd1">Download Full CSV for Ailunce HD1</button>
             </form>
-            <h2>Generate and Download Dutch DMR Database for Ailunce HD1</h2>
+            <h2>Generate and Download the Dutch DMR Database for Ailunce HD1</h2>
             <form action="" method="post">
                 <button type="submit" name="download_dutch_hd1">Download Dutch CSV for Ailunce HD1</button>
             </form>
         </div>
 
+
         <div id="download-tytera" class="section">
-            <h2>Generate and Download the AnyTone D878UV DMR-Database</h2>
+            <h2>Generate and Download the Full Tytera MD380/390 DMR-Database</h2>
             <form action="" method="post">
-                <button type="submit" name="download_all_anytone">Download Full CSV for AnyTone D878UV</button>
+                <button type="submit" name="download_all_tytera">Download Full CSV for Tytera MD380/390</button>
+            </form>
+            <h2>Generate and Download the Dutch Tytera MD380/390 DMR-Database</h2>
+	    <form action="" method="post">
+                <button type="submit" name="download_dutch_tytera">Download Dutch CSV for Tytera MD380/390</button>
             </form>
         </div>
 
         <div id="download-pistar" class="section">
-            <h2>Generate and Download the Pi-Star CSV</h2>
+            <h2>Generate and Download the Full Pi-Star/WPSD DMR-Database</h2>
             <form action="" method="post">
-                <button type="submit" name="download_pistar">Download DMR-Database for Pi-Star (not done yet)</button>
+                <button type="submit" name="download_pistar">Download Full CSV for Pi-Star (not done yet)</button>
             </form>
         </div>
 
@@ -703,6 +708,10 @@ if (isset($_POST['download_all'])) {
             document.getElementById(sectionId).style.display = 'block';
         }
     </script>
+    </script>
+    <div class="copyright">
+        &copy; 2024 CSV Download Portal by DMR-Database Team. All rights reserved. | <a href="https://github.com/DMR-Database" target="_blank">Visit us on GitHub</a>
+    </div>
 </body>
 </html>
 
