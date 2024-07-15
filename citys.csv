@@ -24,10 +24,6 @@ CITY,STATE
 't Eind,Noord-Brabant
 't Goy,Utrecht
 't Haantje,Drenthe
-'t Haantje,Overijssel
-'t Haantje,Friesland
-'t Haantje,Zuid-Holland
-'t Haantje,Noord-Brabant
 't Harde,Gelderland
 't Hazeleger,Gelderland
 't Heechhout,Friesland
@@ -44,7 +40,6 @@ CITY,STATE
 't Lage van de Weg,Groningen
 't Leuken,Limburg
 't Loo,Overijssel
-'t Loo,Gelderland
 “ 't Loo Oldebroek”,Gelderland
 't Marktje,Noord-Brabant
 't Noorden,Drenthe
@@ -64,11 +59,6 @@ Ven,Noord-Brabant
 't Woudt,Zuid-Holland
 't Wytfean,Friesland
 't Zand,Noord-Brabant
-'t Zand,Noord-Brabant
-'t Zand,Gelderland
-'t Zand,Gelderland
-'t Zand,Noord-Holland
-'t Zand,Noord-Brabant
 't Zandstervoorwerk,Groningen
 't Zandt,Groningen
 Aadorp,Overijssel
@@ -79,13 +69,9 @@ Aaldonk,Limburg
 Aalsmeer,Noord-Holland
 Aalsmeerderbrug,Noord-Holland
 Aalst,Gelderland
-Aalst,Noord-Brabant
-Aalst,Gelderland
 Aalsum,Groningen
-Aalsum,Friesland
 Aalten,Gelderland
 Aam,Gelderland
-Aan de Berg,Limburg
 Aan de Berg,Limburg
 Aan de Bergen,Limburg
 Aan de Maas,Limburg
@@ -121,16 +107,12 @@ Achter het Klooster,Limburg
 Achterberg,Utrecht
 Achterbos,Utrecht
 Achterbosch,Noord-Brabant
-Achterbosch,Noord-Brabant
 Achterbroek,Zuid-Holland
-Achterbroek,Noord-Brabant
 Achterdiep,Groningen
 Achterdijk,Noord-Brabant
-Achterdijk,Utrecht
 Achterdrempt,Gelderland
 Achtereind,Noord-Brabant
 Achterhoek,Overijssel
-Achterhoek,Gelderland
 Achter-Lindt,Zuid-Holland
 Achterste Brug,Noord-Brabant
 Achterste Diesdonk,Noord-Brabant
@@ -142,14 +124,12 @@ Achterste Rith,Noord-Brabant
 Achterstehoek,Gelderland
 Achter-Thesinge,Groningen
 Achterveld,Gelderland
-Achterveld,Utrecht
 Achterwetering,Utrecht
 Achthoven,Utrecht
 Achthoven-West,Utrecht
 Achthuizen,Zuid-Holland
 Achtmaal,Noord-Brabant
 Achttienhoven,Utrecht
-Achttienhoven,Zuid-Holland
 Acquoy,Gelderland
 Adorp,Groningen
 Aduard,Groningen
@@ -161,7 +141,6 @@ Aerdenhout,Noord-Holland
 Aerdt,Gelderland
 Afferden,Limburg
 “Afferden L.”,Limburg
-Afferden,Gelderland
 Agelo,Overijssel
 Agodorp,Groningen
 Aijen,Limburg
@@ -173,7 +152,6 @@ Akmarijp,Friesland
 Albergen,Overijssel
 Alblasserdam,Zuid-Holland
 Alde Leie,Friesland
-Aldeboarn,Friesland
 Aldeboarn,Friesland
 Ald Terp,Friesland
 Aldtsjerk,Friesland
@@ -196,15 +174,11 @@ Almere-Poort,Flevoland
 Almere-Pampus,Flevoland
 Almkerk,Noord-Brabant
 Alphen,Noord-Brabant
-Alphen,Gelderland
 Alphen aan den Rijn,Zuid-Holland
 Alphen-Oosterwijk,Noord-Brabant
 Altena,Drenthe
 Alteveer,Drenthe
-Alteveer,Drenthe
 “Alteveer gem Hoogeveen”,Drenthe
-Alteveer,Drenthe
-Alteveer,Groningen
 Altforst,Gelderland
 Alting,Drenthe
 Altweert,Limburg
@@ -249,7 +223,6 @@ Annendaal,Limburg
 Annerveenschekanaal,Drenthe
 Anneville,Noord-Brabant
 Anreep,Drenthe
-Ansen,Drenthe
 Ansen,Drenthe
 Apeldoorn,Gelderland
 Apenhuizen,Overijssel
@@ -310,12 +283,8 @@ Baarderburen,Friesland
 Baarland,Zeeland
 Baarle-Nassau,Noord-Brabant
 Baarlo,Limburg
-Baarlo,Overijssel
-Baarlo,Overijssel
 Baarn,Utrecht
 Baars,Overijssel
-Baarschot,Noord-Brabant
-Baarschot,Noord-Brabant
 Baarschot,Noord-Brabant
 Baarsdorp,Zeeland
 Baarstraat,Limburg
@@ -369,9 +338,6 @@ Barrier,Limburg
 Barsbeek,Overijssel
 Barsingerhorn,Noord-Holland
 Bartlehiem,Friesland
-Bartlehiem,Friesland
-Bartlehiem,Friesland
-Bartlehiem,Friesland
 Barwoutswaarder,Utrecht
 Basse,Overijssel
 Basserveld,Overijssel
@@ -388,9 +354,6 @@ Beckum,Overijssel
 Bedaf,Noord-Brabant
 Bedum,Groningen
 Beegden,Limburg
-Beek,Limburg
-Beek,Gelderland
-Beek,Gelderland
 Beek,Limburg
 Beek en Donk,Noord-Brabant
 Beekbergen,Gelderland
@@ -435,7 +398,6 @@ Benderse,Drenthe
 Beneden Veensloot,Groningen
 Benedenberg,Zuid-Holland
 Benedeneind,Noord-Brabant
-Benedeneind,Utrecht
 Beneden-Haastrecht,Zuid-Holland
 Benedenheul,Zuid-Holland
 Benedenkerk,Zuid-Holland
@@ -453,9 +415,6 @@ Bentveld,Noord-Holland
 Benzenrade,Limburg
 Berenbroek,Noord-Brabant
 Berg,Noord-Brabant
-Berg,Limburg
-Berg,Limburg
-Berg,Limburg
 Berg (?),Limburg
 Berg en Dal,Gelderland
 Berg en Terblijt,Limburg
@@ -464,7 +423,6 @@ Bergambacht,Zuid-Holland
 Bergeijk,Noord-Brabant
 Bergen,Noord-Holland
 “Bergen (NH)”,Noord-Holland
-Bergen,Limburg
 “Bergen L”,Limburg
 Bergen aan Zee,Noord-Holland
 Bergen op Zoom,Noord-Brabant
@@ -474,10 +432,7 @@ Bergentheim,Overijssel
 Bergerden,Gelderland
 Bergharen,Gelderland
 Berghem,Limburg
-Berghem,Noord-Brabant
 Berghuizen,Drenthe
-Berghuizen,Gelderland
-Berghuizen,Gelderland
 Berghum,Overijssel
 Bergsche Heide,Limburg
 Bergschenhoek,Zuid-Holland
@@ -491,9 +446,7 @@ Berkelaar,Limburg
 Berkel-Enschot,Noord-Brabant
 Berkenwoude,Zuid-Holland
 Berkhoek,Noord-Brabant
-Berkhoek,Noord-Brabant
 Berkhout,Noord-Holland
-Berkt,Noord-Brabant
 Berkt,Noord-Brabant
 Berlicum,Noord-Brabant
 Berltsum,Friesland
@@ -510,7 +463,6 @@ Beugt,Noord-Brabant
 Beukelaar,Noord-Brabant
 Beuningen,Gelderland
 “Beuningen Gld”,Gelderland
-Beuningen,Overijssel
 Beusbergen,Overijssel
 Beuseberg,Overijssel
 Beusichem,Gelderland
@@ -520,7 +472,6 @@ Beverwijk,Noord-Holland
 Biddinghuizen,Flevoland
 Biert,Zuid-Holland
 Bierum,Groningen
-Biervliet,Zeeland
 Biervliet,Zeeland
 Biesstraat,Limburg
 Biessum,Groningen
@@ -558,7 +509,6 @@ Blaricum,Noord-Holland
 Blauw,Groningen
 Blauwe Hand,Overijssel
 Blauwe Sluis,Noord-Brabant
-Blauwe Sluis,Noord-Brabant
 Blauwenhoek,Noord-Brabant
 Blauwesluis,Gelderland
 Blauwestad,Groningen
@@ -584,7 +534,6 @@ Bloemberg,Drenthe
 Bloemendaal,Noord-Holland
 Blokker,Noord-Holland
 Blokland,Utrecht
-Blokland,Zuid-Holland
 Blokum,Groningen
 Blokzijl,Overijssel
 Boarnwert,Friesland
@@ -597,7 +546,6 @@ Boddenbroek,Limburg
 Bodegraven,Zuid-Holland
 Boeiink,Noord-Brabant
 Boekel,Noord-Brabant
-Boekel,Noord-Holland
 Boekelo,Overijssel
 Boekelte,Friesland
 Boekend,Limburg
@@ -620,7 +568,6 @@ Boksheide,Noord-Brabant
 Boksum,Friesland
 Bokt,Noord-Brabant
 Bolberg,Noord-Brabant
-Bolberg,Noord-Brabant
 Bolenberg,Limburg
 Bollingwier,Friesland
 Bolnes,Zuid-Holland
@@ -629,7 +576,6 @@ Bolst,Noord-Brabant
 Bolsward,Friesland
 Bommelskous,Zuid-Holland
 Bommerig,Limburg
-Bong,Limburg
 Bong,Limburg
 Bonkwert,Friesland
 Bonnerveen,Drenthe
@@ -647,7 +593,6 @@ Boornzwaag over de Wielen,Friesland
 Borculo,Gelderland
 Borger,Drenthe
 Borgercompagnie,Groningen
-Borgercompagnie,Groningen
 Borgertange,Groningen
 Borgerveld,Groningen
 Borgharen,Limburg
@@ -657,7 +602,6 @@ Borkel,Noord-Brabant
 Borkeld,Overijssel
 Born,Limburg
 Borne,Overijssel
-Borne,Noord-Brabant
 Borneo,Noord-Brabant
 Bornerbroek,Overijssel
 Borssele,Zeeland
@@ -668,18 +612,14 @@ Bosch en Duin,Utrecht
 Boscheind,Noord-Brabant
 Boschheurne,Gelderland
 Boschhoven,Noord-Brabant
-Boschhoven,Noord-Brabant
 Boschkens,Noord-Brabant
 Boschoord,Drenthe
 Boshoek,Gelderland
 Boshoven,Noord-Brabant
-Boshoven,Noord-Brabant
-Boshoven,Limburg
 Boshuizen,Limburg
 Bosje,Drenthe
 Boskamp,Overijssel
 Boskant,Noord-Brabant
-Boskant,Gelderland
 Boskoop,Zuid-Holland
 Boslust,Noord-Brabant
 Bosschenhoofd,Noord-Brabant
@@ -706,7 +646,6 @@ Boven-Haastrecht,Zuid-Holland
 Boven-Hardinxveld,Zuid-Holland
 Bovenkarspel,Noord-Holland
 Bovenkerk,Noord-Holland
-Bovenkerk,Zuid-Holland
 Boven-Leeuwen,Gelderland
 Bovenrijge,Groningen
 Bovensluis,Noord-Brabant
@@ -714,17 +653,14 @@ Bovensmilde,Drenthe
 Bovenstad,Zuid-Holland
 Bovenstehuis,Noord-Brabant
 Bovenstreek,Drenthe
-Bovenstreek,Groningen
 Boxmeer,Noord-Brabant
 Boxtel,Noord-Brabant
 Braakhoek,Noord-Brabant
 Braamberg,Overijssel
-Braamberg,Groningen
 Braambos(ch) (?),Noord-Brabant
 Braamt,Gelderland
 Brabander,Limburg
 Brakel,Noord-Brabant
-Brakel,Gelderland
 Brammelo,Overijssel
 Brand,Noord-Brabant
 Brandemolen,Limburg
@@ -762,14 +698,6 @@ Brinkmanshoek,Gelderland
 Britsum,Friesland
 Britswert,Friesland
 Broek,Groningen
-Broek,Friesland
-Broek,Limburg
-Broek,Limburg
-Broek,Noord-Brabant
-Broek,Limburg
-Broek,Limburg
-Broek,Utrecht
-Broek,Friesland
 (Den) Broek (?),Limburg
 Broek in Waterland,Noord-Holland
 Broek op Langedijk,Noord-Holland
@@ -777,21 +705,13 @@ Broekeind,Limburg
 Broekenseind,Noord-Brabant
 Broekheurne,Overijssel
 Broekhoven,Noord-Brabant
-Broekhoven,Limburg
 Broekhuizen,Overijssel
-Broekhuizen,Drenthe
-Broekhuizen,Limburg
-Broekhuizen,Drenthe
 Broekhuizenvorst,Limburg
-Broekkant,Noord-Brabant
-Broekkant,Noord-Brabant
-Broekkant,Noord-Brabant
 Broekkant,Noord-Brabant
 Broekland,Overijssel
 Broeksterwâld,Friesland
 Broekzijde,Noord-Brabant
 Broerdijk,Noord-Holland
-Brommelen,Limburg
 Brommelen,Limburg
 Bronkhorst,Gelderland
 Bronneger,Drenthe
@@ -832,10 +752,8 @@ Bunnik,Utrecht
 Bunschoten-Spakenburg,Utrecht
 Burdaard,Friesland
 Buren,Gelderland
-Buren,Friesland
 Burgemeester Beinsdorp,Groningen
 Burgerbrug,Noord-Holland
-Burgersdijk,Zuid-Holland
 Burgersdijk,Zuid-Holland
 Burgerveen,Noord-Holland
 Burgervlotbrug,Noord-Holland
@@ -847,7 +765,6 @@ Burgum,Friesland
 Burgwerd,Friesland
 Burum,Friesland
 Bus,Noord-Brabant
-Bus,Noord-Brabant
 Bussel,Noord-Brabant
 Busselte,Drenthe
 Bussereind,Limburg
@@ -855,7 +772,6 @@ Bussloo,Gelderland
 Bussum,Noord-Holland
 Buttinga,Friesland
 Buttinge,Zeeland
-Buurmalsen,Gelderland
 Buurmalsen,Gelderland
 Buurse,Overijssel
 Buurtje,Noord-Brabant
@@ -866,7 +782,6 @@ Cadzand,Zeeland
 Cadzand-Bad,Zeeland
 Calfven,Noord-Brabant
 Californië,Limburg
-Californië,Gelderland
 Callantsoog,Noord-Holland
 Calslagen,Noord-Holland
 Caluna,Limburg
@@ -921,7 +836,6 @@ Dal,Limburg
 Daland,Limburg
 Dale,Gelderland
 Dalem,Noord-Brabant
-Dalem,Zuid-Holland
 Dalen,Drenthe
 Dalerend,Drenthe
 Dalerpeel,Drenthe
@@ -939,11 +853,9 @@ De Ryp,Friesland
 De Aa,Noord-Brabant
 De Baan,Noord-Brabant
 De Beek,Noord-Brabant
-De Beek,Gelderland
 De Belt,Overijssel
 De Bente,Drenthe
 De Berg,Noord-Brabant
-De Berg,Limburg
 De Berk,Noord-Brabant
 De Berken,Noord-Brabant
 De Biezen,Noord-Brabant
@@ -958,13 +870,9 @@ De Boer,Noord-Brabant
 De Bolt,Noord-Brabant
 De Bosjes,Gelderland
 De Bree,Zuid-Holland
-De Bree,Utrecht
 De Bruil,Gelderland
-De Bruil,Groningen
 De Buis,Noord-Brabant
 De Bult,Groningen
-De Bult,Overijssel
-De Bus,Noord-Brabant
 De Bus,Noord-Brabant
 De Buurt,Noord-Holland
 De Cocksdorp,Noord-Holland
@@ -989,34 +897,20 @@ De Groep,Utrecht
 De Groeve,Drenthe
 De Haandrik,Overijssel
 De Haar,Drenthe
-De Haar,Gelderland
-De Haar,Drenthe
-De Haar,Overijssel
-De Haar,Drenthe
-De Haar,Groningen
 De Haere,Gelderland
 (De) Haspel,Groningen
 De Heen,Noord-Brabant
 De Hees,Noord-Brabant
-De Hees,Limburg
 De Heiberg,Noord-Brabant
 De Heide,Limburg
 De Hel,Friesland
 De Hem,Zuid-Holland
-De Hem,Zuid-Holland
-De Hem,Friesland
 De Heul,Utrecht
 De Heurne,Gelderland
 De Heuvel,Gelderland
-De Heuvel,Noord-Brabant
 De Heuvels,Overijssel
 De Hilte,Drenthe
 De Hoef,Utrecht
-De Hoef,Noord-Brabant
-De Hoef,Noord-Brabant
-De Hoef,Noord-Brabant
-De Hoef,Noord-Brabant
-De Hoef,Noord-Brabant
 De Hoek,Noord-Brabant
 De Hoeve,Friesland
 De Hoeven,Noord-Brabant
@@ -1025,9 +919,6 @@ De Holm,Groningen
 De Hooge Wegen,Overijssel
 De Horck,Limburg
 De Horst,Gelderland
-De Horst,Gelderland
-De Horst,Drenthe
-De Horst,Limburg
 De Houw,Groningen
 De Hut,Limburg
 De Hutten,Noord-Brabant
@@ -1048,15 +939,12 @@ De Knipe,Friesland
 De Knol,Zeeland
 De Knolle,Friesland
 De Kolk,Friesland
-De Kolk,Overijssel
 De Kolonie,Overijssel
 De Koog,Noord-Holland
 De Kooi,Zuid-Holland
-De Kooi,Friesland
 De Kraan,Noord-Brabant
 De Kraats,Gelderland
 De Krim,Gelderland
-De Krim,Overijssel
 De Krosselt,Limburg
 De Kwakel,Noord-Holland
 De Laan,Noord-Brabant
@@ -1076,12 +964,10 @@ De Lutte,Overijssel
 Lutjeloo,Groningen
 De Maat,Overijssel
 De Mars,Gelderland
-De Mars,Drenthe
 De Marshoek,Overijssel
 De Maten,Groningen
 De Meele,Overijssel
 De Meene,Gelderland
-De Meene,Overijssel
 De Meern,Utrecht
 De Moer,Noord-Brabant
 De Mortel,Noord-Brabant
@@ -1094,11 +980,8 @@ De Overval,Noord-Brabant
 De Paauwen,Groningen
 De Pan,Noord-Brabant
 De Pas,Gelderland
-De Pas,Gelderland
 De Plaats,Noord-Brabant
 De Poffert,Groningen
-De Pol,Overijssel
-De Pol,Drenthe
 De Pol,Overijssel
 De Polle,Drenthe
 De Pollen,Overijssel
@@ -1118,7 +1001,6 @@ De Ruif,Utrecht
 De Ruigewaard,Groningen
 De Rund,Noord-Brabant
 De Schans,Overijssel
-De Schans,Friesland
 De Schatkuil,Gelderland
 De Schietbaan,Noord-Brabant
 (De) Schifpot,Groningen
@@ -1148,12 +1030,9 @@ De Velde,Overijssel
 (De ?) Vleut,Noord-Brabant
 De Voorstad,Noord-Brabant
 De Voort,Noord-Brabant
-De Voort,Limburg
 De Vorst,Noord-Brabant
-De Vorst,Limburg
 De Waal,Noord-Holland
 De Weerd,Limburg
-De Weere,Noord-Holland
 De Weere,Noord-Holland
 De Weijer,Noord-Brabant
 De Wielse Hoeven,Noord-Brabant
@@ -1184,7 +1063,6 @@ Dekeshorst,Limburg
 Dekkershuizen,Groningen
 Delburen,Friesland
 Delden,Gelderland
-Delden,Overijssel
 Deldenerbroek,Overijssel
 Deldeneresch,Overijssel
 Delfgauw,Zuid-Holland
@@ -1199,7 +1077,6 @@ Den Andel,Groningen
 Den Berg,Noord-Brabant
 Den Bommel,Zuid-Holland
 Den Braam,Overijssel
-(Den) Broek (?),Limburg
 Den Burg,Noord-Holland
 Den Deijl,Zuid-Holland
 Den Dolder,Utrecht
@@ -1207,14 +1084,11 @@ Den Dool,Zuid-Holland
 Den Dungen,Noord-Brabant
 Den Haag,Zuid-Holland
 Den Ham,Groningen
-Den Ham,Overijssel
-Den Ham,Groningen
 Den Helder,Noord-Holland
 Den Hoef,Gelderland
 Den Hoek,Noord-Brabant
 Den Hool,Drenthe
 Den Hoorn,Zuid-Holland
-Den Hoorn,Noord-Holland
 Den Horn,Groningen
 Den Hout,Noord-Brabant
 Den Huizen,Overijssel
@@ -1223,7 +1097,6 @@ Den Ilp,Noord-Holland
 Den Kaat,Overijssel
 Den Nul,Overijssel
 Den Oever,Drenthe
-Den Oever,Noord-Holland
 Den Oord,Utrecht
 Den Oosterhuis,Overijssel
 Den Opslag,Noord-Brabant
@@ -1233,7 +1106,6 @@ Den Westerhuis,Overijssel
 Denekamp,Overijssel
 Denemarken,Groningen
 Deurne,Noord-Brabant
-Deurningen,Overijssel
 Deurningen,Overijssel
 Deursen-Dennenburg,Noord-Brabant
 Deurze,Drenthe
@@ -1259,9 +1131,6 @@ Diever,Drenthe
 Dieverbrug,Drenthe
 Diffelen,Overijssel
 Dijk,Noord-Brabant
-Dijk,Limburg
-Dijk,Limburg
-Dijk,Noord-Brabant
 Dijken,Friesland
 Dijkerhoek,Overijssel
 Dijkerstraat,Limburg
@@ -1271,7 +1140,6 @@ Dijkhuizen,Gelderland
 Dijksterburen,Friesland
 Dijkwel,Zeeland
 Dikbroeken,Drenthe
-(De) Dingen,Groningen
 Dinteloord,Noord-Brabant
 Dintelsas,Noord-Brabant
 Dinther,Noord-Brabant
@@ -1306,8 +1174,6 @@ Dongjum,Friesland
 Doniaburen,Friesland
 Doniaga,Friesland
 Donk,Noord-Brabant
-Donk,Limburg
-Donk,Limburg
 Donkerbroek,Friesland
 Donkereind,Utrecht
 Donkersvoort,Noord-Brabant
@@ -1316,7 +1182,6 @@ Doodstil,Groningen
 Doonheide,Noord-Brabant
 Doorn,Utrecht
 Doornenburg,Gelderland
-Doornhoek,Noord-Brabant
 Doornhoek,Noord-Brabant
 Doornik,Gelderland
 Doorning,Gelderland
@@ -1342,32 +1207,21 @@ Drempt,Gelderland
 Dreumel,Gelderland
 Drie,Gelderland
 Drie Hoefijzers,Zeeland
-Drie Hoefijzers,Noord-Brabant
 Driebergen-Rijsenburg,Utrecht
 Drieborg,Groningen
 Driebruggen,Zuid-Holland
 Driedorp,Gelderland
 Drieënhuizen,Gelderland
 Driehoek,Noord-Brabant
-Driehoek,Noord-Brabant
-Driehoek,Noord-Brabant
-Driehoek,Noord-Brabant
-Driehoek,Noord-Brabant
 Driehuis,Noord-Brabant
-Driehuis,Noord-Holland
 “Driehuis NH”,Noord-Holland
 Driehuizen,Noord-Holland
-Driehuizen,Noord-Brabant
-Driehuizen,Noord-Brabant
-Driehuizen,Noord-Brabant
-Driehuizen,Noord-Brabant
 Driel,Gelderland
 Driemond,Noord-Holland
 Driene,Overijssel
 Dries,Limburg
 Drieschouwen,Zeeland
 Driesprong,Gelderland
-Driewegen,Zeeland
 Driewegen,Zeeland
 Driezum,Friesland
 Drijber,Drenthe
@@ -1385,7 +1239,6 @@ Druisdijk,Noord-Brabant
 Drunen,Noord-Brabant
 Druten,Gelderland
 Dubbroek,Limburg
-Duifhuis,Noord-Brabant
 Duifhuis,Noord-Brabant
 Duiksehoef,Noord-Brabant
 Duinen,Gelderland
@@ -1420,7 +1273,6 @@ Ebbenbroek,Overijssel
 Echt,Limburg
 Echteld,Gelderland
 Echten,Drenthe
-Echten,Friesland
 Echtenerbrug,Friesland
 Echterbosch,Limburg
 Eck en Wiel,Gelderland
@@ -1453,7 +1305,6 @@ Eenum,Groningen
 Een-West,Drenthe
 Eerbeek,Gelderland
 Eerde,Overijssel
-Eerde,Noord-Brabant
 Eersel,Noord-Brabant
 Eerste Dwarsdiep,Drenthe
 Ees,Drenthe
@@ -1481,16 +1332,10 @@ Eibergen,Gelderland
 Eijsden,Limburg
 Eikberg,Noord-Brabant
 Eikelenbosch,Noord-Brabant
-Eikelenbosch,Limburg
 Eikelhof,Overijssel
 Eikenheuvel,Noord-Brabant
 Eiland,Limburg
-Eiland,Limburg
-Eiland,Noord-Brabant
 Eimeren,Gelderland
-Eind,Noord-Brabant
-Eind,Limburg
-Eind,Limburg
 Eind,Noord-Brabant
 Eind van Den Hout,Noord-Brabant
 Einde,Limburg
@@ -1524,13 +1369,9 @@ Elsendorp,Noord-Brabant
 Elsenerbroek,Overijssel
 Elshof,Overijssel
 Elshout,Noord-Brabant
-Elshout,Limburg
 Elsloo,Limburg
-Elsloo,Friesland
 Elspeet,Gelderland
 Elst,Noord-Brabant
-Elst,Gelderland
-Elst,Utrecht
 “Elst Ut”,Utrecht
 Elsteren,Limburg
 Elzet,Limburg
@@ -1538,7 +1379,6 @@ Emmaberg,Limburg
 Emmadorp,Zeeland
 Emmeloord,Flevoland
 Emmen,Overijssel
-Emmen,Drenthe
 Emmer-Compascuum,Drenthe
 Emminkhuizen,Utrecht
 Empe,Gelderland
@@ -1548,9 +1388,6 @@ Endepoel,Limburg
 Eng,Noord-Brabant
 Engbergen,Gelderland
 Engeland,Gelderland
-Engeland,Overijssel
-Engeland,Drenthe
-Engeland,Overijssel
 Engelbert,Groningen
 Engelen,Noord-Brabant
 Englum,Groningen
@@ -1587,7 +1424,6 @@ Espel,Flevoland
 Espelo,Overijssel
 Essebroek,Gelderland
 Essen,Gelderland
-Essen,Groningen
 Est,Gelderland
 Esveld,Gelderland
 Etenaken,Limburg
@@ -1599,8 +1435,6 @@ Europoort,Zuid-Holland
 “Europoort Rotterdam”,Zuid-Holland
 Eursing,Drenthe
 Eursinge,Drenthe
-Eursinge,Drenthe
-Eursinge,Drenthe
 Euvelwegen,Noord-Brabant
 Euverem,Limburg
 Evenheuvel,Noord-Brabant
@@ -1611,7 +1445,6 @@ Eversdijk,Zeeland
 Everse,Noord-Brabant
 Evertsoord,Limburg
 Ewer,Groningen
-Ewijk,Gelderland
 Ewijk,Gelderland
 Ewinkel,Noord-Brabant
 Exel,Gelderland
@@ -1712,11 +1545,9 @@ Gauw,Friesland
 Gawege,Zeeland
 Gebergte,Noord-Brabant
 Gebroek,Limburg
-Gebroek,Limburg
 Geefsweer,Groningen
 Geelbroek,Drenthe
 Geeneind,Noord-Brabant
-Geer,Utrecht
 Geer,Utrecht
 Geerdijk,Overijssel
 Geersbroek,Noord-Brabant
@@ -1728,7 +1559,6 @@ Gees,Drenthe
 Geesbrug,Drenthe
 Geestdorp,Utrecht
 Geesteren,Gelderland
-Geesteren,Overijssel
 Geeuwenbrug,Drenthe
 Geffen,Noord-Brabant
 Geijsteren,Limburg
@@ -1791,7 +1621,6 @@ Gijzel,Noord-Brabant
 Gijzenrooi,Noord-Brabant
 Gilze,Noord-Brabant
 Ginderdoor,Noord-Brabant
-Ginderdoor,Noord-Brabant
 Ginnum,Friesland
 Glane,Overijssel
 Glane-Beekhoek,Overijssel
@@ -1809,7 +1638,6 @@ Goirle,Noord-Brabant
 Goldhoorn,Groningen
 Gooium,Friesland
 Goor,Noord-Brabant
-Goor,Overijssel
 Gorinchem,Zuid-Holland
 Gorpeind,Noord-Brabant
 Gorredijk,Friesland
@@ -1826,7 +1654,6 @@ Graaf,Utrecht
 Graafland,Zuid-Holland
 Graauw,Zeeland
 Gracht,Limburg
-Gracht,Friesland
 Gracht Burggraaf,Limburg
 Graetheide,Limburg
 Grafhorst,Overijssel
@@ -1845,7 +1672,6 @@ Greffeling,Gelderland
 Greffelkamp,Gelderland
 Greonterp,Friesland
 Greup,Zuid-Holland
-Greup,Zuid-Holland
 Grevenberg,Drenthe
 Grevenbicht,Limburg
 Griendtsveen,Limburg
@@ -1858,8 +1684,6 @@ Groede,Zeeland
 Groenekan,Utrecht
 Groenendaal,Gelderland
 Groenendijk,Zuid-Holland
-Groenendijk,Zeeland
-Groenendijk,Noord-Brabant
 Groeneweg,Zuid-Holland
 Groenewoud,Noord-Brabant
 Groeningen,Noord-Brabant
@@ -1921,13 +1745,11 @@ Haamstede,Zeeland
 Haanwijk,Noord-Brabant
 Haaren,Noord-Brabant
 Haarle,Overijssel
-Haarle,Overijssel
 Haarlem,Noord-Holland
 Haarlemmerliede,Noord-Holland
 Haarlo,Gelderland
 Haarsteeg,Noord-Brabant
 Haart,Gelderland
-Haart,Noord-Brabant
 Haarzuilens,Utrecht
 Haasdal (?),Limburg
 Haastrecht,Zuid-Holland
@@ -1943,14 +1765,9 @@ Haler,Limburg
 Halfeind,Zeeland
 Halfmijl,Noord-Brabant
 Halfweg,Noord-Holland
-Halfweg,Friesland
-Halfweg,Zuid-Holland
-Halfweg,Zuid-Holland
-Halfweg,Overijssel
 Hall,Gelderland
 Halle,Gelderland
 Halle-Heide,Gelderland
-Halle-Nijman,Gelderland
 Halle-Nijman,Gelderland
 Hallerhoek,Overijssel
 Hallum,Friesland
@@ -1958,7 +1775,6 @@ Hallumerhoeke,Friesland
 Halsteren,Noord-Brabant
 Halte,Noord-Brabant
 Halvinkhuizen,Gelderland
-Ham,Noord-Brabant
 Ham,Noord-Brabant
 Hamdijk,Groningen
 Hamingen,Overijssel
@@ -1969,7 +1785,6 @@ Handel,Noord-Brabant
 Haneburen,Friesland
 Hanenberg,Noord-Brabant
 Hanendorp,Gelderland
-Hank,Noord-Brabant
 Hank,Noord-Brabant
 Hankate,Overijssel
 Hansweert,Zeeland
@@ -1986,7 +1801,6 @@ Harderwijk,Gelderland
 Hardeweer,Groningen
 Hardinxveld-Giessendam,Zuid-Holland
 Haren,Groningen
-Haren,Noord-Brabant
 Harendermolen,Groningen
 Harfsen,Gelderland
 Harich,Friesland
@@ -1995,7 +1809,6 @@ Haring,Noord-Brabant
 Haringhuizen,Noord-Holland
 Harkema,Friesland
 Harkezijl,Friesland
-Harkstede,Groningen
 Harkstede,Groningen
 “Harkstede GN”,Groningen
 Harles,Limburg
@@ -2012,10 +1825,8 @@ Hartwerd,Friesland
 Hasjesstraat,Zeeland
 Haskerdijken,Friesland
 Haskerhorne,Friesland
-(De) Haspel,Groningen
 Haspel,Utrecht
 Hasselt,Limburg
-Hasselt,Overijssel
 Hasselterheide,Limburg
 Hattelaar,Gelderland
 Hattem,Gelderland
@@ -2037,7 +1848,6 @@ Hazerswoude-Dorp,Zuid-Holland
 Hazerswoude-Rijndijk,Zuid-Holland
 Hebrecht,Groningen
 Hedel,Gelderland
-Hedel,Noord-Brabant
 Hedikhuizen,Noord-Brabant
 Hee,Friesland
 Heeg,Friesland
@@ -2051,7 +1861,6 @@ Heelweg,Gelderland
 Heemserveen,Overijssel
 Heemskerk,Noord-Holland
 Heemstede,Noord-Holland
-Heemstede,Utrecht
 Heensche Molen,Noord-Brabant
 Heenvliet,Zuid-Holland
 Heenweg,Zuid-Holland
@@ -2077,7 +1886,6 @@ Heeseind,Noord-Brabant
 Heesselt,Gelderland
 Heeswijk,Noord-Brabant
 Heeswijk-Dinther,Noord-Brabant
-Heeswijk,Utrecht
 Heeten,Overijssel
 Heetveld,Overijssel
 Heeze,Noord-Brabant
@@ -2086,29 +1894,17 @@ Hefswal,Groningen
 Hegebeintum,Friesland
 Hegelsom,Limburg
 Hegge,Gelderland
-Hegge,Limburg
-Hei,Limburg
-Hei,Limburg
 Hei,Limburg
 Hei- en Boeicop,Utrecht
 Heiakker,Limburg
 Heibloem,Limburg
 Heide,Friesland
-Heide,Limburg
 Heide (?),Gelderland
-Heide,Limburg
-Heide,Limburg
-Heide,Limburg
-Heide,Gelderland
-Heide,Limburg
-Heide,Limburg
 Heidehuizen,Friesland
 Heidekant,Gelderland
 Heidenhoek,Gelderland
 Heiderschoor,Noord-Brabant
 Heidveld,Noord-Brabant
-Heieind,Noord-Brabant
-Heieind,Noord-Brabant
 Heieind,Noord-Brabant
 Heiereind,Noord-Brabant
 Heierhoeve,Limburg
@@ -2119,33 +1915,12 @@ Heijen,Limburg
 Heijenrath,Limburg
 Heijningen,Noord-Brabant
 Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Zeeland
-Heikant,Noord-Brabant
-Heikant,Limburg
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
-Heikant,Noord-Brabant
 Heikantse Hoeve,Noord-Brabant
 Heiligeboom,Noord-Brabant
 Heiligerlee,Groningen
 Heilig Landstichting,Gelderland
 Heille,Zeeland
 Heiloo,Noord-Holland
-Heimolen,Noord-Brabant
 Heimolen,Noord-Brabant
 Heineburen,Groningen
 Heinenoord,Zuid-Holland
@@ -2155,7 +1930,6 @@ Heioord,Limburg
 Hei-Oostenrijk,Limburg
 Heische Wal,Noord-Brabant
 Heisterbrug,Limburg
-Heistraat,Noord-Brabant
 Heistraat,Noord-Brabant
 Heitrak,Noord-Brabant
 Heiveld,Gelderland
@@ -2167,11 +1941,9 @@ Helden,Limburg
 Heldensedijk,Limburg
 Helenaveen,Noord-Brabant
 Helhoek,Gelderland
-Helhoek,Zuid-Holland
 Helhuizen,Overijssel
 Helkant,Noord-Brabant
 Hell,Gelderland
-Helle,Limburg
 Helle,Limburg
 Hellebroek,Limburg
 Hellegat,Noord-Brabant
@@ -2197,7 +1969,6 @@ Hendrik-Ido-Ambacht,Zuid-Holland
 Hengeland,Limburg
 Hengelo,Gelderland
 “Hengelo (Gld)”,Gelderland
-Hengelo,Overijssel
 Hengevelde,Overijssel
 Hengforden,Overijssel
 Hengstdijk,Zeeland
@@ -2231,7 +2002,6 @@ Het Beggelder,Gelderland
 Het Beijersche,Zuid-Holland
 Het Bosch,Noord-Brabant
 Het Broek,Gelderland
-Het Broek,Noord-Brabant
 Het Goordonk,Noord-Brabant
 Het Heike,Noord-Brabant
 Het Hoekske,Noord-Brabant
@@ -2241,13 +2011,11 @@ Het Loo,Overijssel
 Het Moer,Drenthe
 Het Oosteind,Noord-Brabant
 Het Oudeland,Zeeland
-Het Oudeland,Zeeland
 Het Reidland,Groningen
 Het Sas,Noord-Brabant
 Het Schier,Drenthe
 Het Stift,Overijssel
 Het Veen,Groningen
-Ven,Noord-Brabant
 Het Vonderen,Limburg
 Het Vorst,Limburg
 Het Westeinde,Noord-Holland
@@ -2255,17 +2023,12 @@ Het Wild,Noord-Brabant
 Heteren,Gelderland
 Heugde,Limburg
 Heukelom,Limburg
-Heukelom,Noord-Brabant
 Heukelum,Gelderland
 Heult,Noord-Brabant
 Heumen,Gelderland
 Heure,Gelderland
 Heurne,Gelderland
-Heurne,Gelderland
 Heusden,Noord-Brabant
-Heusden,Noord-Brabant
-Heuvel,Noord-Brabant
-Heuvel,Noord-Brabant
 Heuvel,Noord-Brabant
 Heuvelberg,Noord-Brabant
 Heuvelstraat,Noord-Brabant
@@ -2274,7 +2037,6 @@ Heuven,Gelderland
 Heveadorp,Gelderland
 Hexel,Overijssel
 Heythuysen,Limburg
-Hezelaar,Noord-Brabant
 Hezelaar,Noord-Brabant
 Hezingen,Overijssel
 Hiaure,Friesland
@@ -2313,12 +2075,6 @@ Hoef,Gelderland
 Hoef en Haag,Utrecht
 Hoefkens,Noord-Brabant
 Hoek,Gelderland
-Hoek,Friesland
-Hoek,Limburg
-Hoek,Noord-Brabant
-Hoek,Zeeland
-Hoek,Noord-Brabant
-Hoek,Noord-Brabant
 Hoek van de Dijk,Zeeland
 Hoek van Holland,Zuid-Holland
 Hoekdries,Noord-Brabant
@@ -2329,23 +2085,15 @@ Hoekje,Groningen
 Hoekske,Noord-Brabant
 Hoeksmeer,Groningen
 Hoenderloo,Gelderland
-Hoenderloo,Gelderland
 Hoenkoop,Utrecht
 Hoensbroek,Limburg
 Hoenzadriel,Gelderland
 Hoetmansmeer,Groningen
 Hoeve,Limburg
-Hoeve,Gelderland
-Hoeve,Gelderland
-Hoeve,Noord-Brabant
 Hoevelaken,Gelderland
-Hoeven,Noord-Brabant
-Hoeven,Noord-Brabant
-Hoeven,Limburg
 Hoeven,Noord-Brabant
 Hoeves,Noord-Brabant
 Hoevestein,Noord-Brabant
-'t Hof (?),Gelderland
 Hof,Limburg
 Höfke,Limburg
 Hoge Enk,Gelderland
@@ -2369,13 +2117,11 @@ Holst,Limburg
 Holt,Overijssel
 Holte,Groningen
 Holten,Overijssel
-Holten,Overijssel
 Holterhoek,Gelderland
 Holthe,Drenthe
 Holthees,Noord-Brabant
 Holtheme,Overijssel
 Holthone,Overijssel
-Holthuizen,Gelderland
 Holthuizen,Gelderland
 Holtien,Drenthe
 Holtinge,Drenthe
@@ -2387,7 +2133,6 @@ Holwinde,Groningen
 Holysloot,Noord-Holland
 Homberg,Limburg
 Hommelse Hoeven,Noord-Brabant
-Hommert,Limburg
 Hommert,Limburg
 Hommerts,Friesland
 Homoet,Gelderland
@@ -2409,7 +2154,6 @@ Hoog Spul,Noord-Brabant
 Hoog Zuthem,Overijssel
 Hoogblokland,Zuid-Holland
 Hoogbroek,Gelderland
-Hoogbroek,Gelderland
 Hoog-Caestert,Limburg
 Hoogcasteren,Noord-Brabant
 Hoogcruts,Limburg
@@ -2423,18 +2167,12 @@ Hoogedijk,Zeeland
 Hoogeduurswoude,Friesland
 Hoogehaar,Drenthe
 Hoogeind,Noord-Brabant
-Hoogeind,Noord-Brabant
-Hoogeind,Noord-Brabant
-Hoogeind,Noord-Brabant
-Hoogeind,Utrecht
-Hoogeind,Noord-Brabant
 Hoogelande,Zeeland
 Hoogeloon,Noord-Brabant
 Hoogen-Aarle,Noord-Brabant
 Hoogengraven,Overijssel
 Hoogenweg,Overijssel
 Hoogerheide,Noord-Brabant
-Hoogersmilde,Drenthe
 Hoogersmilde,Drenthe
 Hoogeveen,Drenthe
 Hoogeweg,Zeeland
@@ -2450,7 +2188,6 @@ Hoogmade,Zuid-Holland
 Hoogmeien,Gelderland
 Hoogriebroek,Limburg
 Hoogstraat,Noord-Brabant
-Hoogstraat,Limburg
 Hoogveld,Noord-Brabant
 Hoogvliet,Zuid-Holland
 “Hoogvliet Rotterdam”,Zuid-Holland
@@ -2462,10 +2199,6 @@ Hool,Noord-Brabant
 Hoonhorst,Overijssel
 Hoonte,Gelderland
 Hoorn,Zuid-Holland
-Hoorn,Groningen
-Hoorn,Gelderland
-Hoorn,Noord-Holland
-Hoorn,Friesland
 Hoornaar,Zuid-Holland
 Hoornderveen,Groningen
 Hoornerveen,Gelderland
@@ -2474,17 +2207,13 @@ Hoornsterzwaag,Friesland
 Hoptille,Friesland
 Horick,Limburg
 Horn,Limburg
-Horn,Noord-Holland
 Hornhuizen,Groningen
 Horssen,Gelderland
 Horst,Gelderland
-Horst,Noord-Brabant
-Horst,Limburg
 Horsten,Groningen
 Horsthoek,Gelderland
 Horzik,Noord-Brabant
 Hout,Noord-Brabant
-Hout,Limburg
 Hout-Blerick,Limburg
 Houtbroek,Limburg
 Houtdorp,Gelderland
@@ -2508,7 +2237,6 @@ Huis ter Heide,Utrecht
 Huisduinen,Noord-Holland
 Huisseling,Noord-Brabant
 Huissen,Gelderland
-Huis ter Heide,Drenthe
 Huisvennen,Noord-Brabant
 Huize Padua,Noord-Brabant
 Huizen,Noord-Holland
@@ -2521,8 +2249,6 @@ Hulsberg,Limburg
 Hulsdonk,Noord-Brabant
 Hulsel,Noord-Brabant
 Hulsen,Overijssel
-Hulsen,Limburg
-Hulsen,Limburg
 Hulshorst,Gelderland
 Hulst,Zeeland
 Hulten,Noord-Brabant
@@ -2625,7 +2351,6 @@ Kade,Noord-Brabant
 Kadijk,Zuid-Holland
 Kadoelen,Overijssel
 Kalenberg,Drenthe
-Kalenberg,Overijssel
 Kalishoek,Noord-Brabant
 Kalkwijk,Groningen
 Kallenbroek,Gelderland
@@ -2635,10 +2360,7 @@ Kalverdijk,Noord-Holland
 Kameren,Noord-Brabant
 Kamerik,Utrecht
 Kamp,Limburg
-Kamp,Limburg
 Kampen,Zeeland
-Kampen,Overijssel
-Kampen,Friesland
 Kampereiland,Overijssel
 Kamperhoek,Zeeland
 Kamperland,Zeeland
@@ -2651,12 +2373,9 @@ Kanis,Utrecht
 Kantens,Groningen
 Kantje,Noord-Brabant
 Kapel,Noord-Holland
-Kapel,Gelderland
-Kapel-Avezaath,Gelderland
 Kapel-Avezaath,Gelderland
 “Kapel Avezaath”,Gelderland
 Kapeleind,Noord-Brabant
-Kapelle,Zeeland
 Kapelle,Zeeland
 Kapellebrug,Zeeland
 Kapolder,Limburg
@@ -2676,7 +2395,6 @@ Kattenberg,Noord-Brabant
 Kattendijke,Zeeland
 Katwijk,Noord-Brabant
 “Katwijk NB”,Noord-Brabant
-Katwijk,Zuid-Holland
 Katwijk aan den Rijn,Zuid-Holland
 Katwijk aan Zee,Zuid-Holland
 Katwijkerlaan,Zuid-Holland
@@ -2687,7 +2405,6 @@ Kaweide,Noord-Brabant
 Keatlingwier,Friesland
 Kedichem,Utrecht
 Keent,Noord-Brabant
-Keent,Limburg
 Keersop,Noord-Brabant
 Keiendorp,Overijssel
 Keijenborg,Gelderland
@@ -2696,21 +2413,16 @@ Keizerrijk,Zeeland
 Keizersdijk,Zuid-Holland
 Keizershoek,Noord-Brabant
 Keizersveer,Noord-Brabant
-Keizersveer,Noord-Brabant
 Kekerdom,Gelderland
 Keldonk,Noord-Brabant
 Kelmond,Limburg
 Kelpen,Limburg
 Kelpen-Oler,Limburg
 Kerk-Avezaath,Gelderland
-Kerk-Avezaath,Gelderland
 “Kerk Avezaath”,Gelderland
 Kerkbuurt,Noord-Holland
-Kerkbuurt,Zuid-Holland
 Kerkdorp,Gelderland
 Kerkdriel,Gelderland
-Kerkeind,Noord-Brabant
-Kerkeind,Noord-Brabant
 Kerkeind,Noord-Brabant
 Kerkeinde,Noord-Brabant
 Kerkenveld,Drenthe
@@ -2721,7 +2433,6 @@ Kerkwerve,Zeeland
 Kerkwijk,Gelderland
 Keske,Noord-Brabant
 Kessel,Noord-Brabant
-Kessel,Limburg
 Kesseleik,Limburg
 Kesteren,Gelderland
 Ketelhaven,Flevoland
@@ -2743,7 +2454,6 @@ Kievitswaard,Noord-Brabant
 Kijfhoek,Zuid-Holland
 Kijfwaard,Gelderland
 Kijkuit,Noord-Brabant
-Kijkuit,Zeeland
 Kilder,Gelderland
 Kille,Noord-Brabant
 Kimswerd,Friesland
@@ -2757,7 +2467,6 @@ Kivitsbraak,Noord-Brabant
 Klaarstraat,Limburg
 Klaaswaal,Zuid-Holland
 Kladde,Noord-Brabant
-Klarenbeek,Gelderland
 Klarenbeek,Gelderland
 Klatering,Drenthe
 Klazienaveen,Drenthe
@@ -2785,7 +2494,6 @@ Kleinder-Liempde,Noord-Brabant
 Klein-Doenrade,Limburg
 Klein-Dongen,Noord-Brabant
 Kleindorp,Gelderland
-Kleindorp,Limburg
 Kleine Bottel,Noord-Brabant
 Kleine Gaastmeer,Friesland
 Kleine Horst,Limburg
@@ -2814,13 +2522,10 @@ Klimmen,Limburg
 Klinkenberg,Gelderland
 Klispoel,Gelderland
 Kloetinge,Zeeland
-Kloetinge,Zeeland
 Klooster,Noord-Brabant
-Klooster,Drenthe
 Klooster Lidlum,Friesland
 Kloosterburen,Groningen
 Kloostereind,Noord-Brabant
-Kloosterhaar,Overijssel
 Kloosterhaar,Overijssel
 Kloosterveen,Drenthe
 Kloosterzande,Zeeland
@@ -2834,15 +2539,12 @@ Knuitershoek,Zeeland
 Koarnjum,Friesland
 Kockengen,Utrecht
 Koedijk,Noord-Holland
-Koedijk,Noord-Holland
 Koedood,Zuid-Holland
 Koehool,Friesland
 Koekange,Drenthe
 Koekangerveld,Drenthe
 Koekoek,Limburg
-Koekoek,Zeeland
 Koelveen,Drenthe
-Koevering,Noord-Brabant
 Koevering,Noord-Brabant
 Koewacht,Zeeland
 Kokkelert,Limburg
@@ -2868,7 +2570,6 @@ Kooihuizen,Friesland
 Kooiwijk,Zuid-Holland
 Kooldert,Noord-Brabant
 Koolwijk,Zuid-Holland
-Koolwijk,Noord-Brabant
 Kootstertille,Friesland
 Kootwijk,Gelderland
 Kootwijkerbroek,Gelderland
@@ -2876,11 +2577,9 @@ Kop van 't Land,Zuid-Holland
 Kopaf,Groningen
 Kopstukken,Groningen
 Korengarst,Groningen
-Korengarst,Groningen
 Korhorn,Groningen
 Korn,Noord-Brabant
 Kornhorn,Groningen
-Kornwerderzand,Friesland
 Kornwerderzand,Friesland
 Korte Akkers,Groningen
 Korte Heide,Limburg
@@ -2919,7 +2618,6 @@ Krabbenhoek,Zeeland
 Krachtighuizen,Gelderland
 Kraggenburg,Flevoland
 Kraloo,Drenthe
-Kraloo,Drenthe
 Kranenbroek,Noord-Brabant
 Kranenburg,Gelderland
 Kranendijk,Zuid-Holland
@@ -2955,11 +2653,7 @@ Kruisland,Noord-Brabant
 Kruispolderhaven,Zeeland
 Kruispunt,Noord-Brabant
 Kruisstraat,Noord-Brabant
-Kruisstraat,Noord-Brabant
-Kruisstraat,Noord-Brabant
-Kruisstraat,Noord-Brabant
 Kruisweg,Groningen
-Kruisweg,Zuid-Holland
 Kûbaard,Friesland
 Kudelstaart,Noord-Holland
 Kuikhorne,Friesland
@@ -2983,7 +2677,6 @@ Kwadendamme,Zeeland
 Kwadijk,Noord-Holland
 Kwakkel,Zeeland
 Kwartier,Noord-Brabant
-Kwartier,Gelderland
 Kwintsheul,Zuid-Holland
 Laag Spul,Noord-Brabant
 Laag Zuthem,Overijssel
@@ -2999,15 +2692,8 @@ Laagnieuwkoop,Utrecht
 Laagriebroek,Limburg
 Laag-Soeren,Gelderland
 Laagstraat,Noord-Brabant
-Laagstraat,Noord-Brabant
 Laak,Gelderland
 Laar,Noord-Brabant
-Laar,Noord-Brabant
-Laar,Noord-Brabant
-Laar,Limburg
-Laar,Limburg
-Laar,Noord-Brabant
-Laar,Limburg
 Laarbroek,Noord-Brabant
 Laareind,Utrecht
 Laarstraat,Gelderland
@@ -3024,11 +2710,9 @@ Lagebiezen,Noord-Brabant
 Lagebroek,Utrecht
 Lagekant,Noord-Brabant
 Lageland,Groningen
-Lageland,Groningen
 “Lageland GN”,Groningen
 Lagenheuvel,Noord-Brabant
 Lage Vuursche,Utrecht
-Lageweg,Groningen
 l'Air Pur,Noord-Brabant
 Lakei,Limburg
 Lakerveld,Utrecht
@@ -3052,16 +2736,12 @@ Lange Linschoten,Utrecht
 Langedijke(n),Friesland
 Langelille,Friesland
 Langelo,Overijssel
-Langelo,Drenthe
 Langenberg,Noord-Brabant
 Langenboom,Noord-Brabant
-Langendijk,Noord-Brabant
 Langendijk,Noord-Brabant
 Langenholte,Overijssel
 Langeraar,Zuid-Holland
 Langerak,Drenthe
-Langerak,Gelderland
-Langerak,Zuid-Holland
 Langereit,Noord-Brabant
 Langeschouw,Noord-Brabant
 Langeveen,Overijssel
@@ -3070,14 +2750,11 @@ Langeweg,Noord-Brabant
 Langeweide,Zuid-Holland
 Langezwaag,Friesland
 Langlaar,Noord-Brabant
-(De) Langstraat (?),Zuid-Holland
 Langstraat,Limburg
 Langweer,Friesland
 Lankes,Noord-Brabant
 Lankhorst,Overijssel
 Laren,Noord-Holland
-Laren,Gelderland
-(De) Laren (?),Noord-Brabant
 Laskwerd,Groningen
 Lathum,Gelderland
 Lattrop,Overijssel
@@ -3107,7 +2784,6 @@ Leeuw,Limburg
 Leeuwarden,Friesland
 Leeuwerik,Limburg
 Leeuwte,Drenthe
-Leeuwte,Overijssel
 Leg,Noord-Brabant
 Legemeer,Friesland
 Legert,Limburg
@@ -3142,7 +2818,6 @@ Leur,Gelderland
 Leusden,Utrecht
 Leusden-Zuid,Utrecht
 Leutes,Gelderland
-Leutes,Gelderland
 Leuth,Gelderland
 Leutingewolde,Drenthe
 Leuven,Gelderland
@@ -3161,13 +2836,11 @@ Lichtmis,Overijssel
 Liefkenshoek,Noord-Brabant
 Liempde,Noord-Brabant
 Lienden,Gelderland
-Lienden,Gelderland
 Lierderholthuis,Overijssel
 Lieren,Gelderland
 Lierhand,Zuid-Holland
 Lierop,Noord-Brabant
 Lies,Noord-Brabant
-Lies,Friesland
 Lieseind,Noord-Brabant
 Lieshout,Noord-Brabant
 Liessel,Noord-Brabant
@@ -3177,15 +2850,11 @@ Lieveren,Drenthe
 Lieving,Drenthe
 Ligtenberg,Overijssel
 Lijnden,Noord-Holland
-Lijnden,Gelderland
 Lijndonk,Noord-Brabant
 Lijtshuizen,Friesland
 Limbricht,Limburg
 Limmen,Noord-Holland
 Linde,Gelderland
-Linde,Drenthe
-Linde,Overijssel
-Linde,Overijssel
 Linden,Noord-Brabant
 Lingsfort,Limburg
 Linne,Limburg
@@ -3204,7 +2873,6 @@ Lochem,Gelderland
 Locht,Noord-Brabant
 Lochuizen,Gelderland
 Loenen,Gelderland
-Loenen,Gelderland
 Loenen aan de Vecht,Utrecht
 Loenersloot,Utrecht
 Loënga,Friesland
@@ -3217,15 +2885,7 @@ Lomm,Limburg
 Longerhouw,Friesland
 Lonneker,Overijssel
 Loo,Noord-Brabant
-Loo,Gelderland
-Loo,Gelderland
 “Loo Gld”,Gelderland
-Loo,Gelderland
-“Loo Gld”,Gelderland
-Loo,Noord-Brabant
-Loo,Overijssel
-Loo,Limburg
-Loo,Noord-Brabant
 Loobeek,Limburg
 Loobrink,Gelderland
 Looieind,Noord-Brabant
@@ -3233,7 +2893,6 @@ Looienhoek,Noord-Brabant
 Looiwinkel,Limburg
 Look,Overijssel
 Loon,Drenthe
-Loon,Noord-Brabant
 Loon op Zand,Noord-Brabant
 Looneind,Noord-Brabant
 Loons Hoekje,Noord-Brabant
@@ -3251,8 +2910,6 @@ Losdorp,Groningen
 Losser,Overijssel
 Lottum,Limburg
 Lovendaal,Limburg
-Loveren,Noord-Brabant
-Loveren,Noord-Brabant
 Loveren,Noord-Brabant
 Lubbinge,Drenthe
 Lucaswolde,Groningen
@@ -3307,7 +2964,6 @@ Maasbracht,Limburg
 Maasbree,Limburg
 Maasdam,Zuid-Holland
 Maasdijk,Zuid-Holland
-Maasdijk,Zuid-Holland
 Maashees,Noord-Brabant
 Maaskant,Noord-Brabant
 Maaskantje,Noord-Brabant
@@ -3323,8 +2979,6 @@ Made,Noord-Brabant
 Magele,Overijssel
 Magrette,Zeeland
 Makkinga,Friesland
-Makkum,Friesland
-Makkum,Drenthe
 Makkum,Friesland
 Malden,Gelderland
 Malland,Zeeland
@@ -3343,7 +2997,6 @@ Mariadorp,Limburg
 Maria-Heide,Noord-Brabant
 Mariahout,Noord-Brabant
 Mariaparochie,Overijssel
-Mariaparochie,Overijssel
 Mariënberg,Overijssel
 Mariëndijk,Zuid-Holland
 Mariënheem,Overijssel
@@ -3357,15 +3010,12 @@ Markluiden,Gelderland
 Marknesse,Flevoland
 Markvelde,Overijssel
 Marle,Overijssel
-Marle,Overijssel
 Marolleput,Zeeland
 Marrum,Friesland
 Marsum,Groningen
-Marsum,Friesland
 Martenshoek,Groningen
 Marum,Groningen
 Marwijksoord,Drenthe
-Mastenbroek,Overijssel
 Mastenbroek,Overijssel
 Mastwijk,Utrecht
 Mataram,Overijssel
@@ -3382,7 +3032,6 @@ Meeden,Groningen
 Meedhuizen,Groningen
 Meemortel,Noord-Brabant
 Meer,Noord-Brabant
-Meer,Overijssel
 Meeren,Noord-Brabant
 Meerenbroek,Gelderland
 Meerkerk,Utrecht
@@ -3401,8 +3050,6 @@ Megchelen,Gelderland
 Megelsum,Limburg
 Megen,Noord-Brabant
 Meije,Zuid-Holland
-Meije,Zuid-Holland
-Meije,Utrecht
 Meijel,Limburg
 Meijldoorn,Noord-Brabant
 Meijsberg,Noord-Brabant
@@ -3423,7 +3070,6 @@ Merkelbeek,Limburg
 Merlenberg,Noord-Brabant
 Merselo,Limburg
 Merum,Groningen
-Merum,Limburg
 Mesch,Limburg
 Meteren,Gelderland
 Meterik,Limburg
@@ -3436,7 +3082,6 @@ Middelbeers,Noord-Brabant
 Middelbert,Groningen
 Middelburen,Friesland
 Middelburg,Zuid-Holland
-Middelburg,Zeeland
 Middeldijk (?),Zuid-Holland
 Middelharnis,Zuid-Holland
 Middelie,Noord-Holland
@@ -3448,7 +3093,6 @@ Middelstum,Groningen
 Middelveen,Drenthe
 Middenbeemster,Noord-Holland
 Middendorp,Drenthe
-Middendorp,Drenthe
 Middenhof,Zeeland
 Middenmeer,Noord-Holland
 Midlaren,Drenthe
@@ -3458,7 +3102,6 @@ Midsland aan Zee,Friesland
 Midwolda,Groningen
 Midwolde,Groningen
 Midwoud,Noord-Holland
-Miedum,Friesland
 Miedum,Friesland
 Mierlo,Noord-Brabant
 Mijdrecht,Utrecht
@@ -3473,7 +3116,6 @@ Millingen aan de Rijn,Gelderland
 Milsbeek,Limburg
 Milschot,Noord-Brabant
 Milt,Gelderland
-Mingersberg,Limburg
 Mingersberg,Limburg
 Minkeloos,Zuid-Holland
 Minnertsga,Friesland
@@ -3498,18 +3140,8 @@ Molenbaan,Limburg
 Molenbelt,Overijssel
 Molenbuurt,Utrecht
 Moleneind,Noord-Brabant
-Moleneind,Limburg
-Moleneind,Noord-Brabant
-Moleneind,Noord-Brabant
-Moleneind,Gelderland
 Molengat,Noord-Brabant
 Molenhoek,Gelderland
-Molenhoek,Gelderland
-Molenhoek,Gelderland
-Molenhoek,Zeeland
-Molenhoek,Limburg
-Molenhoek,Overijssel
-Molenhoek,Limburg
 Molenhof,Noord-Brabant
 Molenhuizen,Limburg
 Molenperk,Zeeland
@@ -3517,7 +3149,6 @@ Molenpolder,Utrecht
 Molenrij,Groningen
 Molenschot,Noord-Brabant
 Molenstad,Drenthe
-Molenstraat,Noord-Brabant
 Molenstraat,Noord-Brabant
 Molenveld,Noord-Brabant
 Molenvliet,Zeeland
@@ -3544,7 +3175,6 @@ Mosbulten,Noord-Brabant
 Mosik,Noord-Brabant
 Moskou,Friesland
 Mossel,Gelderland
-Mossel,Gelderland
 Mosselaar,Noord-Brabant
 Mosselhoek,Zeeland
 Most,Limburg
@@ -3562,7 +3192,6 @@ Mun,Noord-Brabant
 Mûnein,Friesland
 Munnekeburen,Friesland
 Munnekemoer,Groningen
-Munnekens-Vinkel,Noord-Brabant
 Munnekens-Vinkel,Noord-Brabant
 Munnekezijl,Friesland
 Munnikenheide,Noord-Brabant
@@ -3612,10 +3241,7 @@ Neerstraat,Noord-Brabant
 Negenhuizen,Zuid-Holland
 Nekkeveld,Gelderland
 Nergena,Noord-Brabant
-Nergena,Gelderland
 Nerhoven,Noord-Brabant
-Nes,Friesland
-Nes,Friesland
 Nes,Friesland
 Nes aan de Amstel,Noord-Holland
 Nessersluis,Utrecht
@@ -3625,7 +3251,6 @@ Netterden,Gelderland
 Nibbixwoud,Noord-Holland
 Niebert,Groningen
 Niehove,Groningen
-Niekerk,Groningen
 Niekerk,Groningen
 Niemeskant,Noord-Brabant
 Nierhoven,Limburg
@@ -3665,18 +3290,14 @@ Nieuwe Strumpt,Noord-Brabant
 Nieuwe-Tonge,Zuid-Holland
 Nieuwe Vaart,Friesland
 Nieuwe Wetering,Zuid-Holland
-Nieuwe Wetering,Overijssel
 Nieuwebildtzijl,Friesland
 Nieuwebrug,Overijssel
-Nieuwebrug,Friesland
 Nieuwediep,Drenthe
 Nieuwegein,Utrecht
 Nieuwehorne,Friesland
 Nieuwemolen,Noord-Brabant
-Nieuwemolen,Zeeland
 Nieuwenberg,Noord-Brabant
 Nieuwendijk,Zuid-Holland
-Nieuwendijk,Noord-Brabant
 Nieuwenhagen,Limburg
 Nieuwenhoorn,Zuid-Holland
 Nieuwerbrug aan den Rijn (?),Zuid-Holland
@@ -3684,7 +3305,6 @@ Nieuwerhoek,Utrecht
 Nieuwerkerk,Zeeland
 Nieuwerkerk aan den IJssel,Zuid-Holland
 Nieuwerkerke (Schutje),Zeeland
-Nieuweroord,Drenthe
 Nieuweroord,Drenthe
 Nieuwersluis,Utrecht
 Nieuwer Ter Aa,Utrecht
@@ -3703,9 +3323,6 @@ Nieuwklap,Groningen
 Nieuwkoop,Zuid-Holland
 Nieuwkuijk,Noord-Brabant
 Nieuwland,Zeeland
-Nieuwland,Utrecht
-Nieuwland,Friesland
-Nieuwlande,Drenthe
 Nieuwlande,Drenthe
 “Nieuwlande Coevorden”,Drenthe
 Nieuwlandse Molen,Zeeland
@@ -3719,10 +3336,8 @@ Nieuwolda-Oost,Groningen
 Nieuwpoort,Zuid-Holland
 Nieuw-Reemst,Gelderland
 Nieuw-Roden,Drenthe
-Nieuw Scheemda,Groningen
 Nieuw-Schoonebeek,Drenthe
 Nieuwstad,Groningen
-Nieuwstad,Overijssel
 Nieuwstadt,Limburg
 Nieuwveen,Zuid-Holland
 Nieuw-Vennep,Noord-Holland
@@ -3745,7 +3360,6 @@ Nijeholtpade,Friesland
 Nijeholtwolde,Friesland
 Nijelamer,Friesland
 Nijemirdum,Friesland
-Nijenklooster,Groningen
 Nijenklooster,Groningen
 Nijensleek,Drenthe
 Nijetrijne,Friesland
@@ -3775,7 +3389,6 @@ Noenes,Noord-Brabant
 Noetsele,Overijssel
 Nolde,Drenthe
 Nooitgedacht,Drenthe
-Nooitgedacht,Groningen
 Noorbeek,Limburg
 Noord,Noord-Brabant
 Noord Deurningen,Overijssel
@@ -3786,11 +3399,7 @@ Noordbroeksterhamrik,Groningen
 Noorddijk,Groningen
 Noordeind,Friesland
 Noordeinde,Noord-Holland
-Noordeinde,Zeeland
-Noordeinde,Zuid-Holland
-Noordeinde,Gelderland
 “Noordeinde Gld”,Gelderland
-Noordeinde,Utrecht
 Noordeloos,Zuid-Holland
 Noord-Empe,Gelderland
 Noorden,Zuid-Holland
@@ -3799,12 +3408,10 @@ Noorderhoogebrug,Groningen
 Noorderkolonie,Groningen
 Noordgouwe,Zeeland
 Noordhoek,Noord-Brabant
-Noordhoek,Noord-Brabant
 Noordhorn,Groningen
 Noordhornerga,Groningen
 Noordhornertolhek,Groningen
 Noordijk,Gelderland
-Noordijk,Overijssel
 Noordink,Gelderland
 Noordkant,Noord-Brabant
 Noordlaren,Groningen
@@ -3820,13 +3427,10 @@ Noord-Stegeren,Overijssel
 Noordstraat,Zeeland
 Noordwelle,Zeeland
 Noordwijk,Drenthe
-Noordwijk,Groningen
-Noordwijk,Zuid-Holland
 Noordwijk aan Zee,Zuid-Holland
 Noordwijk-Binnen,Zuid-Holland
 Noordwijkerhout,Zuid-Holland
 Noordwolde,Groningen
-Noordwolde,Friesland
 Noordwolde-zuid,Friesland
 Noordzijde,Zuid-Holland
 Nootdorp,Zuid-Holland
@@ -3856,7 +3460,6 @@ Ockhuizen,Utrecht
 Odijk,Utrecht
 Odiliapeel,Noord-Brabant
 Odoorn,Drenthe
-Odoorn,Drenthe
 Oeffelt,Noord-Brabant
 Oegstgeest,Zuid-Holland
 Oeijenbraak,Noord-Brabant
@@ -3865,8 +3468,6 @@ Oeken,Gelderland
 Oele,Overijssel
 Oene,Gelderland
 Oensel,Gelderland
-Oensel,Gelderland
-Oensel,Limburg
 Oentsjerk,Friesland
 Oerle,Noord-Brabant
 Oetelaar,Noord-Brabant
@@ -3875,7 +3476,6 @@ Offingawier,Friesland
 Ofwegen,Zuid-Holland
 Ohé en Laak,Limburg
 Oijen,Noord-Brabant
-Oijen,Limburg
 Oirlo,Limburg
 Oirsbeek,Limburg
 Oirschot,Noord-Brabant
@@ -3899,11 +3499,9 @@ Oldenhave,Drenthe
 Oldenklooster,Groningen
 Oldenzaal,Overijssel
 Oldenzijl,Groningen
-Oldenzijl,Groningen
 Oldeouwer,Friesland
 Oldetrijne,Friesland
 Oldörp,Groningen
-Olen,Noord-Brabant
 Olen,Noord-Brabant
 Oler,Limburg
 Oling,Groningen
@@ -3925,7 +3523,6 @@ Onnen,Groningen
 Onsenoort,Noord-Brabant
 Onstwedde,Groningen
 Ooij,Gelderland
-Ooij,Gelderland
 Ooijen,Limburg
 Ool,Limburg
 Oolde,Gelderland
@@ -3938,14 +3535,8 @@ Oostburg,Zeeland
 Oostburgsche Brug,Zeeland
 Oostbuurt,Zuid-Holland
 Oostdijk,Zuid-Holland
-Oostdijk,Zeeland
-Oosteind,Noord-Brabant
-Oosteind,Zuid-Holland
 Oosteind,Noord-Brabant
 Oosteinde,Noord-Holland
-Oosteinde,Drenthe
-Oosteinde,Groningen
-Oosteinde,Zuid-Holland
 Oosteinde (?),Zuid-Holland
 Oostelbeers,Noord-Brabant
 Oostendam,Zuid-Holland
@@ -3957,14 +3548,11 @@ Oosterbroek,Drenthe
 Ooster-Dalfsen,Overijssel
 Oostereinde,Groningen
 Oosterend,Friesland
-Oosterend,Noord-Holland
-Oosterend,Friesland
 Oosterens,Noord-Brabant
 Oosterhesselen,Drenthe
 Oosterhof,Gelderland
 Oosterholt,Overijssel
 Oosterhout,Noord-Brabant
-Oosterhout,Gelderland
 Oosterhuizen,Gelderland
 Oosterik,Noord-Brabant
 Oosterland,Zeeland
@@ -3973,15 +3561,12 @@ Oosternieland,Groningen
 Oosterse Bos,Drenthe
 Oosterstreek,Friesland
 Oosterwijk,Gelderland
-Oosterwijk,Utrecht
 Oosterwijtwerd,Groningen
 Oosterwolde,Gelderland
-Oosterwolde,Friesland
 Oosterzand,Groningen
 Oosterzee,Friesland
 Oosterzee Buren,Friesland
 Oost-Graftdijk,Noord-Holland
-Oosthem,Friesland
 Oosthem,Friesland
 Oosthoek,Zuid-Holland
 Oosthuizen,Noord-Holland
@@ -3996,7 +3581,6 @@ Oostum,Groningen
 Oostvoorne,Zuid-Holland
 Oost West en Middelbeers,Noord-Brabant
 Oostwold,Groningen
-Oostwold,Groningen
 Oostwolderpolder,Groningen
 Oostwoud,Noord-Holland
 Oostzaan,Noord-Holland
@@ -4005,13 +3589,11 @@ Op de Belt,Limburg
 Op de Bies,Limburg
 Op de Bos,Limburg
 Op de Hoven,Limburg
-Op den Bosch,Noord-Brabant
 Op den Hering,Limburg
 Opeinde,Friesland
 Opende,Groningen
 Ophemert,Gelderland
 Opheusden,Gelderland
-Ophoven,Limburg
 Ophoven,Limburg
 Ophuis,Friesland
 Opijnen,Gelderland
@@ -4038,7 +3620,6 @@ Oss,Noord-Brabant
 Ossendrecht,Noord-Brabant
 Ossenisse,Zeeland
 Ossenwaard,Gelderland
-Ossenwaard,Utrecht
 Ossenzijl,Overijssel
 Ostaaijen,Noord-Brabant
 Osterbos,Limburg
@@ -4071,7 +3652,6 @@ Oude Leede,Zuid-Holland
 Oude Maasdijk,Gelderland
 Oude Meer,Noord-Holland
 Oude Molen,Noord-Brabant
-Oude Molen,Overijssel
 Oude-Niedorp,Noord-Holland
 “Oude Niedorp”,Noord-Holland
 Oude Pekela,Groningen
@@ -4085,32 +3665,21 @@ Oude Strumpt,Noord-Brabant
 Oude-Tonge,Zuid-Holland
 Oude Waranda,Noord-Brabant
 Oude Wetering,Zuid-Holland
-Oude Wetering,Overijssel
-Oude Wetering,Overijssel
-Oude Wetering,Overijssel
 Oude Willem,Drenthe
 Oudedijk,Groningen
 Oudedorp,Zeeland
 Oudega,Friesland
-Oudega,Friesland
-Oudega,Friesland
 Oudehaske,Friesland
 Oudehorne,Friesland
 Oudeland,Zuid-Holland
-Oudeland,Zeeland
 Oudelande,Zeeland
 Oudemirdum,Friesland
 Oudemolen,Noord-Brabant
-Oudemolen,Drenthe
 Oud-Empel,Noord-Brabant
 Oudenbosch,Noord-Brabant
 Oudendijk,Noord-Holland
-Oudendijk,Zuid-Holland
-Oudendijk,Zuid-Holland
-Oudendijk,Noord-Brabant
 Oudenhoorn,Zuid-Holland
 Oudenmolen,Noord-Brabant
-Ouderkerk aan de Amstel,Noord-Holland
 Ouderkerk aan de Amstel,Noord-Holland
 Ouderkerk aan den IJssel,Zuid-Holland
 Oudeschans,Groningen
@@ -4118,14 +3687,12 @@ Oudeschild,Noord-Holland
 Oudeschip,Groningen
 Oudeschoot,Friesland
 Oudesluis,Zuid-Holland
-Oudesluis,Noord-Holland
 Oudewater,Utrecht
 Oudewegstervaart,Friesland
 Oudezijl,Groningen
 Oud-Groevenbeek,Gelderland
 Oudheusden,Noord-Brabant
 Oud-Kamerik,Utrecht
-Oudkarspel,Noord-Holland
 Oudkarspel,Noord-Holland
 Oud-Leusden,Utrecht
 Oudleusen,Overijssel
@@ -4144,7 +3711,6 @@ Oud-Zevenaar,Gelderland
 Oud-Zuilen,Utrecht
 “Oud Zuilen”,Utrecht
 Oukoop,Zuid-Holland
-Oukoop,Utrecht
 Ouwendorp,Gelderland
 Ouwerkerk,Zeeland
 Ouwsterhaule,Friesland
@@ -4155,7 +3721,6 @@ Overa,Noord-Brabant
 Overakker,Noord-Brabant
 Overasselt,Gelderland
 Overberg,Utrecht
-Overberg,Noord-Brabant
 Overbiel,Gelderland
 Overboeicop,Utrecht
 Overbroek,Limburg
@@ -4197,7 +3762,6 @@ Papendrecht,Zuid-Holland
 Papenhoven,Limburg
 Papenveer,Zuid-Holland
 Papenvoort,Drenthe
-Papenvoort,Noord-Brabant
 Park,Noord-Brabant
 Parrega,Friesland
 Partij,Limburg
@@ -4212,7 +3776,6 @@ Peebos,Groningen
 Peeldijk,Noord-Brabant
 Peelkant,Noord-Brabant
 Peelsehuis,Noord-Brabant
-Peelstraat,Noord-Brabant
 Peelstraat,Noord-Brabant
 Peerenboom,Noord-Brabant
 Peest,Drenthe
@@ -4231,7 +3794,6 @@ Pernis,Zuid-Holland
 Persingen,Gelderland
 Pesaken,Limburg
 Pesse,Drenthe
-Pesse,Drenthe
 Petersburg,Friesland
 Petten,Noord-Holland
 Philippine,Zeeland
@@ -4249,7 +3811,6 @@ Pijnenburg,Utrecht
 Piksen,Overijssel
 Pikveld,Drenthe
 Pingjum,Friesland
-Pinke(n)veer (?),Zuid-Holland
 Pinke(n)veer (?),Zuid-Holland
 Pitteperk,Zeeland
 Plaat,Limburg
@@ -4287,7 +3848,6 @@ Portengense Brug,Utrecht
 Posterenk,Gelderland
 Posterholt,Limburg
 Posthoorn,Gelderland
-Posthoorn,Zeeland
 Posthorn (?),Overijssel
 Pothoek,Overijssel
 Prickart,Limburg
@@ -4295,7 +3855,6 @@ Prinsenbeek,Noord-Brabant
 Prinsenkamp,Gelderland
 Puiflijk,Gelderland
 Punthorst,Overijssel
-Purmer,Noord-Holland
 Purmer,Noord-Holland
 Purmerbuurt,Noord-Holland
 Purmerend,Noord-Holland
@@ -4322,7 +3881,6 @@ Raard,Friesland
 Raayen,Gelderland
 Radewijk,Overijssel
 Radio Kootwijk,Gelderland
-Raerd,Friesland
 Raerd,Friesland
 Rafelder,Gelderland
 Rakens,Noord-Brabant
@@ -4392,16 +3950,12 @@ Ridderbuurt,Zuid-Holland
 Ridderkerk,Zuid-Holland
 Ried,Friesland
 Riel,Noord-Brabant
-Riel,Noord-Brabant
 Rien,Friesland
 Rietbroek,Limburg
 Riethorst,Limburg
 Riethoven,Noord-Brabant
 Rietmolen,Gelderland
 Rietveld,Zuid-Holland
-Rietveld,Zuid-Holland
-Rietveld,Utrecht
-Rietven,Noord-Brabant
 Rietven,Noord-Brabant
 Rijckholt,Limburg
 Rijen,Noord-Brabant
@@ -4423,10 +3977,7 @@ Rijsenhout,Noord-Holland
 Rijsoord,Zuid-Holland
 Rijssen,Overijssel
 Rijswijk,Gelderland
-Rijswijk,Zuid-Holland
-Rijswijk,Noord-Brabant
 “Rijswijk (NB)”,Noord-Brabant
-Rijswijk,Gelderland
 “Rijswijk (GLD)”,Gelderland
 Rijt,Noord-Brabant
 Rijtseterp,Friesland
@@ -4456,7 +4007,6 @@ Rogat,Drenthe
 Roggel,Limburg
 Roggelsedijk,Limburg
 Rohel,Friesland
-Rohel,Friesland
 Rolaf,Noord-Brabant
 Rolde,Drenthe
 Roligt,Limburg
@@ -4481,7 +4031,6 @@ Rosengaarde,Overijssel
 Roskam,Limburg
 Rosmalen,Noord-Brabant
 Rossum,Overijssel
-Rossum,Gelderland
 Roswinkel,Drenthe
 Rothem,Limburg
 Rothenbach,Limburg
@@ -4489,17 +4038,13 @@ Rotstergaast,Friesland
 Rotsterhaule,Friesland
 Rott,Limburg
 Rotterdam,Zuid-Holland
-Rotterdam,Zuid-Holland
 “Rotterdam-Albrandswaard”,Zuid-Holland
 Rottevalle,Friesland
 Rottum,Friesland
-Rottum,Groningen
 Rouveen,Overijssel
 Roverberg,Zeeland
 Rozenburg,Noord-Holland
-Rozenburg,Zuid-Holland
 Rozendaal,Zuid-Holland
-Rozendaal,Gelderland
 Rucphen,Noord-Brabant
 Rugdijk,Noord-Brabant
 Ruigahuizen,Friesland
@@ -4508,7 +4053,6 @@ Ruigeweide,Utrecht
 Ruigezand,Groningen
 Ruigoord,Noord-Holland
 Ruimel,Noord-Brabant
-Ruinen,Drenthe
 Ruinen,Drenthe
 Ruinerweide,Drenthe
 Ruinerwold,Drenthe
@@ -4561,10 +4105,6 @@ Schalsum,Friesland
 Schaluinen,Noord-Brabant
 Schandelo,Limburg
 Schans,Noord-Brabant
-Schans,Noord-Brabant
-Schans,Limburg
-Schans,Noord-Brabant
-Schans,Gelderland
 Schapenbout,Zeeland
 Schapershoek,Zeeland
 Schardam,Noord-Holland
@@ -4597,7 +4137,6 @@ Scherpbier,Zeeland
 Scherpenering,Noord-Brabant
 Scherpenisse,Zeeland
 Scherpenzeel,Gelderland
-Scherpenzeel,Friesland
 Schettens,Friesland
 Scheulder,Limburg
 Schey,Limburg
@@ -4605,11 +4144,8 @@ Schiedam,Zuid-Holland
 Schiermonnikoog,Friesland
 Schietecoven,Limburg
 Schieven,Drenthe
-(De) Schifpot,Groningen
 Schijf,Noord-Brabant
 Schijndel,Noord-Brabant
-Schilberg,Limburg
-Schilberg,Limburg
 Schilberg,Limburg
 Schildwolde,Groningen
 Schillersheide,Limburg
@@ -4638,8 +4174,6 @@ Schoonoord,Drenthe
 Schoonouwen,Zuid-Holland
 Schoonrewoerd,Utrecht
 Schoor,Limburg
-Schoor,Noord-Brabant
-Schoor,Limburg
 Schoordijk,Noord-Brabant
 Schoorl,Noord-Holland
 Schoorldam,Noord-Holland
@@ -4652,13 +4186,11 @@ Schoterzijl,Friesland
 Schotsheuvel,Noord-Brabant
 Schottershuizen,Drenthe
 Schouw,Noord-Brabant
-Schouw,Friesland
 Schouwen,Groningen
 Schouwerzijl,Groningen
 Schraard,Friesland
 Schrapveen,Drenthe
 Schreierswijk,Drenthe
-Schuddebeurs,Zeeland
 Schuddebeurs,Zeeland
 Schuilenburg,Overijssel
 Schuinesloot,Overijssel
@@ -4674,18 +4206,14 @@ Sellingen,Groningen
 Sellingerbeetse,Groningen
 Selmien,Friesland
 Selwerd,Groningen
-Selwerd,Groningen
 Sengelsbroek,Noord-Brabant
-Serooskerke,Zeeland
 Serooskerke,Zeeland
 Seters,Noord-Brabant
 Sevenum,Limburg
 Sexbierum,Friesland
 Sibbe,Limburg
 Sibculo,Overijssel
-Sibculo,Overijssel
 Siberië,Drenthe
-Sibrandabuorren,Friesland
 Sibrandabuorren,Friesland
 Sibrandahûs,Friesland
 Siddeburen,Groningen
@@ -4727,7 +4255,6 @@ Sint Nicolaasga,Friesland
 Sint Odiliënberg,Limburg
 Sint Pancras,Noord-Holland
 Sint Vitusholt,Groningen
-Sint-Annaland,Zeeland
 Sintjohannesga,Friesland
 Sint-Maartensdijk,Zeeland
 Sint-Michielsgestel,Noord-Brabant
@@ -4761,7 +4288,6 @@ Slijk-Ewijk,Gelderland
 Slijkplaat,Zeeland
 Slijkwell,Gelderland
 Slikkenburg,Noord-Brabant
-Slikkenburg,Zeeland
 Slikkendam,Zuid-Holland
 Slingenberg,Overijssel
 Slochteren,Groningen
@@ -4770,9 +4296,6 @@ Slootdorp,Noord-Holland
 Sloten,Friesland
 Sluipwijk,Zuid-Holland
 Sluis,Zeeland
-Sluis,Zeeland
-Sluis,Zeeland
-Sluis,Utrecht
 Sluis 13,Noord-Brabant
 Sluis 5,Overijssel
 Sluis 6,Overijssel
@@ -4781,8 +4304,6 @@ Sluis De Piet,Zeeland
 Sluiskil,Zeeland
 Smakt,Limburg
 Smal,Limburg
-Smalbroek,Drenthe
-Smalbroek,Drenthe
 Smalbroek,Drenthe
 Smalle Ee,Friesland
 Smallebrugge,Friesland
@@ -4827,7 +4348,6 @@ Spaansehoek,Noord-Brabant
 Spaanshuisken,Limburg
 Spaarndam,Noord-Holland
 “Spaarndam gem. Haarlem”,Noord-Holland
-Spaarndam,Noord-Holland
 Spanbroek,Noord-Holland
 Spanga,Friesland
 Spankeren,Gelderland
@@ -4843,17 +4363,12 @@ Spengen,Utrecht
 Speuld,Gelderland
 Speurgt,Noord-Brabant
 Spier,Drenthe
-Spier,Drenthe
 Spierdijk,Noord-Holland
 Spiesberg,Limburg
 Spijk,Noord-Brabant
-Spijk,Groningen
 “Spijk Gn”,Groningen
-Spijk,Gelderland
-Spijk,Gelderland
 Spijkenisse,Zuid-Holland
 Spijkerboor,Drenthe
-Spijkerboor,Noord-Holland
 Spik,Limburg
 Spinolaberg,Noord-Brabant
 Spitsbergen,Groningen
@@ -4882,7 +4397,6 @@ Standdaarbuiten,Noord-Brabant
 Staphorst,Overijssel
 Starnmeer,Noord-Holland
 Startenhuizen,Groningen
-Startenhuizen,Groningen
 Startwijk,Noord-Brabant
 Statenboom,Zeeland
 Statendam,Noord-Brabant
@@ -4894,16 +4408,12 @@ Stedum,Groningen
 Steeg,Limburg
 Steelhoven,Noord-Brabant
 Steenbergen,Drenthe
-Steenbergen,Drenthe
-Steenbergen,Noord-Brabant
 Steendam,Groningen
 Steenderen,Gelderland
-Steenenkamer,Gelderland
 Steenenkamer,Gelderland
 Steenenkruis,Zeeland
 Steenhoven,Zeeland
 Steenoven,Noord-Brabant
-Steenoven,Limburg
 Steenovens,Zeeland
 Steenpaal,Noord-Brabant
 Steenplaats,Zuid-Holland
@@ -4916,7 +4426,6 @@ Stegeren,Overijssel
 Stegerveld,Overijssel
 Steggerda,Friesland
 Stein,Zuid-Holland
-Stein,Limburg
 Stellendam,Zuid-Holland
 Stenenheul,Noord-Brabant
 Stepelo,Overijssel
@@ -4940,7 +4449,6 @@ Stokhem,Limburg
 Stokkelaarsbrug,Utrecht
 Stokkelen,Noord-Brabant
 Stokkum,Overijssel
-Stokkum,Gelderland
 Stokske,Noord-Brabant
 Stokt,Limburg
 Stolpen,Noord-Holland
@@ -4972,7 +4480,6 @@ Strijen,Zuid-Holland
 Strijenham,Zeeland
 Strijensas,Zuid-Holland
 Strijp,Noord-Brabant
-Strijp,Zuid-Holland
 Strikberg,Noord-Brabant
 Stroe,Gelderland
 Stroet,Noord-Holland
@@ -4988,8 +4495,6 @@ Struikberg,Drenthe
 Strype,Zuid-Holland
 Stuifakker,Zuid-Holland
 Stuifzand,Drenthe
-Stuifzand,Drenthe
-Stuivezand,Noord-Brabant
 Stuivezand,Noord-Brabant
 Sumar,Friesland
 Sumarreheide,Friesland
@@ -5049,7 +4554,6 @@ Terbregge (?),Zuid-Holland
 Terdiek,Noord-Holland
 Tereyken,Noord-Brabant
 Tergrêft,Friesland
-Tergrêft,Friesland
 Terhagen,Limburg
 Terheijden,Noord-Brabant
 Terheijl,Drenthe
@@ -5061,7 +4565,6 @@ Terkaple,Friesland
 Terlet,Gelderland
 Terlinden,Limburg
 Termaar,Limburg
-Termaar,Limburg
 Termoors,Limburg
 Termunten,Groningen
 Termunterzijl,Groningen
@@ -5071,7 +4574,6 @@ Teroele,Friesland
 Terover,Noord-Brabant
 Terpoorten,Limburg
 Terschuur,Gelderland
-Tersoal,Friesland
 Tersoal,Friesland
 Terstraten,Limburg
 Tervaten,Zeeland
@@ -5095,12 +4597,10 @@ Tichelwurk,Friesland
 Tiel,Gelderland
 Tielse Hoeve,Noord-Brabant
 Tiendeveen,Drenthe
-Tiendeveen,Drenthe
 Tiengeboden,Gelderland
 Tiengemeten,Zuid-Holland
 Tienhoven,Utrecht
 Tienhoven aan de Lek,Utrecht
-Tienhoven,Utrecht
 Tienray,Limburg
 Tiggelt,Noord-Brabant
 Tiggeltscheberg,Noord-Brabant
@@ -5130,8 +4630,6 @@ Tollebeek,Flevoland
 Tommel,Noord-Brabant
 Tonden,Gelderland
 Tongeren,Noord-Brabant
-Tongeren,Gelderland
-Tongerlo,Limburg
 Tongerlo,Limburg
 Tonnekreek,Noord-Brabant
 Tonsel,Gelderland
@@ -5150,7 +4648,6 @@ Trijeboerehuzen,Friesland
 Trijehuzen,Friesland
 Trimpert,Noord-Brabant
 Trintelen,Limburg
-Tripscompagnie,Groningen
 Tripscompagnie,Groningen
 Tritzum,Friesland
 Tronde,Friesland
@@ -5200,7 +4697,6 @@ Ugchelen,Gelderland
 Uilesprong,Friesland
 Uitdam,Noord-Holland
 Uiteinde,Groningen
-Uiteinde,Friesland
 Uiterburen,Groningen
 Uitgeest,Noord-Holland
 Uithoorn,Noord-Holland
@@ -5228,7 +4724,6 @@ Urkhoven,Noord-Brabant
 Urmond,Limburg
 Ursem,Noord-Holland
 “Ursem gem. S”,Noord-Holland
-Ursem,Noord-Holland
 Usquert,Groningen
 Usselo,Overijssel
 Utrecht,Utrecht
@@ -5240,12 +4735,10 @@ Vaart,Noord-Brabant
 Vaartwijk,Zeeland
 Vaassen,Gelderland
 Vaesrade,Limburg
-(De) Val (?),Zeeland
 Valburg,Gelderland
 Valeiskreek,Zeeland
 Valenberg,Gelderland
 Valkenburg,Zuid-Holland
-Valkenburg,Limburg
 Valkenheide,Utrecht
 Valkenswaard,Noord-Brabant
 Valom,Groningen
@@ -5272,10 +4765,6 @@ Veendijk,Drenthe
 Veenendaal,Utrecht
 Veenhof,Drenthe
 Veenhuizen,Drenthe
-Veenhuizen,Groningen
-Veenhuizen,Drenthe
-Veenhuizen,Groningen
-Veenhuizen,Drenthe
 Veenhuizerveld,Gelderland
 Veeningen,Drenthe
 Veenoord,Drenthe
@@ -5293,25 +4782,19 @@ Veldhoek,Gelderland
 Veldhoven,Noord-Brabant
 Veldhuis,Noord-Holland
 Veldhuizen,Utrecht
-Veldhuizen,Drenthe
 Veldhunten,Gelderland
 Veld-Oostenrijk,Limburg
 Veldschuur,Limburg
 Veldstreek,Groningen
 Veldwijk,Gelderland
 Veldzicht,Zeeland
-Veldzicht,Zeeland
 Velp,Noord-Brabant
-Velp,Gelderland
 Velsen-Noord,Noord-Holland
 Velsen-Zuid,Noord-Holland
 Velserbroek,Noord-Holland
 Velswijk,Gelderland
 Veluwe,Gelderland
 Vemde,Gelderland
-Ven,Noord-Brabant
-Ven,Noord-Brabant
-Ven,Noord-Brabant
 Venbergen,Noord-Brabant
 Venebrugge,Overijssel
 Veneburen,Friesland
@@ -5336,28 +4819,19 @@ Vetterik,Noord-Brabant
 Veulen,Limburg
 Vianen,Noord-Brabant
 “Vianen NB”,Noord-Brabant
-Vianen,Utrecht
 Viel,Limburg
 Vierakker,Gelderland
 Vierbannen,Noord-Brabant
 Vierhouten,Gelderland
 Vierhuis,Friesland
-Vierhuis,Friesland
 Vierhuizen,Groningen
-Vierhuizen,Groningen
-Vierhuizen,Friesland
 Vierlingsbeek,Noord-Brabant
 Vierpolders,Zuid-Holland
 Vieruitersten,Limburg
 Vierverlaten,Groningen
 Vijcie,Noord-Brabant
 Vijfhoek,Zeeland
-Vijfhoek,Noord-Brabant
 Vijfhuis,Friesland
-Vijfhuizen,Noord-Brabant
-Vijfhuizen,Noord-Holland
-Vijfhuizen,Friesland
-Vijfhuizen,Noord-Brabant
 Vijfhuizen,Noord-Brabant
 Vijlen,Limburg
 Vilgert,Limburg
@@ -5366,7 +4840,6 @@ Vilt,Limburg
 Vink,Limburg
 Vinke(n)kade,Utrecht
 Vinkega,Friesland
-Vinkel,Noord-Brabant
 Vinkel,Noord-Brabant
 Vinkenberg,Noord-Brabant
 Vinkenbroek,Noord-Brabant
@@ -5390,22 +4863,18 @@ Vlas,Noord-Brabant
 Vledder,Drenthe
 Vledderhuizen,Groningen
 Vledderveen,Groningen
-Vledderveen,Drenthe
 Vleet,Noord-Brabant
 Vlengendaal,Limburg
-(De ?) Vleut,Noord-Brabant
 Vleuten,Utrecht
 Vliegert,Limburg
 Vlieghuis,Drenthe
 Vlieland,Zuid-Holland
-Vlieland,Friesland
 Vlierden,Noord-Brabant
 Vliet,Utrecht
 Vlijmen,Noord-Brabant
 Vlissingen,Zeeland
 Vlist,Zuid-Holland
 Vlodrop,Limburg
-Vloeieind,Noord-Brabant
 Vloeieind,Noord-Brabant
 Vloet,Noord-Brabant
 Vlootkant,Limburg
@@ -5432,15 +4901,12 @@ Voorne,Gelderland
 Voorrijp,Friesland
 Voorschoten,Zuid-Holland
 Voorst,Gelderland
-Voorst,Limburg
-Voorst,Gelderland
 Voorste Beersdonk,Noord-Brabant
 Voorste Brug,Noord-Brabant
 Voorste Diesdonk,Noord-Brabant
 Voorste Heikant,Noord-Brabant
 Voorsterveld,Limburg
 Voorstonden,Gelderland
-Voort,Noord-Brabant
 Voort,Noord-Brabant
 Voorteind,Noord-Brabant
 Voorthuizen,Gelderland
@@ -5459,8 +4925,6 @@ Vosseberg,Groningen
 Vosseburen,Friesland
 Vosselen,Noord-Brabant
 Vossenberg,Noord-Brabant
-Vossenberg,Noord-Brabant
-Vossenpels,Gelderland
 Vossenpels,Gelderland
 Voulwames,Limburg
 Vrachelen,Noord-Brabant
@@ -5574,7 +5038,6 @@ Weerdinge,Drenthe
 Weerestein,Zuid-Holland
 Weerselo,Overijssel
 Weert,Limburg
-Weert,Limburg
 Weerwille,Drenthe
 Weesp,Noord-Holland
 Wehe-den Hoorn,Groningen
@@ -5594,10 +5057,8 @@ Welberg,Noord-Brabant
 Weleveld,Overijssel
 Well,Limburg
 “Well L”,Limburg
-Well,Gelderland
 Wellerlooi,Limburg
 Wellseind,Gelderland
-Welsum,Overijssel
 Welsum,Overijssel
 Welsumerveld,Overijssel
 Wely,Gelderland
@@ -5626,19 +5087,12 @@ West aan Zee,Friesland
 West Geesteren,Overijssel
 Westbeemster,Noord-Holland
 Westbroek,Utrecht
-Westbroek,Limburg
 Westdijk,Zuid-Holland
 Westdorp,Drenthe
 Westdorpe,Zeeland
 Westeind,Groningen
-Westeind,Groningen
-Westeinde,Zuid-Holland
-Westeinde,Noord-Holland
-Westeinde,Overijssel
-Westeinde,Drenthe
 Westeinde,Zuid-Holland
 Westelbeers,Noord-Brabant
-Westendorp,Gelderland
 Westendorp,Gelderland
 Westeneng,Gelderland
 Westenesch,Drenthe
@@ -5657,7 +5111,6 @@ Westerhoven,Noord-Brabant
 Westerklooster,Groningen
 Westerland,Noord-Holland
 Westerlee,Groningen
-Westerlee,Zuid-Holland
 Westernieland,Groningen
 Westernijtsjerk,Friesland
 Westerse Bos,Drenthe
@@ -5707,7 +5160,6 @@ Wieringerwaard,Noord-Holland
 Wieringerwerf,Noord-Holland
 Wierren,Friesland
 Wierum,Friesland
-Wierum,Groningen
 Wierumerschouw,Groningen
 Wiesel,Gelderland
 Wijchen,Gelderland
@@ -5721,8 +5173,6 @@ Wijk en Aalburg,Noord-Brabant
 Wijlre,Limburg
 Wijnaldum,Friesland
 Wijnandsrade,Limburg
-Wijnbergen,Gelderland
-Wijnbergen,Gelderland
 Wijnbergen,Gelderland
 Wijngaarden,Zuid-Holland
 Wijnjeterpverlaat,Friesland
@@ -5744,8 +5194,6 @@ Willebrordushoek,Noord-Brabant
 Willemsdorp,Zuid-Holland
 Willemsoord,Overijssel
 Willemstad,Groningen
-Willemstad,Noord-Brabant
-Willemstad,Friesland
 Willeskop,Utrecht
 Willige Langerak,Utrecht
 Wilnis,Utrecht
@@ -5756,8 +5204,6 @@ Winde,Drenthe
 Windesheim,Overijssel
 Windraak,Limburg
 Winkel,Noord-Brabant
-Winkel,Noord-Holland
-Winkel,Noord-Brabant
 Winkelshoek,Gelderland
 Winkelstraat,Noord-Brabant
 Winneweer,Groningen
@@ -5765,7 +5211,6 @@ Winschoten,Groningen
 Winschoterhoogebrug,Groningen
 Winssen,Gelderland
 Winsum,Friesland
-Winsum,Groningen
 Wintelre,Noord-Brabant
 Winterswijk,Gelderland
 Winterswijk Meddo,Gelderland
@@ -5781,7 +5226,6 @@ Winthagen,Limburg
 (De) Wippert (?),Gelderland
 Wirdum,Groningen
 “Wirdum Gn”,Groningen
-Wirdum,Friesland
 Wirdumerdraai,Groningen
 Wisbroek,Limburg
 Wissekerke,Zeeland
@@ -5798,7 +5242,6 @@ Wittebrink,Gelderland
 Wittelte,Drenthe
 Wittem,Limburg
 Witten,Drenthe
-Witteveen,Drenthe
 Witteveen,Drenthe
 Wittewierum,Groningen
 Wiuwert,Friesland
@@ -5818,7 +5261,6 @@ Wolfhagen,Limburg
 Wolfheze,Gelderland
 Wolfsbarge,Groningen
 Wolfsbosch,Noord-Brabant
-Wolfshoek,Noord-Brabant
 Wolfshoek,Noord-Brabant
 Wolfshuis,Limburg
 Wolfswinkel,Noord-Brabant
@@ -5868,11 +5310,6 @@ Zalné,Overijssel
 Zaltbommel,Gelderland
 Zand,Noord-Brabant
 Zandberg,Drenthe
-Zandberg,Gelderland
-Zandberg,Zeeland
-Zandberg,Limburg
-Zandberg,Limburg
-Zandberg,Limburg
 Zandburen,Friesland
 Zanddijk,Zeeland
 Zandeind,Noord-Brabant
@@ -5880,25 +5317,20 @@ Zandeweer,Groningen
 Zandfort,Noord-Brabant
 Zandheuvel,Gelderland
 Zandhoek,Noord-Brabant
-Zandhoek,Limburg
 Zandhuizen,Friesland
-Zandkant,Noord-Brabant
 Zandkant,Noord-Brabant
 Zandoerle,Noord-Brabant
 Zandplaat,Zeeland
 Zandpol,Drenthe
 Zandstraat,Zeeland
 Zandvoort,Gelderland
-Zandvoort,Noord-Holland
 Zandwijk,Noord-Brabant
 Zeddam,Gelderland
 Zeedorp,Zeeland
 Zeegat,Zeeland
 Zeegse,Drenthe
 Zeeland,Gelderland
-Zeeland,Noord-Brabant
 Zeelberg,Limburg
-Zeelberg,Noord-Brabant
 Zeerijp,Groningen
 Zeesse,Overijssel
 Zeewolde,Flevoland
@@ -5920,22 +5352,12 @@ Zethuis,Groningen
 Zetten,Gelderland
 Zevenaar,Gelderland
 Zevenbergen,Noord-Brabant
-Zevenbergen,Noord-Brabant
-Zevenbergschen Hoek,Noord-Brabant
 Zevenbergschen Hoek,Noord-Brabant
 Zevenbuurt,Friesland
 Zevender,Utrecht
 Zevenhoven,Zuid-Holland
 Zevenhuis,Noord-Brabant
 Zevenhuizen,Utrecht
-Zevenhuizen,Groningen
-Zevenhuizen,Noord-Brabant
-Zevenhuizen,Zuid-Holland
-Zevenhuizen,Friesland
-Zevenhuizen,Groningen
-Zevenhuizen,Noord-Brabant
-Zevenhuizen,Groningen
-Zevenhuizen,Zuid-Holland
 Zevenhuizen ?,Friesland
 Zevenhutten,Noord-Brabant
 Zevenmorgen,Gelderland
@@ -5950,7 +5372,6 @@ Zijpersluis,Noord-Holland
 Zijtaart,Noord-Brabant
 Zinkweg,Zuid-Holland
 Zittard,Limburg
-Zittard,Noord-Brabant
 Zoeke,Overijssel
 Zoelen,Gelderland
 Zoelmond,Gelderland
@@ -5964,7 +5385,6 @@ Zomerdijk,Groningen
 Zomerven,Noord-Brabant
 Zondveld,Noord-Brabant
 Zonnemaire,Zeeland
-Zennewijnen,Gelderland
 Zoomvliet,Noord-Brabant
 Zorgvlied,Drenthe
 Zoutelande,Zeeland
@@ -5972,13 +5392,10 @@ Zouteveen,Zuid-Holland
 Zoutkamp,Groningen
 Zuid-Beijerland,Zuid-Holland
 Zuidbroek,Zuid-Holland
-Zuidbroek,Groningen
 Zuidbuurt,Zuid-Holland
 Zuid-Carolina,Noord-Brabant
 Zuiddorpe,Zeeland
 Zuideinde,Overijssel
-Zuideinde,Zuid-Holland
-Zuideinde,Utrecht
 Zuiderburen,Friesland
 Zuideresch,Drenthe
 Zuiderkolonie,Groningen
@@ -5998,14 +5415,10 @@ Zuid-Scharwoude,Noord-Holland
 Zuidschermer,Noord-Holland
 Zuidveen,Overijssel
 Zuidveld,Drenthe
-Zuidveld,Groningen
 Zuidvelde,Drenthe
 Zuidwending,Groningen
 Zuidwolde,Groningen
-Zuidwolde,Drenthe
 Zuidzande,Zeeland
-Zuidzijde,Zuid-Holland
-Zuidzijde,Zuid-Holland
 Zuidzijde,Zuid-Holland
 Zuilichem,Gelderland
 Zuna,Overijssel
@@ -6016,7 +5429,6 @@ Zutphen,Gelderland
 Zuuk,Gelderland
 Zuurdijk,Groningen
 Zwaag,Noord-Holland
-Zwaagdijk,Noord-Holland
 Zwaagdijk,Noord-Holland
 Zwaagdijk-Oost,Noord-Holland
 Zwaagdijk-West,Noord-Holland
@@ -6048,7 +5460,6 @@ Zwijnsbergen,Noord-Brabant
 Zwinderen,Drenthe
 Zwingelspaan,Noord-Brabant
 Zwolle,Gelderland
-Zwolle,Overijssel
 Öhningen,Baden-Württemberg
 Öhringen,Baden-Württemberg
 Ölbronn-Dürrn,Baden-Württemberg
@@ -6098,6 +5509,7 @@ Adelzhausen,Bayern
 Adenbüttel,Niedersachsen
 Adendorf,Niedersachsen
 Adlkofen,Bayern
+Admannshagen-Bargeshagen u.a.,Mecklenburg-Vorpommern
 Adorf,Sachsen
 Aerzen,Niedersachsen
 Affalterbach,Baden-Württemberg
@@ -6120,6 +5532,7 @@ Ahrensbök,Schleswig-Holstein
 Ahrensburg,Schleswig-Holstein
 Ahrenshöft,Schleswig-Holstein
 "Ahrenshagen-Daskow, Trinwillershagen u.a.",Mecklenburg-Vorpommern
+Ahrenviölfeld,Schleswig-Holstein
 Aicha vorm Wald,Bayern
 Aichach,Bayern
 Aichelberg,Baden-Württemberg
@@ -6153,6 +5566,7 @@ Aldingen,Baden-Württemberg
 Alerheim,Bayern
 Alesheim,Bayern
 Aletshausen,Bayern
+Alf,Rheinland-Pfalz
 "Alfdorf, Schillinghof",Baden-Württemberg
 Alfeld,Bayern
 Alfeld (Leine),Niedersachsen
@@ -6166,6 +5580,7 @@ Allensbach,Baden-Württemberg
 Allersberg,Bayern
 Allershausen,Bayern
 Alling,Bayern
+Allmannsweiler,Baden-Württemberg
 Allmendingen,Baden-Württemberg
 Allmersbach im Tal,Baden-Württemberg
 Allstedt,Sachsen-Anhalt
@@ -6182,10 +5597,9 @@ Alt Duvenstedt,Schleswig-Holstein
 Altötting,Bayern
 Altbach,Baden-Württemberg
 "Altdöbern, Luckaitztal",Brandenburg
-Altdorf,Baden-Württemberg
+Altdorf,Bayern
 Altdorf bei Nürnberg,Bayern
 Alteglofsheim,Bayern
-Altena,Nordrhein-Westfalen
 "Altenahr, Berg, Kalenborn, Kirchsahr",Rheinland-Pfalz
 "Altenau, Schulenberg",Niedersachsen
 Altenbeken,Nordrhein-Westfalen
@@ -6216,8 +5630,11 @@ Althegnenberg,Bayern
 Altheim,Baden-Württemberg
 Altheim (Alb),Baden-Württemberg
 Althengstett,Baden-Württemberg
+Altkirchen,Thüringen
+Altlandsberg u.a.,Brandenburg
 Altleiningen,Rheinland-Pfalz
 Altlußheim,Baden-Württemberg
+Altmärkische Höhe,Sachsen-Anhalt
 Altmannstein,Bayern
 Altomünster,Bayern
 Altrip,Rheinland-Pfalz
@@ -6230,6 +5647,7 @@ Am Mellensee,Brandenburg
 "Am Ohmberg, Sonnenstein",Thüringen
 Amöneburg,Hessen
 Amberg,Bayern
+Amelinghausen,Niedersachsen
 Amerang,Bayern
 Amerdingen,Bayern
 Ammerbuch,Baden-Württemberg
@@ -6263,13 +5681,14 @@ Antrifttal,Hessen
 Anzing,Bayern
 "Apelern, Rodenberg",Niedersachsen
 Apen,Niedersachsen
+Apenburg-Winterfeld,Sachsen-Anhalt
 Apensen,Niedersachsen
 Apfeldorf,Bayern
 Apfeltrach,Bayern
 Apolda,Thüringen
-Appen,Schleswig-Holstein
 Appenweier,Baden-Württemberg
 Arberg,Bayern
+Aremberg,Rheinland-Pfalz
 Arendsee,Sachsen-Anhalt
 "Arenshausen, Uder u.a.",Thüringen
 Aresing,Bayern
@@ -6277,6 +5696,7 @@ Argenbühl,Baden-Württemberg
 Argenthal,Rheinland-Pfalz
 Armsheim,Rheinland-Pfalz
 Arnbruck,Bayern
+Arneburg u.a.,Sachsen-Anhalt
 "Arnis, Marienhof",Schleswig-Holstein
 Arnsberg,Nordrhein-Westfalen
 Arnschwang,Bayern
@@ -6317,6 +5737,7 @@ Au in der Hallertau,Bayern
 Außernzell,Bayern
 Aub,Bayern
 Aue,Sachsen
+Auengrund,Thüringen
 Auenwald,Baden-Württemberg
 Auerbach,Sachsen
 Auerbach i.d. OPf.,Bayern
@@ -6337,6 +5758,8 @@ Aura i. Sinngrund,Bayern
 Aurach,Bayern
 Aurachtal,Bayern
 Aurich,Niedersachsen
+Aventoft,Schleswig-Holstein
+Averlak,Schleswig-Holstein
 Aying,Bayern
 "Ayl, Trassem u.a.",Rheinland-Pfalz
 Aystetten,Bayern
@@ -6348,6 +5771,7 @@ Böbing,Bayern
 Böbingen an der Rems,Baden-Württemberg
 Böblingen,Baden-Württemberg
 Böbrach,Bayern
+Böddensell u.a.,Sachsen-Anhalt
 Böel,Schleswig-Holstein
 Böhen,Bayern
 Böhl-Iggelheim,Rheinland-Pfalz
@@ -6434,6 +5858,7 @@ Bad Dürrheim,Baden-Württemberg
 Bad Ditzenbach,Baden-Württemberg
 "Bad Doberan, Bartenshagen-Parkentin u.a.",Mecklenburg-Vorpommern
 Bad Driburg,Nordrhein-Westfalen
+Bad Eilsen,Niedersachsen
 Bad Elster,Sachsen
 Bad Ems,Rheinland-Pfalz
 Bad Ems Umland,Rheinland-Pfalz
@@ -6530,6 +5955,7 @@ Bad Waldsee,Baden-Württemberg
 Bad Wiessee,Bayern
 Bad Wildbad,Baden-Württemberg
 Bad Wildungen,Hessen
+Bad Wilsnack,Brandenburg
 Bad Wimpfen,Baden-Württemberg
 Bad Windsheim,Bayern
 Bad Wurzach,Baden-Württemberg
@@ -6557,9 +5983,11 @@ Bakum,Niedersachsen
 Baldham,Bayern
 Balge,Niedersachsen
 Balgheim,Baden-Württemberg
+Balgstädt,Sachsen-Anhalt
 Balingen,Baden-Württemberg
 Balje,Niedersachsen
 Ballendorf,Baden-Württemberg
+Ballenstedt,Sachsen-Anhalt
 "Ballenstedt, Harzgerode",Sachsen-Anhalt
 Ballrechten-Dottingen,Baden-Württemberg
 Baltmannsweiler,Baden-Württemberg
@@ -6576,20 +6004,24 @@ Barbing,Bayern
 Barby,Sachsen-Anhalt
 Barchfeld-Immelborn,Thüringen
 "Bardowick, Wittorf, Barum",Niedersachsen
+Barenburg,Niedersachsen
 "Barendorf, Vastorf",Niedersachsen
 Bargfeld-Stegen,Schleswig-Holstein
 "Bargstedt, Brammer, Oldenbüttel",Schleswig-Holstein
 "Bargteheide, Delingsdorf u.a.",Schleswig-Holstein
 Bark,Schleswig-Holstein
 Barkelsby,Schleswig-Holstein
+Barkenholm,Schleswig-Holstein
 Barleben,Sachsen-Anhalt
 "Barlt, Busenwurth",Schleswig-Holstein
 Barmstedt,Schleswig-Holstein
 "Barnekow, Gägelow u.a.",Mecklenburg-Vorpommern
+Barnstedt,Niedersachsen
 "Barnstorf, Eydelstedt, Drentwede",Niedersachsen
 Barntrup,Nordrhein-Westfalen
 Barsbüttel,Schleswig-Holstein
 Barsinghausen,Niedersachsen
+Bartenshagen-Parkentin u.a.,Mecklenburg-Vorpommern
 Barth,Mecklenburg-Vorpommern
 Bartholomä,Baden-Württemberg
 Barum,Niedersachsen
@@ -6599,9 +6031,11 @@ Barwedel,Niedersachsen
 "Barweiler, Bauler, Hoffeld, Pomster, Wiesemscheid, Wirft",Rheinland-Pfalz
 Bassum,Niedersachsen
 Bastheim,Bayern
+Bastorf,Mecklenburg-Vorpommern
 Battenberg,Hessen
 Battweiler u.a.,Rheinland-Pfalz
 Baudenbach,Bayern
+Bauler,Rheinland-Pfalz
 Baumholder,Rheinland-Pfalz
 Baunach,Bayern
 Baunatal,Hessen
@@ -6623,21 +6057,25 @@ Bechtsried,Bayern
 Beckdorf,Niedersachsen
 Beckedorf,Niedersachsen
 Beckingen,Saarland
-Beckum,Nordrhein-Westfalen
 Bedburg,Nordrhein-Westfalen
 Bedburg-Hau,Nordrhein-Westfalen
 Beedenbostel,Niedersachsen
 Beelen,Nordrhein-Westfalen
 Beelitz,Brandenburg
 Beeskow,Brandenburg
+Beesten,Niedersachsen
 "Beetzendorf, Rohrberg, Jübar",Sachsen-Anhalt
 "Beetzsee, Wollin, Wenzlow, Golzow u.a.",Brandenburg
+Behnsdorf,Sachsen-Anhalt
 "Behrendorf, Bondelum",Schleswig-Holstein
+Behringersdorfer Forst,Bayern
 "Beidenfleth, Klein Kampen",Schleswig-Holstein
 "Beiersdorf, Oppach",Sachsen
 Beierstedt,Niedersachsen
 Beilngries,Bayern
+Beilrode,Sachsen
 Beilstein,Baden-Württemberg
+Beilstein-Stocksberg,Baden-Württemberg
 Beimerstetten,Baden-Württemberg
 Beindersheim,Rheinland-Pfalz
 Belgern-Schildau,Sachsen
@@ -6652,9 +6090,11 @@ Bempflingen,Baden-Württemberg
 Bendestorf,Niedersachsen
 Bendorf,Rheinland-Pfalz
 Benediktbeuern,Bayern
+Benndorf,Sachsen-Anhalt
 "Bennewitz, Machern",Sachsen
 Benningen,Bayern
 Benningen am Neckar,Baden-Württemberg
+Bensdorf,Brandenburg
 Benshausen,Thüringen
 Bensheim,Hessen
 Bentzin,Mecklenburg-Vorpommern
@@ -6662,13 +6102,13 @@ Bentzin,Mecklenburg-Vorpommern
 Beratzhausen,Bayern
 Berching,Bayern
 Berchtesgaden & Schönau,Bayern
-Berg,Rheinland-Pfalz
 Berg b.Neumarkt i.d.OPf.,Bayern
 Berg im Gau,Bayern
+Berga,Sachsen-Anhalt
 Berga/Elster,Thüringen
 Bergatreute,Baden-Württemberg
+Berge u.a.,Brandenburg
 "Berge, Bippen",Niedersachsen
-Bergen,Rheinland-Pfalz
 "Bergen, Lohheide u.a.",Niedersachsen
 Bergen/ Rügen,Mecklenburg-Vorpommern
 Bergenhusen,Schleswig-Holstein
@@ -6690,6 +6130,7 @@ Berka/ Werra,Thüringen
 Berkatal,Hessen
 Berkenthin,Schleswig-Holstein
 Berkheim,Baden-Württemberg
+Berkholz-Meyenburg,Brandenburg
 Berlin,Berlin
 Berlin Alt Treptow,Berlin
 Berlin Alt-Hohenschönhausen,Berlin
@@ -6775,6 +6216,7 @@ Berlin-Lichterfelde,Berlin
 Berlin-West,Berlin
 Berlstedt,Thüringen
 Bermatingen,Baden-Württemberg
+Bermersheim,Rheinland-Pfalz
 Bernau,Brandenburg
 Bernau a. Chiemsee,Bayern
 Bernau im Schwarzwald,Baden-Württemberg
@@ -6823,9 +6265,11 @@ Biebergemünd,Hessen
 Biebertal,Hessen
 Biebesheim am Rhein,Hessen
 Biedenkopf,Hessen
+Biederbach,Baden-Württemberg
 "Biederitz, Gerwisch, Menz u.a.",Sachsen-Anhalt
 Bielefeld,Nordrhein-Westfalen
 Bienenbüttel,Niedersachsen
+Biere,Sachsen-Anhalt
 "Biesendahlshof, Berkholz-Meyenburg",Brandenburg
 Biesenthal,Brandenburg
 Biessenhofen,Bayern
@@ -6843,6 +6287,7 @@ Binnen,Niedersachsen
 Binningen,Rheinland-Pfalz
 Binz,Mecklenburg-Vorpommern
 Binzen,Baden-Württemberg
+Bippen,Niedersachsen
 Birenbach,Baden-Württemberg
 Birgland,Bayern
 Birken-Honigsessen,Rheinland-Pfalz
@@ -6851,6 +6296,7 @@ Birkenfeld,Baden-Württemberg
 Birkenfeld u.a.,Rheinland-Pfalz
 Birkenheide,Rheinland-Pfalz
 Birkenwerder,Brandenburg
+Birkweiler,Rheinland-Pfalz
 Birlenbach,Rheinland-Pfalz
 Birnbach,Rheinland-Pfalz
 Birresborn,Rheinland-Pfalz
@@ -6872,15 +6318,18 @@ Bispingen,Niedersachsen
 Bissendorf,Niedersachsen
 Bissingen,Bayern
 Bissingen an der Teck,Baden-Württemberg
+Bisterschied u.a.,Rheinland-Pfalz
 Bitburg,Rheinland-Pfalz
 Bitterfeld-Wolfen,Sachsen-Anhalt
 Bitz,Baden-Württemberg
 Blaibach,Bayern
 Blaichach,Bayern
+Blankenbach,Bayern
+Blankenburg,Sachsen-Anhalt
 "Blankenburg, Oberharz am Brocken",Sachsen-Anhalt
 Blankenfelde-Mahlow,Brandenburg
 Blankenhain,Thüringen
-Blankenheim,Nordrhein-Westfalen
+Blankenheim,Sachsen-Anhalt
 Blankenrath u.a.,Rheinland-Pfalz
 "Blankensee, Grambow u.a.",Mecklenburg-Vorpommern
 Blaubeuren,Baden-Württemberg
@@ -6919,6 +6368,7 @@ Bodnegg,Baden-Württemberg
 "Boffzen, Derental",Niedersachsen
 Bogen,Bayern
 Bohmte,Niedersachsen
+Boitzenburg u.a.,Brandenburg
 "Boizenburg, Gresse, Greven u.a.",Mecklenburg-Vorpommern
 Bokensdorf,Niedersachsen
 Bolanden,Rheinland-Pfalz
@@ -6927,6 +6377,7 @@ Bollendorf,Rheinland-Pfalz
 Bollschweil,Baden-Württemberg
 Boltenhagen,Mecklenburg-Vorpommern
 Bomlitz,Niedersachsen
+Bondelum,Schleswig-Holstein
 Bondorf,Baden-Württemberg
 Bonn,Nordrhein-Westfalen
 Bonndorf im Schwarzwald,Baden-Württemberg
@@ -6943,6 +6394,7 @@ Borgholzhausen,Nordrhein-Westfalen
 Borgsdorf,Brandenburg
 Borgstedt,Schleswig-Holstein
 Borken,Nordrhein-Westfalen
+Borkheide u.a.,Brandenburg
 Borkum,Niedersachsen
 Borna,Sachsen
 Bornheim,Nordrhein-Westfalen
@@ -6957,7 +6409,7 @@ Bottenbach,Rheinland-Pfalz
 Bottrop,Nordrhein-Westfalen
 Bous,Saarland
 Bovenden,Niedersachsen
-Boxberg,Baden-Württemberg
+Boxberg,Sachsen
 Bräunlingen,Baden-Württemberg
 Bröckel,Niedersachsen
 Bröthen,Schleswig-Holstein
@@ -6972,11 +6424,11 @@ Brüssow,Brandenburg
 Brachttal,Hessen
 Brackel,Niedersachsen
 Brackenheim,Baden-Württemberg
+Braderup u.a.,Schleswig-Holstein
 Brahmenau,Thüringen
 Brake,Niedersachsen
-Brakel,Nordrhein-Westfalen
+Brammer,Schleswig-Holstein
 Bramsche,Niedersachsen
-Brand,Bayern
 "Brand-Erbisdorf, Großhartmannsdorf",Sachsen
 Brande-Hörnerkirchen,Schleswig-Holstein
 Brandenburg/ Havel,Brandenburg
@@ -6985,12 +6437,14 @@ Brandis,Sachsen
 Brannenburg,Bayern
 Braubach,Rheinland-Pfalz
 Braunfels,Hessen
+Braunichswalde,Thüringen
 Braunlage,Niedersachsen
 Braunsbach,Baden-Württemberg
 Braunsbedra,Sachsen-Anhalt
 Braunschweig,Niedersachsen
 Brechen,Hessen
 Breckerfeld,Nordrhein-Westfalen
+Breddorf u.a.,Niedersachsen
 Bredenbek,Schleswig-Holstein
 "Bredstedt, Breklum u.a.",Schleswig-Holstein
 Breidenbach,Hessen
@@ -7008,15 +6462,17 @@ Breitengüßbach,Bayern
 Breitenthal,Bayern
 Breitingen,Baden-Württemberg
 Breitnau,Baden-Württemberg
-Breitscheid,Hessen
+Breitscheid,Rheinland-Pfalz
 "Breitscheid, Dattenberg, Hausen, Hümmerich, Kasbach-Ohlenberg, Roßbach u.a.",Rheinland-Pfalz
 Breitungen/Werra,Thüringen
+Breklum u.a.,Schleswig-Holstein
 Bremen,Bremen
 Bremerhaven,Bremen
 "Bremerhaven, Bremen",Bremen
 Bremervörde,Niedersachsen
 Brennberg,Bayern
 Brensbach,Hessen
+Bretnig-Hauswalde,Sachsen
 Bretten,Baden-Württemberg
 Bretzenheim,Rheinland-Pfalz
 Bretzfeld,Baden-Württemberg
@@ -7031,12 +6487,15 @@ Brietlingen,Niedersachsen
 Brigachtal,Baden-Württemberg
 Brilon,Nordrhein-Westfalen
 "Brodersby, Goltoft",Schleswig-Holstein
+Broderstorf u.a.,Mecklenburg-Vorpommern
 Brohl-Lützing,Rheinland-Pfalz
 Brokdorf,Schleswig-Holstein
 Brokstedt,Schleswig-Holstein
+Brombach,Baden-Württemberg
 Brombachtal,Hessen
 Brome,Niedersachsen
 "Bromskirchen, Hallenberg",Hessen
+Bronkow,Brandenburg
 Brotterode-Trusetal,Thüringen
 "Bruchhausen-Vilsen, Süstedt",Niedersachsen
 "Bruchhausen, Unkel",Rheinland-Pfalz
@@ -7047,6 +6506,7 @@ Bruchweiler-Bärenbach u.a.,Rheinland-Pfalz
 Bruck i.d. OPf.,Bayern
 Bruckberg,Bayern
 Bruckmühl,Bayern
+Brunn,Bayern
 Brunnen,Bayern
 Brunnthal,Bayern
 Brunsbüttel,Schleswig-Holstein
@@ -7058,19 +6518,20 @@ Buch,Bayern
 Buch a. Buchrain,Bayern
 Buch a. Erlbach,Bayern
 Buch a. Wald,Bayern
+Bucha,Thüringen
 Buchbach,Bayern
 Buchdorf,Bayern
 Buchen,Baden-Württemberg
 Buchenbach,Baden-Württemberg
 Buchenberg,Bayern
+Buchheim,Baden-Württemberg
 Buchhofen,Bayern
-Buchholz,Niedersachsen
+Buchholz,Rheinland-Pfalz
 Buchholz in der Nordheide,Niedersachsen
 Buchloe,Bayern
 Budenheim,Rheinland-Pfalz
 Buggingen,Baden-Württemberg
 "Bullay, Alf, Zell",Rheinland-Pfalz
-Bunde,Niedersachsen
 Bundenbach,Rheinland-Pfalz
 Bundorf,Bayern
 Burbach,Nordrhein-Westfalen
@@ -7108,11 +6569,13 @@ Burkardroth,Bayern
 Burkau,Sachsen
 Burkhardtsdorf,Sachsen
 Burladingen,Baden-Württemberg
+Burlage,Niedersachsen
 Burow,Mecklenburg-Vorpommern
 Burscheid,Nordrhein-Westfalen
 Burtenbach,Bayern
 Busdorf,Schleswig-Holstein
 Buseck,Hessen
+Busenwurth,Schleswig-Holstein
 Butjadingen,Niedersachsen
 Buttenheim,Bayern
 Buttenwiesen,Bayern
@@ -7132,6 +6595,8 @@ Callbach,Rheinland-Pfalz
 "Callenberg, Hohenstein-Ernstthal, Bernsdorf",Sachsen
 Calw,Baden-Württemberg
 Cappeln (Oldenburg),Niedersachsen
+Carinerland,Mecklenburg-Vorpommern
+Carlow u.a.,Mecklenburg-Vorpommern
 Carlsberg,Rheinland-Pfalz
 Castrop-Rauxel,Nordrhein-Westfalen
 Celle,Niedersachsen
@@ -7141,6 +6606,7 @@ Chamerau,Bayern
 Chemnitz,Sachsen
 Chieming,Bayern
 Chiemsee,Bayern
+Chorin u.a.,Brandenburg
 Claußnitz,Sachsen
 Clausen,Rheinland-Pfalz
 "Clausthal-Zellerfeld, Oberschulenberg",Niedersachsen
@@ -7190,18 +6656,21 @@ Dörzbach,Baden-Württemberg
 Dötlingen,Niedersachsen
 Dülmen,Nordrhein-Westfalen
 Düngenheim,Rheinland-Pfalz
+Dünwald u.a.,Thüringen
 Dürbheim,Baden-Württemberg
 Düren,Nordrhein-Westfalen
 Dürmentingen,Baden-Württemberg
 Dürnau,Baden-Württemberg
 Dürrholz,Rheinland-Pfalz
 Dürrlauingen,Bayern
+Dürrröhrsdorf-Dittersbach,Sachsen
 Dürrwangen,Bayern
 Düsseldorf,Nordrhein-Westfalen
 Daaden,Rheinland-Pfalz
 Dachau,Bayern
 Dachsbach,Bayern
 Dachsberg,Baden-Württemberg
+Dachwig u.a.,Thüringen
 Dahlem,Nordrhein-Westfalen
 Dahlen,Sachsen
 Dahlenburg,Niedersachsen
@@ -7212,6 +6681,7 @@ Dahn,Rheinland-Pfalz
 Daisendorf,Baden-Württemberg
 "Daleiden, Preischeid u.a.",Rheinland-Pfalz
 Dallgow-Döberitz,Brandenburg
+Dambeck,Mecklenburg-Vorpommern
 Dammbach,Bayern
 Damme,Niedersachsen
 Damnatz,Niedersachsen
@@ -7220,6 +6690,7 @@ Danndorf,Niedersachsen
 Dannenberg,Niedersachsen
 Dannenfels,Rheinland-Pfalz
 Dannewerk,Schleswig-Holstein
+Dannigkow,Sachsen-Anhalt
 Dannstadt-Schauernheim,Rheinland-Pfalz
 Dargun,Mecklenburg-Vorpommern
 Darmstadt,Hessen
@@ -7227,6 +6698,7 @@ Dasing,Bayern
 Dassel,Niedersachsen
 Dassow,Mecklenburg-Vorpommern
 Datteln,Nordrhein-Westfalen
+Dattenberg,Rheinland-Pfalz
 Dauchingen,Baden-Württemberg
 Daun,Rheinland-Pfalz
 Dautmergen,Baden-Württemberg
@@ -7243,8 +6715,10 @@ Deiningen,Bayern
 Deisenhausen,Bayern
 Deizisau,Baden-Württemberg
 Delbrück,Nordrhein-Westfalen
+Delingsdorf u.a.,Schleswig-Holstein
 "Delitzsch, Krostitz u.a.",Sachsen
 Dellfeld,Rheinland-Pfalz
+Delligsen,Niedersachsen
 Dellstedt,Schleswig-Holstein
 Delmenhorst,Niedersachsen
 Delve,Schleswig-Holstein
@@ -7256,6 +6730,8 @@ Denklingen,Bayern
 Denkte,Niedersachsen
 Dentlein a. Forst,Bayern
 Denzlingen,Baden-Württemberg
+Derenburg,Sachsen-Anhalt
+Derental,Niedersachsen
 "Dermbach, Wiesenthal",Thüringen
 Dernau,Rheinland-Pfalz
 Dernbach (Westerwald),Rheinland-Pfalz
@@ -7270,9 +6746,12 @@ Dettighofen,Baden-Württemberg
 Dettingen an der Erms,Baden-Württemberg
 Dettingen an der Iller,Baden-Württemberg
 Dettingen unter Teck,Baden-Württemberg
+Dettum u.a.,Niedersachsen
 Deuerling,Bayern
 "Deuselbach, Hermeskeil, Rorodt",Rheinland-Pfalz
 Deutsch Evern,Niedersachsen
+Deutzen,Sachsen
+Dickel,Niedersachsen
 Dickenschied u.a.,Rheinland-Pfalz
 Didderse,Niedersachsen
 Dießen a. Ammersee,Bayern
@@ -7288,6 +6767,8 @@ Diepenau,Niedersachsen
 Diepholz,Niedersachsen
 Dierdorf,Rheinland-Pfalz
 Dierhagen,Mecklenburg-Vorpommern
+Dierscheid,Rheinland-Pfalz
+Diesdorf,Sachsen-Anhalt
 Diespeck,Bayern
 Dietenheim,Baden-Württemberg
 Dietenhofen,Bayern
@@ -7320,10 +6801,12 @@ Dittelbrunn,Bayern
 Dittelsheim-Heßloch,Rheinland-Pfalz
 Dittenheim,Bayern
 Ditzingen,Baden-Württemberg
+Dobbin-Linstow u.a.,Mecklenburg-Vorpommern
 Dobel,Baden-Württemberg
 Doberlug-Kirchhain,Brandenburg
 "Doberschau-Gaußig, Großpostwitz, Obergurig",Sachsen
 Dogern,Baden-Württemberg
+Dohren,Niedersachsen
 Dollern,Niedersachsen
 Dollerup,Schleswig-Holstein
 Dollnstein,Bayern
@@ -7364,9 +6847,11 @@ Drebber,Niedersachsen
 Drebkau,Brandenburg
 Drei Gleichen,Thüringen
 Dreieich,Hessen
+Dreiheide,Sachsen
 "Dreisen, Standenbühl",Rheinland-Pfalz
 Drensteinfurt,Nordrhein-Westfalen
 Dresden,Sachsen
+Drestedt u.a.,Niedersachsen
 Driedorf,Hessen
 Drochtersen,Niedersachsen
 Drolshagen,Nordrhein-Westfalen
@@ -7398,7 +6883,9 @@ Eberhardzell,Baden-Württemberg
 Ebermannsdorf,Bayern
 Ebermannstadt,Bayern
 Ebern,Bayern
+Ebernhahn,Rheinland-Pfalz
 Ebersbach an der Fils,Baden-Württemberg
+Ebersbach u.a.,Sachsen
 Ebersbach-Musbach,Baden-Württemberg
 Ebersbach-Neugersdorf,Sachsen
 Ebersberg,Bayern
@@ -7414,6 +6901,7 @@ Ebrach,Bayern
 Ebringen,Baden-Württemberg
 Ebsdorfergrund,Hessen
 Ebstorf,Niedersachsen
+Echem,Niedersachsen
 Eching,Bayern
 Eching a. Ammersee,Bayern
 Echzell,Hessen
@@ -7445,6 +6933,7 @@ Egg an der Günz,Bayern
 Eggenfelden,Bayern
 Eggenstein-Leopoldshafen,Baden-Württemberg
 Eggenthal,Bayern
+Eggermühlen,Niedersachsen
 Eggesin,Mecklenburg-Vorpommern
 Eggestorf,Niedersachsen
 Eggingen,Baden-Württemberg
@@ -7466,6 +6955,7 @@ Ehingen,Bayern
 Ehingen a. Ries,Bayern
 Ehningen,Baden-Württemberg
 Ehra-Lessien,Niedersachsen
+Ehrenberg,Hessen
 Ehrenburg,Niedersachsen
 Ehrenfriedersdorf,Sachsen
 Ehrenkirchen,Baden-Württemberg
@@ -7475,6 +6965,7 @@ Eibenstock,Sachsen
 Eich,Rheinland-Pfalz
 Eichenau,Bayern
 Eichenbühl,Baden-Württemberg
+Eichenbach,Rheinland-Pfalz
 "Eichenbarleben, Irxleben, Niederndodeleben u.a.",Sachsen-Anhalt
 Eichendorf,Bayern
 Eichenzell,Hessen
@@ -7506,11 +6997,13 @@ Eitorf,Nordrhein-Westfalen
 Eitting,Bayern
 Elbe,Niedersachsen
 Elbe-Parey,Sachsen-Anhalt
+Elbingerode,Niedersachsen
 Elbtal,Hessen
 Elchesheim-Illingen,Baden-Württemberg
 Elchingen,Bayern
 Eldingen,Niedersachsen
 Elfershausen,Bayern
+Elisabeth-Sophien-Koog,Schleswig-Holstein
 Elkenroth,Rheinland-Pfalz
 "Elleben, Wachsenburg",Thüringen
 Ellefeld,Sachsen
@@ -7539,6 +7032,8 @@ Elsenfeld,Bayern
 Elsfleth,Niedersachsen
 Elsteraue,Sachsen-Anhalt
 Elsterberg,Sachsen
+Elsterheide,Sachsen
+Elstertrebnitz,Sachsen
 Elsterwerda,Brandenburg
 "Elstra, Oßling u.a.",Sachsen
 Eltmann,Bayern
@@ -7566,8 +7061,10 @@ Emsbüren,Niedersachsen
 Emsdetten,Nordrhein-Westfalen
 Emskirchen,Bayern
 Emstek,Niedersachsen
+Emtinghausen,Niedersachsen
 Emtmannsberg,Bayern
 Endingen am Kaiserstuhl,Baden-Württemberg
+Endorf,Sachsen-Anhalt
 "Engden, Isterberg, Schüttorf u.a.",Niedersachsen
 Engelsberg,Bayern
 Engelsbrand,Baden-Württemberg
@@ -7584,6 +7081,7 @@ Ennepetal,Nordrhein-Westfalen
 Ennigerloh,Nordrhein-Westfalen
 Ensdorf,Bayern
 Ense,Nordrhein-Westfalen
+Enspel,Rheinland-Pfalz
 Enzklösterle,Baden-Württemberg
 Epfenbach,Baden-Württemberg
 Epfendorf,Baden-Württemberg
@@ -7597,6 +7095,7 @@ Eppishausen,Bayern
 Eppstein,Hessen
 Erbach,Baden-Württemberg
 Erbendorf,Bayern
+Erden,Rheinland-Pfalz
 Erding,Bayern
 Erdmannhausen,Baden-Württemberg
 Erdweg,Bayern
@@ -7604,6 +7103,7 @@ Eresing,Bayern
 Erfde,Schleswig-Holstein
 Erftstadt,Nordrhein-Westfalen
 Erfurt,Thüringen
+Erfweiler u.a.,Rheinland-Pfalz
 Ergersheim,Bayern
 "Ergolding, Landshut",Bayern
 Ergoldsbach,Bayern
@@ -7631,7 +7131,6 @@ Ertingen,Baden-Württemberg
 Erwitte,Nordrhein-Westfalen
 "Erxleben, Nordgermersleben u.a.",Sachsen-Anhalt
 Erzhausen,Hessen
-Esch,Rheinland-Pfalz
 "Eschach, Obergröningen",Baden-Württemberg
 Eschau,Bayern
 Eschbach,Baden-Württemberg
@@ -7644,6 +7143,7 @@ Eschenbach,Baden-Württemberg
 Eschenbach i.d. OPf.,Bayern
 Eschenburg,Hessen
 Eschenlohe,Bayern
+Eschershausen,Niedersachsen
 Eschlkam,Bayern
 Eschwege,Hessen
 Eschweiler,Nordrhein-Westfalen
@@ -7654,7 +7154,6 @@ Eslohe,Nordrhein-Westfalen
 Espelkamp,Nordrhein-Westfalen
 Espenau,Hessen
 Esselbach,Bayern
-Essen,Nordrhein-Westfalen
 Essen (Oldenburg),Niedersachsen
 Essenbach,Bayern
 Essing,Bayern
@@ -7679,7 +7178,9 @@ Euskirchen,Nordrhein-Westfalen
 "Eutin, Süsel",Schleswig-Holstein
 Eutingen im Gäu,Baden-Württemberg
 Everswinkel,Nordrhein-Westfalen
+Exklave Lahnstein,Rheinland-Pfalz
 Extertal,Nordrhein-Westfalen
+Eydelstedt,Niedersachsen
 "Eystrup, Hassel u.a.",Niedersachsen
 Föhr,Schleswig-Holstein
 Föhren,Rheinland-Pfalz
@@ -7691,6 +7192,7 @@ Fürstenfeldbruck,Bayern
 Fürstenstein,Bayern
 Fürstenwalde/ Spree,Brandenburg
 Fürstenzell,Bayern
+Fürstlich Drehna,Brandenburg
 Fürth,Bayern
 Fürthen,Rheinland-Pfalz
 Füssen,Bayern
@@ -7707,6 +7209,7 @@ Falkenstein,Sachsen-Anhalt
 Falkenstein/Vogtl.,Sachsen
 Farchant,Bayern
 Fargau-Pratjau,Schleswig-Holstein
+Farnstädt,Sachsen-Anhalt
 Faulbach,Bayern
 Fehmarn,Schleswig-Holstein
 Fehrbellin,Brandenburg
@@ -7731,12 +7234,14 @@ Fensterbach,Bayern
 Ferdinandshof u.a.,Mecklenburg-Vorpommern
 Fernwald,Hessen
 Ferschweiler,Rheinland-Pfalz
+Feuchter Forst,Bayern
 Feuchtwangen,Bayern
 Fichtelberg,Bayern
 Fichtenau,Baden-Württemberg
 Fichtenberg,Baden-Württemberg
 Filderstadt,Baden-Württemberg
 Filsum,Niedersachsen
+Finne u.a.,Sachsen-Anhalt
 Finnentrop,Nordrhein-Westfalen
 Finning,Bayern
 Finningen,Bayern
@@ -7744,6 +7249,7 @@ Finsing,Bayern
 Finsterwalde,Brandenburg
 "Fintel, Lauenbrück u.a.",Niedersachsen
 Fischach,Bayern
+Fischbach,Rheinland-Pfalz
 "Fischbach, Erfweiler u.a.",Rheinland-Pfalz
 Fischbachau,Bayern
 Fischbachtal,Hessen
@@ -7755,9 +7261,11 @@ Flöha,Sachsen
 Flörsbachtal,Hessen
 Flörsheim am Main,Hessen
 Flörsheim-Dalsheim,Rheinland-Pfalz
+Flöthe,Niedersachsen
 Flachslanden,Bayern
 Fladungen,Bayern
 Flammersfeld,Rheinland-Pfalz
+Flechtingen,Sachsen-Anhalt
 Fleckeby u.a.,Schleswig-Holstein
 Flein,Baden-Württemberg
 Fleischwangen,Baden-Württemberg
@@ -7789,6 +7297,7 @@ Frankenberg,Sachsen
 "Frankenblick, Schalkau, Bachfeld",Thüringen
 Frankenhardt,Baden-Württemberg
 "Frankenstein, Neidenfels, Frankeneck",Rheinland-Pfalz
+Frankenthal,Sachsen
 Frankenthal (Pfalz),Rheinland-Pfalz
 Frankfurt,Hessen
 Frankfurt am Main,Hessen
@@ -7801,6 +7310,7 @@ Frankweiler,Rheinland-Pfalz
 Frasdorf,Bayern
 Frauenau,Bayern
 Frauenneuharting,Bayern
+Frauensee,Thüringen
 Frauenstein,Sachsen
 Fraunberg,Bayern
 Fraureuth,Sachsen
@@ -7819,11 +7329,13 @@ Freihung,Bayern
 Freilassing,Bayern
 "Freilingen, Freirachdorf u.a.",Rheinland-Pfalz
 Freinsheim,Rheinland-Pfalz
+Freirachdorf u.a.,Rheinland-Pfalz
 Freisbach,Rheinland-Pfalz
 Freisen,Saarland
 Freising,Bayern
 "Freistatt, Varrel, Wehrbleck",Niedersachsen
 Freital,Sachsen
+Frellstedt,Niedersachsen
 Fremdingen,Bayern
 Frensdorf,Bayern
 Freudenberg,Bayern
@@ -7849,7 +7361,9 @@ Friedland,Niedersachsen
 "Friedland, Galenbeck, Datzetal",Mecklenburg-Vorpommern
 Friedrichsdorf,Hessen
 Friedrichshafen,Baden-Württemberg
+Friedrichsholm,Schleswig-Holstein
 Friedrichskoog,Schleswig-Holstein
+Friedrichsruhe u.a.,Mecklenburg-Vorpommern
 "Friedrichstadt, Koldenbüttel u.a.",Schleswig-Holstein
 Friedrichsthal,Saarland
 Frielendorf,Hessen
@@ -7866,16 +7380,19 @@ Fronhausen,Hessen
 Fronreute,Baden-Württemberg
 Frontenhausen,Bayern
 Fußgönheim,Rheinland-Pfalz
+Fuchshofen und Müsch,Rheinland-Pfalz
 Fuchsmühl,Bayern
 Fuchsstadt,Bayern
 Fuchstal,Bayern
 Fuhlenhagen,Schleswig-Holstein
 Fulda,Hessen
 Fuldabrück,Hessen
+Fuldatal,Hessen
 Furth,Bayern
 Furth i. Wald,Bayern
 Furtwangen im Schwarzwald,Baden-Württemberg
 Gädheim,Bayern
+Gägelow u.a.,Mecklenburg-Vorpommern
 Gärtringen,Baden-Württemberg
 Gäufelden,Baden-Württemberg
 Gößnitz,Thüringen
@@ -7883,6 +7400,7 @@ Gößweinstein,Bayern
 Göda,Sachsen
 Göggingen,Baden-Württemberg
 Göhrde,Niedersachsen
+Göhren,Thüringen
 Göllheim,Rheinland-Pfalz
 Gönnheim,Rheinland-Pfalz
 Göppingen,Baden-Württemberg
@@ -7890,6 +7408,7 @@ Görisried,Bayern
 Görlitz,Sachsen
 Görwihl,Baden-Württemberg
 Görzke,Brandenburg
+Gösen,Thüringen
 Gössenheim,Bayern
 Göttingen,Niedersachsen
 Güglingen,Baden-Württemberg
@@ -7912,6 +7431,7 @@ Gaienhofen,Baden-Württemberg
 Gaildorf,Baden-Württemberg
 Gailingen am Hochrhein,Baden-Württemberg
 Gaimersheim,Bayern
+Galenbeck,Mecklenburg-Vorpommern
 Gallmersgarten,Bayern
 Gammelsdorf,Bayern
 Gammelshausen,Baden-Württemberg
@@ -7945,11 +7465,13 @@ Gebhardshain,Rheinland-Pfalz
 Gebsattel,Bayern
 Gechingen,Baden-Württemberg
 Gedern,Hessen
+Geelbek,Schleswig-Holstein
 Geeste,Niedersachsen
 Geesthacht,Schleswig-Holstein
 Geestland,Niedersachsen
 Gefell,Thüringen
 Gefrees,Bayern
+Gehofen,Thüringen
 Gehrde,Niedersachsen
 Gehrden,Niedersachsen
 Geilenkirchen,Nordrhein-Westfalen
@@ -7965,6 +7487,7 @@ Geisingen,Baden-Württemberg
 Geislingen,Baden-Württemberg
 Geislingen an der Steige,Baden-Württemberg
 Geithain,Sachsen
+Gelbensande,Mecklenburg-Vorpommern
 "Gelchsheim, Sonderhofen",Bayern
 Geldern,Nordrhein-Westfalen
 Geldersheim,Bayern
@@ -7972,6 +7495,7 @@ Gelenau/Erzgeb.,Sachsen
 Gelnhausen,Hessen
 Gelsenkirchen,Nordrhein-Westfalen
 Gelsenkirchen Rotthausen,Nordrhein-Westfalen
+Geltdorf,Schleswig-Holstein
 Geltendorf,Bayern
 Gelting,Schleswig-Holstein
 Gemünden,Rheinland-Pfalz
@@ -7986,6 +7510,7 @@ Gensingen,Rheinland-Pfalz
 Georgenberg,Bayern
 Georgensgmünd,Bayern
 Georgenthal/ Thür. Wald,Thüringen
+Georgsdorf,Niedersachsen
 Georgsmarienhütte,Niedersachsen
 Gera,Thüringen
 "Gera, Zedlitz u.a.",Thüringen
@@ -8018,6 +7543,7 @@ Gersheim,Saarland
 Gerstetten,Baden-Württemberg
 Gersthofen,Bayern
 Gerstungen,Thüringen
+Gerwisch,Sachsen-Anhalt
 Gerzen,Bayern
 Geschendorf,Schleswig-Holstein
 Gescher,Nordrhein-Westfalen
@@ -8026,6 +7552,7 @@ Gesees,Bayern
 Geseke,Nordrhein-Westfalen
 Geslau,Bayern
 Gessertshausen,Bayern
+Getelo,Niedersachsen
 Gettorf u.a.,Schleswig-Holstein
 Gevelsberg,Nordrhein-Westfalen
 Gevenich,Rheinland-Pfalz
@@ -8041,6 +7568,7 @@ Gilching,Bayern
 Gillenfeld,Rheinland-Pfalz
 Gilserberg,Hessen
 Gimbsheim,Rheinland-Pfalz
+Gindorf,Rheinland-Pfalz
 Gingen an der Fils,Baden-Württemberg
 Gingst,Mecklenburg-Vorpommern
 Ginsheim-Gustavsburg,Hessen
@@ -8056,6 +7584,7 @@ Glashütte,Sachsen
 Glashütten,Bayern
 Glattbach,Bayern
 Glatten,Baden-Württemberg
+Glaubitz,Sachsen
 Glauburg,Hessen
 Glauchau,Sachsen
 Gleißenberg,Bayern
@@ -8079,13 +7608,18 @@ Goldberg,Mecklenburg-Vorpommern
 Goldenstedt,Niedersachsen
 Goldkronach,Bayern
 Golmbach,Niedersachsen
+Goltoft,Schleswig-Holstein
+Golzow u.a.,Brandenburg
 "Golzow, Zechin u.a.",Brandenburg
 Gomadingen,Baden-Württemberg
 Gomaringen,Baden-Württemberg
 "Gommern, Dannigkow",Sachsen-Anhalt
 Gommersheim,Rheinland-Pfalz
+Gonbach u.a.,Rheinland-Pfalz
 Gondelsheim,Baden-Württemberg
+Gondershausen,Rheinland-Pfalz
 Gorleben,Niedersachsen
+Gornau,Sachsen
 Gornsdorf,Sachsen
 Gorxheimertal,Hessen
 Gosheim,Baden-Württemberg
@@ -8102,9 +7636,11 @@ Gräfenroda,Thüringen
 Gräfenthal,Thüringen
 Grävenwiesbach,Hessen
 Gröbenzell,Bayern
+Gröde,Schleswig-Holstein
 "Gröditz, Wülknitz, Röderaue",Sachsen
 Grömbach,Baden-Württemberg
 Grömitz,Schleswig-Holstein
+Gröningen,Sachsen-Anhalt
 Grönwohld,Schleswig-Holstein
 Grünberg,Hessen
 Gründau,Hessen
@@ -8116,6 +7652,7 @@ Grünkraut,Baden-Württemberg
 Grünsfeld,Baden-Württemberg
 Grünstadt,Rheinland-Pfalz
 Grünwald,Bayern
+Graal-Müritz,Mecklenburg-Vorpommern
 Graben-Neudorf,Baden-Württemberg
 Grabenstätt,Bayern
 Grabenstetten,Baden-Württemberg
@@ -8129,17 +7666,19 @@ Grafenhausen,Baden-Württemberg
 Grafenrheinfeld,Bayern
 Grafenwöhr,Bayern
 Grafenwiesen,Bayern
-Grafhorst,Niedersachsen
 Grafing b. München,Bayern
 Grafling,Bayern
 Grafrath,Bayern
 Grafschaft,Rheinland-Pfalz
 Grainau,Bayern
 Grainet,Bayern
+Grambow u.a.,Mecklenburg-Vorpommern
+Grammow u.a.,Mecklenburg-Vorpommern
 "Gransee, Löwenberg",Brandenburg
 Grasberg,Niedersachsen
 Grasbrunn,Bayern
 Grasellenbach,Hessen
+Grasleben,Niedersachsen
 Grassau,Bayern
 Grattersdorf,Bayern
 Grebenau,Hessen
@@ -8154,11 +7693,13 @@ Greifswald,Mecklenburg-Vorpommern
 Greiz,Thüringen
 Gremsdorf,Bayern
 Grenzach-Wyhlen,Baden-Württemberg
+Gresse,Mecklenburg-Vorpommern
 Grettstadt,Bayern
 Greußen Clingen Großenehrich,Thüringen
 Greußenheim,Bayern
 Greven,Nordrhein-Westfalen
 Grevenbroich,Nordrhein-Westfalen
+Grevenkop,Schleswig-Holstein
 "Grevesmühlen, Stepenitztal, Upahl u.a.",Mecklenburg-Vorpommern
 Griesbach i. Rottal,Bayern
 Griesheim,Hessen
@@ -8166,15 +7707,22 @@ Griesingen,Baden-Württemberg
 Griesstätt,Bayern
 Grimma,Sachsen
 Grimmen,Mecklenburg-Vorpommern
+Groß Düben,Sachsen
 Groß Grönau,Schleswig-Holstein
+Groß Ippener,Niedersachsen
 Groß Köris,Brandenburg
+Groß Krankow u.a.,Mecklenburg-Vorpommern
 Groß Kreutz,Brandenburg
 Groß Kummerfeld,Schleswig-Holstein
+Groß Luckow,Mecklenburg-Vorpommern
 Groß Miltzow,Mecklenburg-Vorpommern
 Groß Oesingen,Niedersachsen
+Groß Pankow,Brandenburg
+Groß Quenstedt,Sachsen-Anhalt
 Groß Rheide,Schleswig-Holstein
 Groß Twülpstedt,Niedersachsen
 Groß Wittensee,Schleswig-Holstein
+Groß Wokern,Mecklenburg-Vorpommern
 Groß-Bieberau,Hessen
 Groß-Gerau,Hessen
 Groß-Rohrheim,Hessen
@@ -8186,6 +7734,7 @@ Großbeeren,Brandenburg
 Großbettlingen,Baden-Württemberg
 Großbottwar,Baden-Württemberg
 Großbreitenbach,Thüringen
+Großbrembach,Thüringen
 "Großdubrau, Malschwitz",Sachsen
 Großefehn,Niedersachsen
 Großenaspe,Schleswig-Holstein
@@ -8204,6 +7753,7 @@ Großhabersdorf,Bayern
 Großhansdorf,Schleswig-Holstein
 Großharrie,Schleswig-Holstein
 "Großharthau, Frankenthal",Sachsen
+Großhartmannsdorf,Sachsen
 Großheide,Niedersachsen
 Großheirath,Bayern
 Großheubach,Bayern
@@ -8215,6 +7765,7 @@ Großmehring,Bayern
 Großolbersdorf,Sachsen
 Großostheim,Bayern
 Großpösna,Sachsen
+Großpostwitz,Sachsen
 Großräschen,Brandenburg
 "Großröhrsdorf, Bretnig-Hauswalde",Sachsen
 Großrückerswalde,Sachsen
@@ -8224,10 +7775,13 @@ Großrosseln,Saarland
 Großschönau,Sachsen
 Großschirma,Sachsen
 Großsolt,Schleswig-Holstein
+Großthiemig u.a.,Brandenburg
 "Großvargula, Tonna",Thüringen
 Großwallstadt,Bayern
 Großweil,Bayern
+Großweitzschen u.a.,Sachsen
 Groitzsch,Sachsen
+Grolsheim,Rheinland-Pfalz
 Gronau,Nordrhein-Westfalen
 Gronau (Leine),Niedersachsen
 Grosselfingen,Baden-Württemberg
@@ -8238,6 +7792,7 @@ Grumbach,Rheinland-Pfalz
 Gschwend,Baden-Württemberg
 Gstadt a. Chiemsee,Bayern
 "Guben, Schenkendöbern",Brandenburg
+Gudendorf,Schleswig-Holstein
 Gudensberg,Hessen
 Gudow,Schleswig-Holstein
 Guldental,Rheinland-Pfalz
@@ -8255,15 +7810,22 @@ Guntersblum,Rheinland-Pfalz
 Gunzenhausen,Bayern
 Gusborn,Niedersachsen
 Gusenburg,Rheinland-Pfalz
+Gusterath,Rheinland-Pfalz
 Gutach (Schwarzwaldbahn),Baden-Württemberg
 Gutach im Breisgau,Baden-Württemberg
+Gutenborn u.a.,Sachsen-Anhalt
 Guteneck,Bayern
 Gutenstetten,Bayern
 Gutenzell-Hürbel,Baden-Württemberg
+Gutsbezirk,Hessen
+Gutsbezirk Reinhardswald,Niedersachsen
 Guttenberg,Bayern
+Guttenberger Wald,Bayern
 Guxhagen,Hessen
 Häg-Ehrsberg,Baden-Württemberg
+Hägerfelde u.a.,Mecklenburg-Vorpommern
 "Hähnichen, Horka, Kodersdorf",Sachsen
+Häuslingen,Niedersachsen
 Höchberg,Bayern
 Höchenschwand,Baden-Württemberg
 Höchst i. Odw.,Hessen
@@ -8289,7 +7851,9 @@ Höslwang,Bayern
 "Hötensleben, Völpke, Ottleben u.a.",Sachsen-Anhalt
 Höttingen,Bayern
 Hövelhof,Nordrhein-Westfalen
+Hövels u.a.,Rheinland-Pfalz
 Höxter,Nordrhein-Westfalen
+Hübingen,Rheinland-Pfalz
 Hückelhoven,Nordrhein-Westfalen
 Hückeswagen,Nordrhein-Westfalen
 Hüffenhardt,Baden-Württemberg
@@ -8297,6 +7861,9 @@ Hüfingen,Baden-Württemberg
 Hügelsheim,Baden-Württemberg
 Hülben,Baden-Württemberg
 Hüllhorst,Nordrhein-Westfalen
+Hülsede etc,Niedersachsen
+Hümmerich,Rheinland-Pfalz
+Hünenfeld,Rheinland-Pfalz
 Hünfeld,Hessen
 Hünfelden,Hessen
 "Hünstetten, Idstein",Hessen
@@ -8346,6 +7913,7 @@ Hainburg,Hessen
 Hainsfarth,Bayern
 Haiterbach,Baden-Württemberg
 Halbe,Brandenburg
+Halbemond u.a.,Niedersachsen
 Halberstadt,Sachsen-Anhalt
 "Halberstadt, Groß Quenstedt",Sachsen-Anhalt
 Halblech,Bayern
@@ -8354,9 +7922,9 @@ Haldensleben,Sachsen-Anhalt
 Haldenwang,Bayern
 Halfing,Bayern
 Hallbergmoos,Bayern
-Halle,Niedersachsen
 Halle (Westfalen),Nordrhein-Westfalen
 Halle/ Saale,Sachsen-Anhalt
+Hallenberg,Hessen
 Hallerndorf,Bayern
 Hallgarten,Rheinland-Pfalz
 Hallig Hooge,Schleswig-Holstein
@@ -8369,6 +7937,7 @@ Haltern am See,Nordrhein-Westfalen
 Halver,Nordrhein-Westfalen
 Halvesbostel,Niedersachsen
 Hambühren,Niedersachsen
+Hambach,Rheinland-Pfalz
 "Hambergen, Holste u.a.",Niedersachsen
 Hambrücken,Baden-Württemberg
 Hamburg,Hamburg
@@ -8401,7 +7970,6 @@ Hardegsen,Niedersachsen
 Hardheim,Baden-Württemberg
 Hardt,Baden-Württemberg
 Hardthausen am Kocher,Baden-Württemberg
-Haren,Niedersachsen
 Hargesheim,Rheinland-Pfalz
 Harmstorf,Niedersachsen
 "Harpstedt, Groß Ippener, Colnrade u.a.",Niedersachsen
@@ -8413,12 +7981,14 @@ Harsleben,Sachsen-Anhalt
 Harsum,Niedersachsen
 Hartenholm,Schleswig-Holstein
 Hartenstein,Sachsen
+Harth-Pöllnitz,Thüringen
 Hartha,Sachsen
 Harthausen,Rheinland-Pfalz
 Hartheim,Baden-Württemberg
 Hartmannsdorf,Sachsen
 Hartmannsdorf-Reichenau,Sachsen
 Harxheim,Rheinland-Pfalz
+Harzgerode,Sachsen-Anhalt
 Harztor,Thüringen
 Hasbergen,Niedersachsen
 Hasel,Baden-Württemberg
@@ -8426,9 +7996,12 @@ Haselünne,Niedersachsen
 Haselbach,Bayern
 Haseldorf,Schleswig-Holstein
 Haselund,Schleswig-Holstein
+Haslach,Baden-Württemberg
 Hasloch,Bayern
+Hassel u.a.,Niedersachsen
 Hasselroth,Hessen
 "Haste, Hohnhorst",Niedersachsen
+Hasuen,Rheinland-Pfalz
 Hatten,Niedersachsen
 Hattenhofen,Baden-Württemberg
 Hattersheim,Hessen
@@ -8464,16 +8037,19 @@ Hebertsfelden,Bayern
 Hebertshausen,Bayern
 Hechingen,Baden-Württemberg
 Hechthausen,Niedersachsen
+Hechtsheim,Rheinland-Pfalz
+Heckenbach,Rheinland-Pfalz
 Hecklingen,Sachsen-Anhalt
 Heddesheim,Baden-Württemberg
 Hedeper,Niedersachsen
 Hedersleben,Sachsen-Anhalt
 "Heeßen, Bad Eilsen",Niedersachsen
-Heek,Nordrhein-Westfalen
 Heemsen,Niedersachsen
 Heere,Niedersachsen
+Hehlen,Niedersachsen
 Heide u.a.,Schleswig-Holstein
 Heideck,Bayern
+Heideland u.a.,Thüringen
 Heidelberg,Baden-Württemberg
 Heiden,Nordrhein-Westfalen
 Heidenau,Sachsen
@@ -8486,6 +8062,7 @@ Heigenbrücken,Bayern
 Heikendorf,Schleswig-Holstein
 Heilbronn,Baden-Württemberg
 Heiligenberg,Baden-Württemberg
+Heiligengrabe,Brandenburg
 Heiligenhafen,Schleswig-Holstein
 Heiligenhaus,Nordrhein-Westfalen
 Heiligenstadt,Thüringen
@@ -8493,6 +8070,7 @@ Heiligenstadt i. OFr.,Bayern
 Heiligkreuzsteinach,Baden-Württemberg
 Heilsbronn,Bayern
 Heimbach,Nordrhein-Westfalen
+Heimbuch,Niedersachsen
 Heimbuchenthal,Bayern
 Heimenkirch,Bayern
 Heimertingen,Bayern
@@ -8500,6 +8078,7 @@ Heimsheim,Baden-Württemberg
 Heinersreuth,Bayern
 Heiningen,Baden-Württemberg
 Heinrichsthal,Bayern
+Heinsberg,Nordrhein-Westfalen
 Heinsen,Niedersachsen
 Heist,Schleswig-Holstein
 Heitersheim,Baden-Württemberg
@@ -8546,16 +8125,20 @@ Hergisdorf,Sachsen-Anhalt
 Heringen,Hessen
 Heringen/ Helme,Thüringen
 Heringsdorf,Schleswig-Holstein
+Heringsdorf u.a.,Mecklenburg-Vorpommern
 Herleshausen,Hessen
 Hermannsburg,Niedersachsen
 Hermaringen,Baden-Württemberg
+Hermeskeil,Rheinland-Pfalz
 Hermsdorf,Thüringen
 Hermsdorf/Erzgeb.,Sachsen
 Herne,Nordrhein-Westfalen
+Heroldishausen,Thüringen
 Heroldsbach,Bayern
 Heroldsberg,Bayern
 Heroldstatt,Baden-Württemberg
 Herrenberg,Baden-Württemberg
+Herrenchiemssee,Bayern
 Herrieden,Bayern
 Herrischried,Baden-Württemberg
 Herrngiersdorf,Bayern
@@ -8566,7 +8149,6 @@ Hersbruck,Bayern
 Herschbach,Rheinland-Pfalz
 Herscheid,Nordrhein-Westfalen
 Herschweiler-Pettersheim,Rheinland-Pfalz
-Herten,Nordrhein-Westfalen
 Herxheim,Rheinland-Pfalz
 "Herzberg, Elbingerode, Hörden",Niedersachsen
 Herzberg/ Elster,Brandenburg
@@ -8592,6 +8174,7 @@ Heuchlingen,Baden-Württemberg
 Heuerßen,Niedersachsen
 Heusenstamm,Hessen
 Heusweiler,Saarland
+Heuweiler,Baden-Württemberg
 Hiddenhausen,Nordrhein-Westfalen
 Hiddensee,Mecklenburg-Vorpommern
 Hilchenbach,Nordrhein-Westfalen
@@ -8631,18 +8214,20 @@ Hirschfeld,Sachsen
 Hirschhorn,Rheinland-Pfalz
 "Hirschhorn, Brombach, Heddesbach",Baden-Württemberg
 Hirzenhain,Hessen
+Hittbergen,Niedersachsen
 Hitzacker (Elbe),Niedersachsen
 Hitzhofen,Bayern
 Hoßkirch,Baden-Württemberg
 Hochdorf,Baden-Württemberg
 Hochdorf-Assenheim,Rheinland-Pfalz
 Hochheim am Main,Hessen
+Hochkirch u.a.,Sachsen
+Hochscheid u.a.,Rheinland-Pfalz
 Hochspeyer,Rheinland-Pfalz
 Hochstadt,Rheinland-Pfalz
 Hochstadt a. Main,Bayern
 Hockenheim,Baden-Württemberg
 Hodenhagen u.a.,Niedersachsen
-Hof,Bayern
 Hofbieber,Hessen
 Hofgeismar,Hessen
 Hofheim am Taunus,Hessen
@@ -8659,6 +8244,7 @@ Hohenau,Bayern
 Hohenberg a.d. Eger,Bayern
 Hohenbrunn,Bayern
 Hohenburg,Bayern
+Hohendubrau u.a.,Sachsen
 Hohenfelde,Schleswig-Holstein
 Hohenfels,Baden-Württemberg
 Hohenfurch,Bayern
@@ -8674,8 +8260,10 @@ Hohenpeißenberg,Bayern
 Hohenpolding,Bayern
 Hohenroda,Hessen
 Hohenroth,Bayern
+Hohenseeden,Sachsen-Anhalt
 Hohenstadt/Drackenstein,Baden-Württemberg
 Hohenstein,Baden-Württemberg
+Hohenstein-Ernstthal,Sachsen
 Hohentengen,Baden-Württemberg
 Hohentengen am Hochrhein,Baden-Württemberg
 Hohenthann,Bayern
@@ -8685,6 +8273,7 @@ Hohenwestedt,Schleswig-Holstein
 Hohn,Schleswig-Holstein
 Hohndorf,Sachsen
 Hohne,Niedersachsen
+Hohnhorst,Niedersachsen
 Hohnstein,Sachsen
 "Hohnstorf (Elbe), Hittbergen",Niedersachsen
 Hoisdorf,Schleswig-Holstein
@@ -8697,6 +8286,7 @@ Hollern-Twielenfleth,Niedersachsen
 Hollfeld,Bayern
 Hollingstedt,Schleswig-Holstein
 Holm,Schleswig-Holstein
+Holste u.a.,Niedersachsen
 Holstenniendorf,Schleswig-Holstein
 Holtsee,Schleswig-Holstein
 Holzdorf,Schleswig-Holstein
@@ -8708,11 +8298,11 @@ Holzkirchen,Bayern
 Holzmaden,Baden-Württemberg
 Holzminden,Niedersachsen
 Holzwickede,Nordrhein-Westfalen
-Homberg,Hessen
 Homberg (Ohm),Hessen
 Homburg,Saarland
 Hoogstede,Niedersachsen
 Hopferau,Bayern
+Hoppegarten,Brandenburg
 Hoppstädten-Weiersbach,Rheinland-Pfalz
 Hopsten,Nordrhein-Westfalen
 Horb am Neckar,Baden-Württemberg
@@ -8720,20 +8310,23 @@ Horben,Baden-Württemberg
 Horgau,Bayern
 Horgenzell,Baden-Württemberg
 Horhausen (Westerwald),Rheinland-Pfalz
+Horka,Sachsen
 Horn-Bad Meinberg,Nordrhein-Westfalen
 Hornbach,Rheinland-Pfalz
 Hornberg,Baden-Württemberg
 Horneburg,Niedersachsen
-Horst,Schleswig-Holstein
+Hornstorf,Mecklenburg-Vorpommern
 Horstedt,Schleswig-Holstein
 Horstmar,Nordrhein-Westfalen
 Hosenfeld,Hessen
 "Hoya, Hoyerhagen, Hilgermissen",Niedersachsen
+Hoyerhagen,Niedersachsen
 Hoyerswerda,Sachsen
 Hude (Oldenburg),Niedersachsen
 Huglfing,Bayern
 Huisheim,Bayern
 Hummeltal,Bayern
+Hundelshausen,Bayern
 Hunderdorf,Bayern
 Hundsbach,Rheinland-Pfalz
 Hungen,Hessen
@@ -8743,13 +8336,16 @@ Husum,Niedersachsen
 "Husum, Schwesing u.a.",Schleswig-Holstein
 Hutthurm,Bayern
 Huy,Sachsen-Anhalt
+Ibach,Baden-Württemberg
 Ibbenbüren,Nordrhein-Westfalen
 Ichenhausen,Bayern
 Icking,Bayern
 Idar-Oberstein,Rheinland-Pfalz
 Idstedt,Schleswig-Holstein
+Idstein,Hessen
 Iffeldorf,Bayern
 Iffezheim,Baden-Württemberg
+Igel,Rheinland-Pfalz
 Igensdorf,Bayern
 Igersheim,Baden-Württemberg
 Iggensbach,Bayern
@@ -8769,6 +8365,7 @@ Illmensee,Baden-Württemberg
 Illschwang,Bayern
 Ilmenau,Thüringen
 Ilmmünster,Bayern
+Ilmtal,Thüringen
 Ilsede,Niedersachsen
 "Ilsenburg, Nordharz",Sachsen-Anhalt
 Ilsfeld,Baden-Württemberg
@@ -8782,6 +8379,7 @@ Immenstadt im Allgäu,Bayern
 Imsbach,Rheinland-Pfalz
 Inchenhofen,Bayern
 Inden,Nordrhein-Westfalen
+Ingelfingen,Baden-Württemberg
 Ingelheim am Rhein,Rheinland-Pfalz
 Ingenried,Bayern
 Ingersheim,Baden-Württemberg
@@ -8804,6 +8402,8 @@ Irrel,Rheinland-Pfalz
 Irsch,Rheinland-Pfalz
 Irschenberg,Bayern
 Irsee,Bayern
+Irtenberger Wald,Bayern
+Irxleben,Sachsen-Anhalt
 Isen,Bayern
 Isenbüttel,Niedersachsen
 Iserlohn,Nordrhein-Westfalen
@@ -8814,6 +8414,7 @@ Ispringen,Baden-Württemberg
 Isselburg,Nordrhein-Westfalen
 Issigau,Bayern
 Issum,Nordrhein-Westfalen
+Isterberg,Niedersachsen
 Itterbeck/Wielen,Niedersachsen
 Ittlingen,Baden-Württemberg
 Itzehoe,Schleswig-Holstein
@@ -8823,11 +8424,13 @@ Jößnitz,Sachsen
 Jöhstadt,Sachsen
 "Jördenstorf, Prebberede u.a.",Mecklenburg-Vorpommern
 Jörl,Schleswig-Holstein
+Jübek,Schleswig-Holstein
 Jüchen,Nordrhein-Westfalen
 Jülich,Nordrhein-Westfalen
 Jünkerath,Rheinland-Pfalz
 Jüterbog,Brandenburg
 Jachenau,Bayern
+Jacobsdorf,Brandenburg
 Jade,Niedersachsen
 "Jagel, Lottorf",Schleswig-Holstein
 Jagsthausen,Baden-Württemberg
@@ -8864,6 +8467,7 @@ Joldelund,Schleswig-Holstein
 Jonsdorf,Sachsen
 Jork,Niedersachsen
 Jossgrund,Hessen
+Judenbach,Thüringen
 "Juist, Memmert",Niedersachsen
 Julbach,Bayern
 Jungingen,Baden-Württemberg
@@ -8873,6 +8477,7 @@ Kößlarn,Bayern
 Köditz,Bayern
 Ködnitz,Bayern
 Köfering,Bayern
+Kölbingen,Rheinland-Pfalz
 Kölleda,Thüringen
 Köln,Nordrhein-Westfalen
 Köngen,Baden-Württemberg
@@ -8886,7 +8491,7 @@ Königsbrunn,Bayern
 Königsdorf,Bayern
 Königsee-Rottenbach u.a.,Thüringen
 Königseggwald,Baden-Württemberg
-Königsfeld,Bayern
+Königsfeld,Rheinland-Pfalz
 Königsfeld im Schwarzwald,Baden-Württemberg
 Königsheim,Baden-Württemberg
 Königslutter am Elm,Niedersachsen
@@ -8905,9 +8510,11 @@ Köthen,Sachsen-Anhalt
 Kötz,Bayern
 Kötzting,Bayern
 Kühbach,Bayern
+Kühlenthal,Bayern
 Kühlungsborn,Mecklenburg-Vorpommern
 Küllstedt,Thüringen
 Külsheim,Baden-Württemberg
+Kümmernitztal u.a.,Brandenburg
 Kümmersbruck,Bayern
 Künzell,Hessen
 "Künzelsau, Ingelfingen",Baden-Württemberg
@@ -8922,10 +8529,12 @@ Kaarst,Nordrhein-Westfalen
 Kabelsketal,Sachsen-Anhalt
 Kahl am Main,Bayern
 Kahla,Thüringen
+Kaiserpfalz,Sachsen-Anhalt
 Kaisersbach,Baden-Württemberg
 Kaisersesch,Rheinland-Pfalz
 Kaiserslautern,Rheinland-Pfalz
 Kaisheim,Bayern
+Kakenstorf u.a.,Niedersachsen
 Kalbach,Hessen
 Kalbe,Sachsen-Anhalt
 Kalefeld,Niedersachsen
@@ -8934,13 +8543,16 @@ Kall,Nordrhein-Westfalen
 Kalletal,Nordrhein-Westfalen
 Kallmünz,Bayern
 Kallstadt,Rheinland-Pfalz
+Kaltenborn,Rheinland-Pfalz
 Kaltenbrunn,Bayern
 Kaltenkirchen,Schleswig-Holstein
 Kaltennordheim,Thüringen
 Kaltental,Bayern
 Kamen,Nordrhein-Westfalen
 Kamenz,Sachsen
+Kamerlanderdeich,Schleswig-Holstein
 Kammeltal,Bayern
+Kammerforst u.a.,Thüringen
 Kammlach,Bayern
 Kamp-Bornhofen-Filsen,Rheinland-Pfalz
 Kamp-Lintfort,Nordrhein-Westfalen
@@ -8966,7 +8578,9 @@ Karsbach,Bayern
 Karsdorf,Sachsen-Anhalt
 "Karstädt, Dambeck, Klüß",Mecklenburg-Vorpommern
 Karwitz,Niedersachsen
+Kasel u.a.,Rheinland-Pfalz
 Kasendorf,Bayern
+Kasseburg,Schleswig-Holstein
 Kasseedorf,Schleswig-Holstein
 Kassel,Hessen
 "Kassel, Fuldatal",Hessen
@@ -8984,6 +8598,7 @@ Kaufungen,Hessen
 Kaulsdorf,Thüringen
 Kefenrod,Hessen
 Kehl,Baden-Württemberg
+Kelberg,Rheinland-Pfalz
 Kelbra (Kyffhäuser),Sachsen-Anhalt
 Kelheim,Bayern
 Kelkheim,Hessen
@@ -9004,6 +8619,7 @@ Kenzingen,Baden-Württemberg
 Kerken,Nordrhein-Westfalen
 Kernen im Remstal,Baden-Württemberg
 Kerpen,Nordrhein-Westfalen
+Kesseling,Rheinland-Pfalz
 Ketsch,Baden-Württemberg
 "Kettenkamp, Eggermühlen, Ankum",Niedersachsen
 Kettershausen,Bayern
@@ -9044,6 +8660,7 @@ Kirchdorf i. Wald,Bayern
 Kirchehrenbach,Bayern
 Kirchen (Sieg),Rheinland-Pfalz
 Kirchenlamitz,Bayern
+Kirchenpingarten,Bayern
 Kirchensittenbach,Bayern
 Kirchentellinsfurt,Baden-Württemberg
 Kirchenthumbach,Bayern
@@ -9064,8 +8681,11 @@ Kirchhundem,Nordrhein-Westfalen
 Kirchlauter,Bayern
 Kirchlengern,Nordrhein-Westfalen
 Kirchlinteln,Niedersachsen
+Kirchnüchel,Schleswig-Holstein
 Kirchroth,Bayern
+Kirchsahr,Rheinland-Pfalz
 Kirchseeon,Bayern
+Kirchwalsede u.a.,Niedersachsen
 Kirchweidach,Bayern
 Kirchzarten,Baden-Württemberg
 Kirchzell,Bayern
@@ -9084,6 +8704,7 @@ Kitzscher,Sachsen
 Klütz,Mecklenburg-Vorpommern
 Klausen,Rheinland-Pfalz
 Klein Bünzow,Mecklenburg-Vorpommern
+Klein Kampen,Schleswig-Holstein
 Klein Offenseth-Sparrieshoop,Schleswig-Holstein
 Klein Wesenberg,Schleswig-Holstein
 Kleinblittersdorf,Saarland
@@ -9098,6 +8719,8 @@ Kleinmaischeid,Rheinland-Pfalz
 Kleinostheim,Bayern
 Kleinrinderfeld,Bayern
 Kleinwallstadt,Bayern
+Klempau,Schleswig-Holstein
+Klettbach,Thüringen
 Klettgau,Baden-Württemberg
 Kleve,Nordrhein-Westfalen
 Klingenberg,Sachsen
@@ -9105,6 +8728,7 @@ Klingenberg a. Main,Bayern
 Klingenmünster u.a.,Rheinland-Pfalz
 Klingenthal,Sachsen
 Klingenthal/Sa.,Sachsen
+Klipphausen,Sachsen
 "Klostermansfeld, Benndorf",Sachsen-Anhalt
 Klotten,Rheinland-Pfalz
 Knüllwald,Hessen
@@ -9116,6 +8740,7 @@ Kochel a. See,Bayern
 Kohlberg,Baden-Württemberg
 Kolbermoor,Bayern
 Kolbingen,Baden-Württemberg
+Koldenbüttel u.a.,Schleswig-Holstein
 Kolitzheim,Bayern
 Kolkwitz,Brandenburg
 "Kollmar, Pagensand",Schleswig-Holstein
@@ -9134,9 +8759,11 @@ Kornwestheim,Baden-Württemberg
 Korschenbroich,Nordrhein-Westfalen
 "Kosel, Rieseby u.a.",Schleswig-Holstein
 Koserow,Mecklenburg-Vorpommern
+Kottenborn u.a.,Rheinland-Pfalz
 Kottenheim,Rheinland-Pfalz
 Kottgeisering,Bayern
 Kottmar,Sachsen
+Kottmar u.a.,Sachsen
 Krölpa,Thüringen
 Kröning,Bayern
 "Kröpelin, Carinerland",Mecklenburg-Vorpommern
@@ -9148,15 +8775,16 @@ Krün,Bayern
 Kraiburg a. Inn,Bayern
 Kraichtal,Baden-Württemberg
 "Krakow, Dobbin-Linstow u.a.",Mecklenburg-Vorpommern
-Kranenburg,Nordrhein-Westfalen
 Kranichfeld u.a.,Thüringen
 Kranzberg,Bayern
 Krauchenwies,Baden-Württemberg
 "Krauschwitz, Weißkeißel",Sachsen
+Krauthausen u.a.,Thüringen
 Krautheim,Baden-Württemberg
 "Krayenberggemeinde, Frauensee",Thüringen
 Kreßberg,Baden-Württemberg
 Krefeld,Nordrhein-Westfalen
+Kreiensen,Niedersachsen
 Kreimbach-Kaulbach,Rheinland-Pfalz
 Kreischa,Sachsen
 Kremmen,Brandenburg
@@ -9164,14 +8792,17 @@ Kremmen,Brandenburg
 Kremperheide,Schleswig-Holstein
 Kressbronn am Bodensee,Baden-Württemberg
 Kretz,Rheinland-Pfalz
+Kretzhaus (Linz am Rhein),Rheinland-Pfalz
 Kreuth,Bayern
 Kreuzau,Nordrhein-Westfalen
 Kreuztal,Nordrhein-Westfalen
 Kreuzwertheim,Bayern
 Krickenbach,Rheinland-Pfalz
+Kriebstein,Sachsen
 Kriegsfeld,Rheinland-Pfalz
 Krien u.a.,Mecklenburg-Vorpommern
 Kriftel,Hessen
+Kritzmow,Mecklenburg-Vorpommern
 Krombach,Bayern
 Kronach,Bayern
 Kronau,Baden-Württemberg
@@ -9180,12 +8811,14 @@ Kronburg,Bayern
 "Kronprinzenkoog, Marne u.a.",Schleswig-Holstein
 Kronshagen,Schleswig-Holstein
 Kropp u.a.,Schleswig-Holstein
+Krostitz u.a.,Sachsen
 Kruft,Rheinland-Pfalz
 Krumbach (Schwaben),Bayern
 Krummendeich,Niedersachsen
 Krummennaab,Bayern
 "Krummesse, Klempau",Schleswig-Holstein
 Krummhörn,Niedersachsen
+Krummin,Mecklenburg-Vorpommern
 Kuchen,Baden-Württemberg
 Kuddewörde,Schleswig-Holstein
 Kuhardt,Rheinland-Pfalz
@@ -9203,6 +8836,7 @@ Kutenholz,Niedersachsen
 Kutzenhausen,Bayern
 Kyffhäuserland,Thüringen
 Kyllburg,Rheinland-Pfalz
+Kyritz u.a.,Brandenburg
 Lägerdorf,Schleswig-Holstein
 Lähden,Niedersachsen
 Lößnitz,Sachsen
@@ -9215,6 +8849,7 @@ Löhnberg,Hessen
 Löhne,Nordrhein-Westfalen
 Löningen,Niedersachsen
 Lörrach,Baden-Württemberg
+Löwenberg,Brandenburg
 Löwenstedt,Schleswig-Holstein
 Löwenstein,Baden-Württemberg
 Lübbecke,Nordrhein-Westfalen
@@ -9224,6 +8859,7 @@ Lübbow,Niedersachsen
 Lübeck,Schleswig-Holstein
 Lübeck Schlutup/St. Gertrud,Schleswig-Holstein
 Lübeck St. Lorenz Nord,Schleswig-Holstein
+Lübow u.a.,Mecklenburg-Vorpommern
 Lübstorf,Mecklenburg-Vorpommern
 Lübtheen,Mecklenburg-Vorpommern
 "Lübz, Passow",Mecklenburg-Vorpommern
@@ -9267,6 +8903,7 @@ Laichingen,Baden-Württemberg
 Lalling,Bayern
 Lam,Bayern
 Lambrecht (Pfalz),Rheinland-Pfalz
+Lambrechtshagen,Mecklenburg-Vorpommern
 Lambsheim,Rheinland-Pfalz
 Lamerdingen,Bayern
 Lampertheim,Hessen
@@ -9291,7 +8928,6 @@ Langenaltheim,Bayern
 Langenargen,Baden-Württemberg
 Langenau,Baden-Württemberg
 Langenbach,Bayern
-Langenberg,Nordrhein-Westfalen
 Langenbernsdorf,Sachsen
 Langenbrettach,Baden-Württemberg
 Langenburg,Baden-Württemberg
@@ -9312,23 +8948,28 @@ Langensendelbach,Bayern
 "Langenstein, Derenburg",Sachsen-Anhalt
 "Langenweißbach, Wildenfels",Sachsen
 Langenwetzendorf,Thüringen
+Langenwolschendorf,Thüringen
 Langenzenn,Bayern
 Langeoog,Niedersachsen
 Langerringen,Bayern
 Langerwehe,Nordrhein-Westfalen
 Langfurth,Bayern
 Langgöns,Hessen
+Langhagen,Mecklenburg-Vorpommern
 Langlingen,Niedersachsen
 Langquaid,Bayern
+Langstedt,Schleswig-Holstein
 Langsur,Rheinland-Pfalz
 Langwedel,Schleswig-Holstein
 Langweid a. Lech,Bayern
 Langweiler,Rheinland-Pfalz
 "Lanitz-Hassel-Tal, Molauer Land",Sachsen-Anhalt
+Lankau,Schleswig-Holstein
 Lappersdorf,Bayern
 Lasbek,Schleswig-Holstein
 Lasel,Rheinland-Pfalz
 Lastrup,Niedersachsen
+Lathen u.a.,Niedersachsen
 Laubach,Hessen
 Lauben,Bayern
 Laucha an der Unstrut,Sachsen-Anhalt
@@ -9337,6 +8978,8 @@ Lauchheim,Baden-Württemberg
 Lauchringen,Baden-Württemberg
 Lauda-Königshofen,Baden-Württemberg
 Laudenbach,Baden-Württemberg
+Lauenau,Niedersachsen
+Lauenbrück u.a.,Niedersachsen
 Lauenburg/Elbe,Schleswig-Holstein
 Lauenförde,Niedersachsen
 Lauenhagen,Niedersachsen
@@ -9349,10 +8992,12 @@ Lauffen am Neckar,Baden-Württemberg
 Laugna,Bayern
 Lauingen (Donau),Bayern
 Laupheim,Baden-Württemberg
+Lauscha,Thüringen
 Lauta,Sachsen
 Lautenbach,Baden-Württemberg
 Lauter,Bayern
 Lauter-Bernsbach,Sachsen
+Lauterach,Baden-Württemberg
 Lauterbach,Hessen
 Lauterecken u.a.,Rheinland-Pfalz
 Lauterhofen,Bayern
@@ -9361,6 +9006,7 @@ Lautertal,Bayern
 Lautertal (Odenwald),Hessen
 Lautrach,Bayern
 Lebach,Saarland
+Lebus,Brandenburg
 Lechbruck,Bayern
 Leck,Schleswig-Holstein
 Leegebruch,Brandenburg
@@ -9370,6 +9016,7 @@ Leezen,Schleswig-Holstein
 Legau,Bayern
 "Legde/Quitzöbel, Bad Wilsnack",Brandenburg
 Legden,Nordrhein-Westfalen
+Lehe,Niedersachsen
 Lehesten,Thüringen
 "Lehmen, Niederfell, Oberfell, Wolken u.a.",Rheinland-Pfalz
 Lehnin,Brandenburg
@@ -9396,6 +9043,7 @@ Leinzell,Baden-Württemberg
 Leipheim,Bayern
 Leipzig,Sachsen
 Leisnig,Sachsen
+Leitzkau,Sachsen-Anhalt
 Leiwen u.a.,Rheinland-Pfalz
 Lemberg,Rheinland-Pfalz
 "Lembruch, Burlage",Niedersachsen
@@ -9448,20 +9096,22 @@ Lieberose,Brandenburg
 Liebstadt,Sachsen
 Liederbach am Taunus,Hessen
 Lienen,Nordrhein-Westfalen
+Lietzen u.a.,Brandenburg
 Lilienthal,Niedersachsen
-Limbach,Baden-Württemberg
+Limbach,Sachsen
 Limbach-Oberfrohna,Sachsen
 Limburg,Hessen
 Limburgerhof,Rheinland-Pfalz
 Limeshain,Hessen
 Linau,Schleswig-Holstein
+Lindau,Sachsen-Anhalt
 Lindau (Bodensee),Bayern
-Linden,Hessen
 "Linden, Barkenholm",Schleswig-Holstein
 Lindenberg,Rheinland-Pfalz
 Lindenberg im Allgäu,Bayern
 Lindenfels,Hessen
 Lindern (Oldenburg),Niedersachsen
+Lindewitt,Schleswig-Holstein
 Lindhorst,Niedersachsen
 Lindlar,Nordrhein-Westfalen
 Lindow u.a.,Brandenburg
@@ -9485,8 +9135,9 @@ Lobenstein,Thüringen
 Loffenau,Baden-Württemberg
 Lohberg,Bayern
 Lohfelden,Hessen
+Lohheide u.a.,Niedersachsen
 Lohmar,Nordrhein-Westfalen
-Lohmen,Sachsen
+Lohmen,Mecklenburg-Vorpommern
 Lohne,Niedersachsen
 Lohnsfeld,Rheinland-Pfalz
 Lohr a. Main,Bayern
@@ -9506,13 +9157,16 @@ Lorsch,Hessen
 "Lorup, Rastdorf",Niedersachsen
 Losheim,Saarland
 Lotte,Nordrhein-Westfalen
+Lottorf,Schleswig-Holstein
 Lottstetten,Baden-Württemberg
 Loxstedt,Niedersachsen
 Lubmin,Mecklenburg-Vorpommern
 Lucka,Thüringen
+Luckaitztal,Brandenburg
 Luckau (Wendland),Niedersachsen
 "Luckau, Waldrehna, Heideblick, Fürstlich Drehna",Brandenburg
 Luckenwalde,Brandenburg
+Ludwigsau,Hessen
 Ludwigsburg,Baden-Württemberg
 Ludwigschorgast,Bayern
 Ludwigsfelde,Brandenburg
@@ -9526,11 +9180,13 @@ Luhe-Wildenau,Bayern
 Lunden,Schleswig-Holstein
 Lunzenau,Sachsen
 Lustadt,Rheinland-Pfalz
+Lutter,Niedersachsen
 Lutzerath,Rheinland-Pfalz
 Lutzingen,Bayern
 Lychen,Brandenburg
 Mähring,Bayern
 Märkisch Buchholz,Brandenburg
+Märkische Höhe u.a.,Brandenburg
 "Möckern, Schermen, Nedlitz u.a.",Sachsen-Anhalt
 Möckmühl,Baden-Württemberg
 Mögglingen,Baden-Württemberg
@@ -9544,6 +9200,7 @@ Mömbris,Bayern
 Mömlingen,Bayern
 Mönchberg,Bayern
 Mönchengladbach,Nordrhein-Westfalen
+Mönchenholzhausen u.a.,Thüringen
 Mönchsdeggingen,Bayern
 Mönchsroth,Bayern
 Mönchweiler,Baden-Württemberg
@@ -9552,6 +9209,7 @@ Mönsheim,Baden-Württemberg
 Mörfelden-Walldorf,Hessen
 Mörlenbach,Hessen
 Mörnsheim,Bayern
+Mörsfeld,Rheinland-Pfalz
 Mössingen,Baden-Württemberg
 Möttingen,Bayern
 Mötzing,Bayern
@@ -9601,6 +9259,7 @@ Münsterhausen,Bayern
 Münstermaifeld,Rheinland-Pfalz
 Münstertal,Baden-Württemberg
 Münzenberg,Hessen
+Müssen u.a.,Schleswig-Holstein
 Maßbach,Bayern
 Maßweiler,Rheinland-Pfalz
 "Maasen, Mellinghausen",Niedersachsen
@@ -9634,6 +9293,7 @@ Malgersdorf,Bayern
 Mallersdorf-Pfaffenberg,Bayern
 Malsburg-Marzell,Baden-Württemberg
 Malsch,Baden-Württemberg
+Malschwitz,Sachsen
 Malsfeld,Hessen
 Malterdingen,Baden-Württemberg
 Mammelzen,Rheinland-Pfalz
@@ -9652,8 +9312,10 @@ Margetshöchheim,Bayern
 Mariaposching,Bayern
 Marienberg,Sachsen
 Marienheide,Nordrhein-Westfalen
+Marienhof,Schleswig-Holstein
 Marienmünster,Nordrhein-Westfalen
 Maring-Noviand,Rheinland-Pfalz
+Marisfeld,Thüringen
 Markdorf,Baden-Württemberg
 "Markersdorf, Neißeaue u.a.",Sachsen
 Markgröningen,Baden-Württemberg
@@ -9686,7 +9348,9 @@ Marktschellenberg,Bayern
 Marktschorgast,Bayern
 Marktzeuln,Bayern
 Marl,Nordrhein-Westfalen
+Marloffstein,Bayern
 Marlow,Mecklenburg-Vorpommern
+Marne u.a.,Schleswig-Holstein
 Marnheim,Rheinland-Pfalz
 "Marnitz, Siggelkow",Mecklenburg-Vorpommern
 Maroldsweisach,Bayern
@@ -9701,6 +9365,7 @@ Marxzell,Baden-Württemberg
 Marzling,Bayern
 Maselheim,Baden-Württemberg
 Massenbachhausen,Baden-Württemberg
+Masserberg,Thüringen
 Massing,Bayern
 Mastershausen,Rheinland-Pfalz
 Mauer,Baden-Württemberg
@@ -9740,6 +9405,7 @@ Mehrstetten,Baden-Württemberg
 Meißen,Sachsen
 Meißenheim,Baden-Württemberg
 Meißner,Hessen
+Meiersberg,Mecklenburg-Vorpommern
 Meine,Niedersachsen
 Meinersen,Niedersachsen
 Meinerzhagen,Nordrhein-Westfalen
@@ -9753,11 +9419,13 @@ Meitingen,Bayern
 "Melchow, Chorin u.a.",Brandenburg
 Meldorf,Schleswig-Holstein
 Melle,Niedersachsen
+Mellinghausen,Niedersachsen
 Mellrichstadt,Bayern
 Melsbach,Rheinland-Pfalz
 Melsdorf,Schleswig-Holstein
 Melsungen,Hessen
 Memmelsdorf,Bayern
+Memmert,Niedersachsen
 Memmingen,Bayern
 Memmingerberg,Bayern
 Menden,Nordrhein-Westfalen
@@ -9767,7 +9435,6 @@ Mengerskirchen,Hessen
 Mengkofen,Bayern
 Menslage,Niedersachsen
 "Menteroda, Obermehler",Thüringen
-Meppen,Niedersachsen
 Merching,Bayern
 Merchweiler,Saarland
 Merdingen,Baden-Württemberg
@@ -9787,6 +9454,8 @@ Merzig,Saarland
 Meschede,Nordrhein-Westfalen
 Mespelbrunn,Bayern
 Messel,Hessen
+Messingen,Niedersachsen
+Mestlin,Mecklenburg-Vorpommern
 Metelen,Nordrhein-Westfalen
 Metten,Bayern
 Mettenheim,Bayern
@@ -9797,6 +9466,7 @@ Metzingen,Baden-Württemberg
 "Meudt, Molsberg, Hundsangen, Niederahr u.a.",Rheinland-Pfalz
 Meuselwitz,Thüringen
 "Meyenburg, Kümmernitztal u.a.",Brandenburg
+Meyn u.a.,Schleswig-Holstein
 Michelau i. OFr.,Bayern
 "Michelau i. Steigerwald, Hundelshausen",Bayern
 Michelbach an der Bilz,Baden-Württemberg
@@ -9810,6 +9480,7 @@ Mielkendorf,Schleswig-Holstein
 Miesbach,Bayern
 Mietingen,Baden-Württemberg
 Mihla,Thüringen
+Mildenau,Sachsen
 Mildstedt,Schleswig-Holstein
 "Milower Land, Schollene, Nennhausen u.a.",Sachsen-Anhalt
 Miltach,Bayern
@@ -9846,7 +9517,9 @@ Moers,Nordrhein-Westfalen
 Mohlsdorf-Teichwolframsdorf,Thüringen
 "Mohrkirch, Rügge",Schleswig-Holstein
 Moisburg,Niedersachsen
+Molauer Land,Sachsen-Anhalt
 Molbergen,Niedersachsen
+Moltzow u.a.,Mecklenburg-Vorpommern
 Mommenheim,Rheinland-Pfalz
 Monheim,Bayern
 Monheim am Rhein,Nordrhein-Westfalen
@@ -9872,19 +9545,23 @@ Mosbach,Baden-Württemberg
 Mossautal,Hessen
 Motten,Bayern
 Much,Nordrhein-Westfalen
+Muchelndorf,Schleswig-Holstein
 Mudau,Baden-Württemberg
 Mudersbach,Rheinland-Pfalz
 Muggensturm,Baden-Württemberg
 Muhr a. See,Bayern
+Mulda,Sachsen
 Muldenhammer,Sachsen
 Muldestausee,Sachsen-Anhalt
 Mulfingen,Baden-Württemberg
 Mundelsheim,Baden-Württemberg
 Munderkingen,Baden-Württemberg
+Munkbrarup,Schleswig-Holstein
 Munningen,Bayern
 Munster,Niedersachsen
 Murg,Baden-Württemberg
 Murnau a. Staffelsee,Bayern
+Murr,Baden-Württemberg
 Murrhardt,Baden-Württemberg
 Mutlangen,Baden-Württemberg
 Mutterstadt,Rheinland-Pfalz
@@ -9904,6 +9581,7 @@ Nüsttal,Hessen
 Nabburg,Bayern
 Nachrodt-Wiblingwerde,Nordrhein-Westfalen
 Nackenheim,Rheinland-Pfalz
+Nadrensee,Mecklenburg-Vorpommern
 Nagel,Bayern
 Nagold,Baden-Württemberg
 Nahe,Schleswig-Holstein
@@ -9938,6 +9616,8 @@ Neetze,Niedersachsen
 Negenborn,Niedersachsen
 Nehms,Schleswig-Holstein
 Nehren,Baden-Württemberg
+Neißeaue u.a.,Sachsen
+Neidenfels,Rheinland-Pfalz
 Neidenstein,Baden-Württemberg
 Neidlingen,Baden-Württemberg
 Neitersen,Rheinland-Pfalz
@@ -9946,6 +9626,7 @@ Nennslingen,Bayern
 Nentershausen,Hessen
 "Nentershausen, Hübingen, Niederelbert u.a.",Rheinland-Pfalz
 Neresheim,Baden-Württemberg
+Neroth u.a.,Rheinland-Pfalz
 Nersingen,Bayern
 "Nesse-Apfelstädt, Nottleben",Thüringen
 Nesselwang,Bayern
@@ -9981,12 +9662,14 @@ Neuching,Bayern
 Neudenau,Baden-Württemberg
 Neudrossenfeld,Bayern
 Neuenbürg,Baden-Württemberg
+Neuenbrook,Schleswig-Holstein
 Neuenburg am Rhein,Baden-Württemberg
 Neuendettelsau,Bayern
 Neuendorf,Bayern
 Neuengönna u.a.,Thüringen
 Neuengörs,Schleswig-Holstein
 "Neuenhagen, Hoppegarten",Brandenburg
+Neuenhaus,Niedersachsen
 Neuenkirchen,Niedersachsen
 Neuenkirchen-Vörden,Niedersachsen
 "Neuenkirchen, Scholen",Niedersachsen
@@ -10006,6 +9689,8 @@ Neufra,Baden-Württemberg
 Neufraunhofen,Bayern
 Neuhäusel,Rheinland-Pfalz
 Neuhütten,Bayern
+Neuhardenberg,Brandenburg
+Neuharlingersiel u.a.,Niedersachsen
 Neuhaus (Oste),Niedersachsen
 Neuhaus a. Inn,Bayern
 Neuhaus a.d.Pegnitz,Bayern
@@ -10021,6 +9706,7 @@ Neuhof,Hessen
 Neuhof a.d.Zenn,Bayern
 Neuhofen,Rheinland-Pfalz
 Neukalen,Mecklenburg-Vorpommern
+Neukamperfehn u.a.,Niedersachsen
 "Neukieritzsch, Deutzen",Sachsen
 Neukirch,Baden-Württemberg
 Neukirch/Lausitz,Sachsen
@@ -10036,6 +9722,7 @@ Neukirchen-Vluyn,Nordrhein-Westfalen
 Neukirchen/Erzgeb.,Sachsen
 Neukirchen/Pleiße,Sachsen
 Neukloster,Mecklenburg-Vorpommern
+Neulehe,Niedersachsen
 Neuler,Baden-Württemberg
 Neulingen,Baden-Württemberg
 Neulußheim,Baden-Württemberg
@@ -10048,7 +9735,9 @@ Neunburg vorm Wald,Bayern
 Neunkirchen,Saarland
 Neunkirchen a. Brand,Bayern
 Neunkirchen am Sand,Bayern
+Neunkirchen u.a.,Mecklenburg-Vorpommern
 Neunkirchen-Seelscheid,Nordrhein-Westfalen
+Neupetershain,Brandenburg
 Neupotz,Rheinland-Pfalz
 Neureichenau,Bayern
 Neuried,Bayern
@@ -10056,6 +9745,7 @@ Neuruppin,Brandenburg
 Neusäß,Bayern
 Neusalza-Spremberg,Sachsen
 Neuschönau,Bayern
+Neuschoo,Niedersachsen
 Neusitz,Bayern
 Neusorg,Bayern
 Neuss,Nordrhein-Westfalen
@@ -10090,20 +9780,25 @@ Nideggen,Nordrhein-Westfalen
 Niebüll,Schleswig-Holstein
 Niedenstein,Hessen
 Nieder-Olm,Rheinland-Pfalz
+Niederöfflingen u.a.,Rheinland-Pfalz
+Niederahr u.a.,Rheinland-Pfalz
 Niederaichbach,Bayern
 Niederalteich,Bayern
 Niederaula,Hessen
 Niederbreitbach,Rheinland-Pfalz
 Niederburg,Rheinland-Pfalz
 Niederdorfelden,Hessen
+Niederdreisbach,Rheinland-Pfalz
 Niedereschach,Baden-Württemberg
 Niederfüllbach,Bayern
+Niederfell,Rheinland-Pfalz
 Niederfischbach,Rheinland-Pfalz
 Niederfrohna,Sachsen
 Niederkassel,Nordrhein-Westfalen
 Niederkirchen,Rheinland-Pfalz
 Niederkirchen bei Deidesheim,Rheinland-Pfalz
 Niederkrüchten,Nordrhein-Westfalen
+Niederlangen,Niedersachsen
 Niedermurach,Bayern
 Niedernberg,Bayern
 Niederneisen,Rheinland-Pfalz
@@ -10144,6 +9839,7 @@ Nittenau,Bayern
 Nittendorf,Bayern
 "Nobitz, Göhren, Windischleuba",Thüringen
 Nohfelden,Saarland
+Nohn u.a.,Rheinland-Pfalz
 Nonnenhorn,Bayern
 Nonnweiler,Saarland
 Norden,Niedersachsen
@@ -10151,7 +9847,9 @@ Nordendorf,Bayern
 Nordenham,Niedersachsen
 Norderney,Niedersachsen
 Norderstedt,Schleswig-Holstein
+Nordgermersleben u.a.,Sachsen-Anhalt
 Nordhalben,Bayern
+Nordharz,Sachsen-Anhalt
 Nordhastedt,Schleswig-Holstein
 Nordhausen,Thüringen
 Nordheim,Baden-Württemberg
@@ -10164,13 +9862,16 @@ Nordsehl,Niedersachsen
 Nordstemmen,Niedersachsen
 "Nordstrand, Elisabeth-Sophien-Koog, Südfall",Schleswig-Holstein
 Nordwalde,Nordrhein-Westfalen
+Nordwestuckermark u.a.,Brandenburg
 Norheim u.a.,Rheinland-Pfalz
+Norken,Rheinland-Pfalz
 Northeim,Niedersachsen
 Nortmoor,Niedersachsen
 Nortorf,Schleswig-Holstein
 Nortrup,Niedersachsen
 Nossen,Sachsen
 Nossentiner Hütte,Mecklenburg-Vorpommern
+Nottleben,Thüringen
 Nottuln,Nordrhein-Westfalen
 Notzingen,Baden-Württemberg
 Nußbach,Rheinland-Pfalz
@@ -10182,6 +9883,7 @@ Nusplingen,Baden-Württemberg
 Nusse,Schleswig-Holstein
 Nuthe-Urstromtal,Brandenburg
 Nuthetal,Brandenburg
+Oßling u.a.,Sachsen
 Ober-Mörlen,Hessen
 Ober-Olm,Rheinland-Pfalz
 Ober-Ramstadt,Hessen
@@ -10194,6 +9896,7 @@ Oberaurach,Bayern
 "Oberbarnim, Märkische Höhe u.a.",Brandenburg
 Oberbergkirchen,Bayern
 Oberboihingen,Baden-Württemberg
+Oberbrombach u.a.,Rheinland-Pfalz
 Oberdachstetten,Bayern
 Oberderdingen,Baden-Württemberg
 Oberding,Bayern
@@ -10202,6 +9905,7 @@ Oberdolling,Bayern
 Oberdreis,Rheinland-Pfalz
 Oberelsbach,Bayern
 Obergünzburg,Bayern
+Obergröningen,Baden-Württemberg
 Obergriesbach,Bayern
 Oberhaching,Bayern
 Oberhaid,Bayern
@@ -10213,11 +9917,13 @@ Oberhof,Thüringen
 Oberkirch,Baden-Württemberg
 Oberkochen,Baden-Württemberg
 Oberkotzau,Bayern
+Oberkrämer,Brandenburg
 Oberlahr,Rheinland-Pfalz
 "Oberlangen, Niederlangen",Niedersachsen
 Oberleichtersbach,Bayern
 Oberlungwitz,Sachsen
 Obermarchtal,Baden-Württemberg
+Obermehler,Thüringen
 "Obermoschel, Schiersfeld",Rheinland-Pfalz
 Obernbreit,Bayern
 Obernburg a.Main,Bayern
@@ -10227,6 +9933,7 @@ Oberndorf am Neckar,Baden-Württemberg
 Oberneukirchen,Bayern
 Obernheim,Baden-Württemberg
 Obernheim-Kirchenarnbach u.a.,Rheinland-Pfalz
+Obernholz,Niedersachsen
 Obernkirchen,Niedersachsen
 Obernzell,Bayern
 Obernzenn,Bayern
@@ -10234,6 +9941,7 @@ Oberostendorf,Bayern
 Oberottmarshausen,Bayern
 Oberpöring,Bayern
 Oberpframmern,Bayern
+Oberpleichfeld,Bayern
 Oberreichenbach,Bayern
 Oberreute,Bayern
 Oberried,Baden-Württemberg
@@ -10244,10 +9952,12 @@ Oberrot,Baden-Württemberg
 Oberroth,Bayern
 Obersöchering,Bayern
 Obersüßbach,Bayern
+Oberschöna,Sachsen
 Oberschönegg,Bayern
 Oberscheinfeld,Bayern
 Oberschleißheim,Bayern
 Oberschneiding,Bayern
+Oberschulenberg,Niedersachsen
 Oberschwarzach,Bayern
 Oberschweinbach,Bayern
 Obersinn,Bayern
@@ -10270,7 +9980,9 @@ Oberweißbach u.a.,Thüringen
 Oberwesel,Rheinland-Pfalz
 Oberweser,Hessen
 Oberwiesenthal,Sachsen
+Oberwolfach,Baden-Württemberg
 Oberzent,Hessen
+Obhausen,Sachsen-Anhalt
 Obing,Bayern
 Obrigheim,Baden-Württemberg
 Obrigheim (Pfalz),Rheinland-Pfalz
@@ -10279,7 +9991,9 @@ Ochsenhausen,Baden-Württemberg
 Ochtendung,Rheinland-Pfalz
 Ochtersum,Niedersachsen
 Ochtrup,Nordrhein-Westfalen
+Ockenfels,Rheinland-Pfalz
 Ockenheim,Rheinland-Pfalz
+Ockholm u.a.,Schleswig-Holstein
 Odelzhausen,Bayern
 Odenbach,Rheinland-Pfalz
 Odenthal,Nordrhein-Westfalen
@@ -10312,6 +10026,7 @@ Ofterdingen,Baden-Württemberg
 Ohlsbach,Baden-Württemberg
 Ohlstadt,Bayern
 Ohmden,Baden-Württemberg
+Ohrdruf,Thüringen
 Ohrenbach,Bayern
 Oland,Schleswig-Holstein
 "Olbernhau, Pfaffroda, Heidersdorf",Sachsen
@@ -10327,6 +10042,8 @@ Olfen,Nordrhein-Westfalen
 Olpe,Nordrhein-Westfalen
 Olsberg,Nordrhein-Westfalen
 Olsbrücken,Rheinland-Pfalz
+Opernturm,Hessen
+Oppach,Sachsen
 Oppenau,Baden-Württemberg
 Oppenheim,Rheinland-Pfalz
 Oppenweiler,Baden-Württemberg
@@ -10344,14 +10061,19 @@ Osdorf,Schleswig-Holstein
 Osloß,Niedersachsen
 Osnabrück,Niedersachsen
 Ostbevern,Nordrhein-Westfalen
+Osteel u.a.,Niedersachsen
 Ostelsheim,Baden-Württemberg
 Osten,Niedersachsen
 Ostenfeld,Schleswig-Holstein
+Ostenholz,Niedersachsen
 Osterberg,Bayern
 "Osterburg, Altmärkische Höhe",Sachsen-Anhalt
 Osterburken,Baden-Württemberg
 Osterby,Schleswig-Holstein
 Ostercappeln,Niedersachsen
+Osterfeld,Sachsen-Anhalt
+Osterheide,Niedersachsen
+Osterhever,Schleswig-Holstein
 Osterhofen,Bayern
 Osterholz-Scharmbeck,Niedersachsen
 Osternienburger Land,Sachsen-Anhalt
@@ -10368,6 +10090,7 @@ Ostrau,Sachsen
 Ostrhauderfehn,Niedersachsen
 "Ostritz, Schönau-Berzdorf",Sachsen
 Ostseebad Heringsdorf,Mecklenburg-Vorpommern
+Oststeinbek,Hamburg
 Ottenbüttel,Schleswig-Holstein
 Ottenbach,Baden-Württemberg
 Ottendorf-Okrilla,Sachsen
@@ -10410,6 +10133,7 @@ Pürgen,Bayern
 Püttlingen,Saarland
 Padenstedt,Schleswig-Holstein
 Paderborn,Nordrhein-Westfalen
+Pagensand,Schleswig-Holstein
 Pahlen,Schleswig-Holstein
 Painten,Bayern
 Palling,Bayern
@@ -10417,6 +10141,7 @@ Pampow,Mecklenburg-Vorpommern
 Panketal,Brandenburg
 Pansdorf,Schleswig-Holstein
 Papenburg,Niedersachsen
+Papendorf u.a.,Mecklenburg-Vorpommern
 Pappenheim,Bayern
 Parchim,Mecklenburg-Vorpommern
 Parkstein,Bayern
@@ -10427,19 +10152,23 @@ Parsdorf/Hergolding,Bayern
 Partenstein,Bayern
 Pasewalk u.a.,Mecklenburg-Vorpommern
 Passau,Bayern
+Passow,Mecklenburg-Vorpommern
 Pastetten,Bayern
+Patersberg,Rheinland-Pfalz
 Patersdorf,Bayern
 Pattensen,Niedersachsen
 Paunzhausen,Bayern
 Pausa-Mühltroff,Sachsen
 Pechbrunn,Bayern
 "Pegau, Elstertrebnitz",Sachsen
+Pegestorf,Niedersachsen
 Pegnitz,Bayern
 Peißenberg,Bayern
 Peine,Niedersachsen
 Peiting,Bayern
 Peitz,Brandenburg
 Pellingen,Rheinland-Pfalz
+Pellworm,Schleswig-Holstein
 "Pelm, Neroth u.a.",Rheinland-Pfalz
 Pemfling,Bayern
 Penig,Sachsen
@@ -10457,9 +10186,11 @@ Perl,Saarland
 Perlesreut,Bayern
 Petersaurach,Bayern
 Petersberg,Sachsen-Anhalt
+Petersberg u.a.,Rheinland-Pfalz
 Petersdorf,Bayern
-Petershagen,Nordrhein-Westfalen
+Petershagen,Brandenburg
 Petershausen,Bayern
+Petersroda,Sachsen-Anhalt
 Peterswald-Löffelscheid u.a.,Rheinland-Pfalz
 Pettendorf,Bayern
 Petting,Bayern
@@ -10471,6 +10202,7 @@ Pfaffenhofen a.d. Ilm,Bayern
 Pfaffenhofen a.d. Roth,Bayern
 Pfaffenweiler,Baden-Württemberg
 Pfaffing,Bayern
+Pfaffroda,Sachsen
 Pfakofen,Bayern
 Pfalzgrafenweiler,Baden-Württemberg
 Pfarrkirchen,Bayern
@@ -10506,6 +10238,7 @@ Pirmasens,Rheinland-Pfalz
 Pittenhart,Bayern
 Plößberg,Bayern
 Plön,Schleswig-Holstein
+Plötzkau,Sachsen-Anhalt
 Plüderhausen,Baden-Württemberg
 Plaidt,Rheinland-Pfalz
 Planegg/Krailling,Bayern
@@ -10531,6 +10264,7 @@ Pluwig,Rheinland-Pfalz
 Pockau-Lengefeld (Lengefeld),Sachsen
 Pockau-Lengefeld (Pockau),Sachsen
 Pocking,Bayern
+Podelzig,Brandenburg
 "Pohle, Lauenau, Messenkamp, Hülsede etc",Niedersachsen
 Pohlheim,Hessen
 Poing,Bayern
@@ -10542,6 +10276,7 @@ Polsingen,Bayern
 Pommelsbrunn,Bayern
 Pommern,Rheinland-Pfalz
 Pommersfelden,Bayern
+Pomster,Rheinland-Pfalz
 Poppenhausen,Hessen
 Poppenricht,Bayern
 Porta Westfalica,Nordrhein-Westfalen
@@ -10554,7 +10289,9 @@ Poxdorf,Bayern
 Prüm,Rheinland-Pfalz
 Pracht,Rheinland-Pfalz
 Prackenbach,Bayern
+Prebberede u.a.,Mecklenburg-Vorpommern
 Preetz,Schleswig-Holstein
+Preischeid u.a.,Rheinland-Pfalz
 Preist,Rheinland-Pfalz
 Prem,Bayern
 Premnitz,Brandenburg
@@ -10586,17 +10323,22 @@ Pullenreuth,Bayern
 Pulsnitz,Sachsen
 Puschendorf,Bayern
 Putbus,Mecklenburg-Vorpommern
+Putlitz,Brandenburg
 Putzbrunn,Bayern
 Pyrbaum,Bayern
 Quakenbrück,Niedersachsen
+Qualitz,Mecklenburg-Vorpommern
 Quedlinburg,Sachsen-Anhalt
 "Quedlinburg, Ballenstedt",Sachsen-Anhalt
+Queidersbach u.a.,Rheinland-Pfalz
+Querenhorst,Niedersachsen
 "Querfurt, Obhausen, Mücheln u.a.",Sachsen-Anhalt
 Quickborn,Schleswig-Holstein
 Quierschied,Saarland
 Räbke,Niedersachsen
 Rätzlingen,Niedersachsen
 "Rätzlingen, Wegenstedt, Calvörde, Böddensell u.a.",Sachsen-Anhalt
+Rößnitz,Sachsen
 Röbel/Müritz,Mecklenburg-Vorpommern
 Röckingen,Bayern
 Rödelsee,Bayern
@@ -10627,11 +10369,14 @@ Röttenbach,Bayern
 Rötz,Bayern
 Rückersdorf,Bayern
 Rückholz,Bayern
+Rüdenau,Bayern
 Rüdersdorf,Brandenburg
 Rüdesheim,Rheinland-Pfalz
 Rüdesheim am Rhein,Hessen
+Rügge,Schleswig-Holstein
 Rügland,Bayern
 Rühen,Niedersachsen
+Rühstädt,Brandenburg
 Rülzheim,Rheinland-Pfalz
 Rümmingen,Baden-Württemberg
 Rüsselsheim,Hessen
@@ -10655,6 +10400,7 @@ Raisting,Bayern
 Rakow,Mecklenburg-Vorpommern
 Ralingen,Rheinland-Pfalz
 Ramerberg,Bayern
+Ramhusen,Schleswig-Holstein
 Rammelsbach u.a.,Rheinland-Pfalz
 Rammingen,Bayern
 Ramsau b. Berchtesgaden,Bayern
@@ -10672,11 +10418,13 @@ Rantrum,Schleswig-Holstein
 Raschau,Sachsen
 Rasdorf,Hessen
 Rastatt,Baden-Württemberg
+Rastdorf,Niedersachsen
 Rastede,Niedersachsen
 Rastenberg,Thüringen
 Rastow,Mecklenburg-Vorpommern
 Ratekau,Schleswig-Holstein
 Rathenow,Brandenburg
+Rathskirchen u.a.,Rheinland-Pfalz
 Ratingen,Nordrhein-Westfalen
 Ratshausen,Baden-Württemberg
 Rattelsdorf,Bayern
@@ -10685,12 +10433,14 @@ Rattiszell,Bayern
 Ratzeburg,Schleswig-Holstein
 Raubach,Rheinland-Pfalz
 Raubling,Bayern
+Rauen u.a.,Brandenburg
 Rauenberg,Baden-Württemberg
 Rauhenebrach,Bayern
 Raunheim,Hessen
 Rauschenberg,Hessen
+Rausdorf,Schleswig-Holstein
+Ravensberg u.a.,Mecklenburg-Vorpommern
 Ravensburg,Baden-Württemberg
-Ravenstein,Baden-Württemberg
 Rechberghausen,Baden-Württemberg
 Rechlin,Mecklenburg-Vorpommern
 Rechtenbach,Bayern
@@ -10699,6 +10449,7 @@ Recke,Nordrhein-Westfalen
 Reckendorf,Bayern
 Recklinghausen,Nordrhein-Westfalen
 Redwitz a.d. Rodach,Bayern
+Reeßum,Niedersachsen
 Rees,Nordrhein-Westfalen
 Regen,Bayern
 Regensburg,Bayern
@@ -10709,15 +10460,17 @@ Regnitzlosau,Bayern
 Rehau,Bayern
 Rehborn,Rheinland-Pfalz
 Rehburg-Loccum,Niedersachsen
+Rehden,Niedersachsen
 Reher,Schleswig-Holstein
 Rehling,Bayern
 Rehlingen-Siersburg,Saarland
+Rehm-Flehde-Bargen,Schleswig-Holstein
 "Rehna, Carlow u.a.",Mecklenburg-Vorpommern
 Reichartshausen,Baden-Württemberg
 Reichelsheim (Odenwald),Hessen
 Reichelsheim (Wetterau),Hessen
 Reichenau,Baden-Württemberg
-Reichenbach,Bayern
+Reichenbach,Baden-Württemberg
 Reichenbach an der Fils,Baden-Württemberg
 "Reichenbach, Vierkirchen",Sachsen
 Reichenbach/Vogtl.,Sachsen
@@ -10799,11 +10552,13 @@ Rhens,Rheinland-Pfalz
 Rheurdt,Nordrhein-Westfalen
 Rhinow,Brandenburg
 Rhodt u.a.,Rheinland-Pfalz
+Rhumequelle,Niedersachsen
 Ribbesbüttel,Niedersachsen
 Ribnitz-Damgarten,Mecklenburg-Vorpommern
+Richtenberg,Mecklenburg-Vorpommern
 Rickenbach,Baden-Württemberg
+Rickert,Schleswig-Holstein
 Rickling,Schleswig-Holstein
-Ried,Bayern
 Riedbach,Bayern
 Riede,Niedersachsen
 Rieden,Bayern
@@ -10825,6 +10580,7 @@ Riesa,Sachsen
 "Riesa, Stauchitz, Hirschstein",Sachsen
 Riesbürg,Baden-Württemberg
 Rieschweiler-Mühlbach,Rheinland-Pfalz
+Rieseby u.a.,Schleswig-Holstein
 Rieste,Niedersachsen
 Riesweiler,Rheinland-Pfalz
 Rietberg,Nordrhein-Westfalen
@@ -10835,6 +10591,7 @@ Rimpar,Bayern
 Rimsting,Bayern
 Rinchnach,Bayern
 "Ringe, Laar, Emlichheim",Niedersachsen
+Ringelah,Niedersachsen
 Ringelai,Bayern
 Ringgau,Hessen
 Ringsheim,Baden-Württemberg
@@ -10843,6 +10600,7 @@ Rinteln,Niedersachsen
 Ritterhude,Niedersachsen
 Rittersdorf u.a.,Rheinland-Pfalz
 Roßbach,Bayern
+Roßbach u.a.,Rheinland-Pfalz
 Roßdorf,Hessen
 Roßhaupten,Bayern
 "Roßleben-Wiehe, Gehofen",Thüringen
@@ -10856,9 +10614,9 @@ Rockenberg,Hessen
 Rodach b. Coburg,Bayern
 Rodalben,Rheinland-Pfalz
 "Rodeberg, Dünwald u.a.",Thüringen
-Roden,Bayern
 Rodenäs,Schleswig-Holstein
 Rodenbach,Rheinland-Pfalz
+Rodenberg,Niedersachsen
 Rodewald,Niedersachsen
 Rodewisch,Sachsen
 Rodgau,Hessen
@@ -10870,6 +10628,8 @@ Rohlstorf,Schleswig-Holstein
 Rohr,Bayern
 Rohr i. NB,Bayern
 Rohrbach,Bayern
+Rohrberg,Sachsen-Anhalt
+Rohrbrunner Forst,Bayern
 Rohrdorf,Baden-Württemberg
 Rohrenfels,Bayern
 Rohrsen,Niedersachsen
@@ -10886,8 +10646,10 @@ Ronshausen,Hessen
 Rosbach v.d. Höhe,Hessen
 Rosche,Niedersachsen
 Rosdorf,Niedersachsen
+Rosenau,Brandenburg
 Rosenbach,Sachsen
 Rosenberg,Baden-Württemberg
+Rosenburg u.a.,Sachsen-Anhalt
 Rosendahl,Nordrhein-Westfalen
 Rosenfeld,Baden-Württemberg
 Rosengarten,Baden-Württemberg
@@ -10896,6 +10658,7 @@ Rosenow,Mecklenburg-Vorpommern
 Rosenthal,Hessen
 Rosenthal am Rennsteig,Thüringen
 "Rositz, Starkenberg, Treben",Thüringen
+Rossau,Sachsen
 Rostock,Mecklenburg-Vorpommern
 "Rostock, Gelbensande, Rövershagen u.a.",Mecklenburg-Vorpommern
 "Rostock, Graal-Müritz",Mecklenburg-Vorpommern
@@ -10906,12 +10669,14 @@ Rot an der Rot,Baden-Württemberg
 Rotenburg,Niedersachsen
 Rotenburg an der Fulda,Hessen
 Roth,Bayern
+Rothenbuch,Bayern
 "Rothenbuch, Rothenbucher Forst",Bayern
+Rothenbucher Forst,Bayern
 Rothenburg ob der Tauber,Bayern
 Rothenburg/O.L.,Sachsen
 Rothenfels,Bayern
+Rothenklempenow,Mecklenburg-Vorpommern
 Rothselberg u.a.,Rheinland-Pfalz
-Rott,Bayern
 Rott a. Inn,Bayern
 Rottach-Egern,Bayern
 Rottenacker,Baden-Württemberg
@@ -10931,12 +10696,15 @@ Ruhla,Thüringen
 Ruhland,Brandenburg
 Ruhpolding,Bayern
 Ruhstorf a.d. Rott,Bayern
+Rullstorf,Niedersachsen
 Rumohr,Schleswig-Holstein
 Runding,Bayern
 Runkel,Hessen
 Ruppertsberg,Rheinland-Pfalz
+Ruppertsecken u.a.,Rheinland-Pfalz
 Ruppertshofen,Baden-Württemberg
 Ruppichteroth,Nordrhein-Westfalen
+Ruschberg u.a.,Rheinland-Pfalz
 Rust,Baden-Württemberg
 Rutesheim,Baden-Württemberg
 Söchtenau,Bayern
@@ -10951,6 +10719,7 @@ Süßen,Baden-Württemberg
 Südbrookmerland,Niedersachsen
 Südeichsfeld,Thüringen
 Süderbrarup,Schleswig-Holstein
+Süderhackstedt,Schleswig-Holstein
 Süderhastedt,Schleswig-Holstein
 "Süderlügum, Braderup u.a.",Schleswig-Holstein
 "Süderoog, Pellworm",Schleswig-Holstein
@@ -10963,6 +10732,8 @@ Sülzetal,Sachsen-Anhalt
 Sünching,Bayern
 "Süpplingen, Frellstedt",Niedersachsen
 Süpplingenburg,Niedersachsen
+Süsel,Schleswig-Holstein
+Süstedt,Niedersachsen
 Saal,Mecklenburg-Vorpommern
 Saal a.d. Donau,Bayern
 Saalburg-Ebersdorf,Thüringen
@@ -10973,6 +10744,7 @@ Saarburg,Rheinland-Pfalz
 Saarlouis,Saarland
 Saarwellingen,Saarland
 Sachsen b. Ansbach,Bayern
+Sachsenhagen,Niedersachsen
 Sachsenheim,Baden-Württemberg
 Sachsenkam,Bayern
 Saerbeck,Nordrhein-Westfalen
@@ -11031,6 +10803,7 @@ Satow,Mecklenburg-Vorpommern
 Satteldorf,Baden-Württemberg
 Sauensiek,Niedersachsen
 Sauerlach,Bayern
+Sauldorf,Baden-Württemberg
 Saulgrub,Bayern
 Saulheim,Rheinland-Pfalz
 Schäftlarn,Bayern
@@ -11043,6 +10816,7 @@ Schönaich,Baden-Württemberg
 Schönau,Baden-Württemberg
 Schönau a.d. Brend,Bayern
 Schönau im Schwarzwald,Baden-Württemberg
+Schönau-Berzdorf,Sachsen
 Schönberg,Bayern
 Schönberg (Holstein),Schleswig-Holstein
 Schönborn,Rheinland-Pfalz
@@ -11077,11 +10851,13 @@ Schaafheim,Hessen
 Schacht-Audorf,Schleswig-Holstein
 "Schafflund, Meyn u.a.",Schleswig-Holstein
 "Schafstedt, Weidenhof, Bornholt",Schleswig-Holstein
+Schalkau,Thüringen
 "Schalkenbach, Königsfeld, Dedenbach",Rheinland-Pfalz
 Schalksmühle,Nordrhein-Westfalen
 Schallbach,Baden-Württemberg
 Schallodenbach,Rheinland-Pfalz
 Schallstadt,Baden-Württemberg
+Schapen,Niedersachsen
 Scharbeutz,Schleswig-Holstein
 "Scharbeutz, Süsel",Schleswig-Holstein
 "Scharnebeck, Echem, Lüdersburg, Rullstorf",Niedersachsen
@@ -11102,9 +10878,11 @@ Schelklingen,Baden-Württemberg
 Schellerten,Niedersachsen
 Schemmerhofen,Baden-Württemberg
 Schenefeld,Schleswig-Holstein
+Schenkendöbern,Brandenburg
 Schenkenzell,Baden-Württemberg
 Schenklengsfeld,Hessen
 Schermbeck,Nordrhein-Westfalen
+Schermen,Sachsen-Anhalt
 Schernfeld,Bayern
 Scherstetten,Bayern
 Scheuerfeld,Rheinland-Pfalz
@@ -11112,11 +10890,13 @@ Scheuring,Bayern
 Scheyern,Bayern
 Schieder-Schwalenberg,Nordrhein-Westfalen
 Schierling,Bayern
+Schiersfeld,Rheinland-Pfalz
 Schiffdorf,Niedersachsen
 Schifferstadt,Rheinland-Pfalz
 Schiffweiler,Saarland
 Schildow,Brandenburg
 Schillingen,Rheinland-Pfalz
+Schillinghof,Baden-Württemberg
 Schillingsfürst,Bayern
 Schillsdorf,Schleswig-Holstein
 Schiltach,Baden-Württemberg
@@ -11138,6 +10918,7 @@ Schleching,Bayern
 Schlehdorf,Bayern
 Schleiden,Nordrhein-Westfalen
 Schleife,Sachsen
+Schleimünde,Schleswig-Holstein
 Schleiz,Thüringen
 Schlema,Sachsen
 Schleswig,Schleswig-Holstein
@@ -11151,6 +10932,7 @@ Schlierbach,Baden-Württemberg
 Schliersee,Bayern
 Schlitz,Hessen
 Schloß Holte-Stukenbrock,Nordrhein-Westfalen
+Schloßvippach u.a.,Thüringen
 Schlotheim,Thüringen
 Schluchsee,Baden-Württemberg
 "Schmölln, Altkirchen, Nöbdenitz u.a.",Thüringen
@@ -11159,6 +10941,7 @@ Schmalensee,Schleswig-Holstein
 Schmalfeld,Schleswig-Holstein
 Schmalkalden,Thüringen
 Schmallenberg,Nordrhein-Westfalen
+Schmedeswurth,Schleswig-Holstein
 Schmelz,Saarland
 Schmidgaden,Bayern
 Schmidmühlen,Bayern
@@ -11170,6 +10953,7 @@ Schnackenburg,Niedersachsen
 Schnaitsee,Bayern
 Schnaittach,Bayern
 Schnaittenbach,Bayern
+Schnarup-Thumby,Schleswig-Holstein
 Schneckenhausen,Rheinland-Pfalz
 Schneckenlohe,Bayern
 Schneeberg,Bayern
@@ -11177,7 +10961,10 @@ Schnega,Niedersachsen
 Schneizlreuth,Bayern
 Schnelldorf,Bayern
 "Schneverdingen, Heimbuch",Niedersachsen
+Schnorbach,Rheinland-Pfalz
+Scholen,Niedersachsen
 Schollbrunn,Bayern
+Schollene,Sachsen-Anhalt
 Schonach im Schwarzwald,Baden-Württemberg
 Schondorf a. Ammersee,Bayern
 Schondra,Bayern
@@ -11191,6 +10978,7 @@ Schorfheide,Brandenburg
 Schorndorf,Baden-Württemberg
 Schortens,Niedersachsen
 Schotten,Hessen
+Schraden,Brandenburg
 Schramberg,Baden-Württemberg
 "Schraplau, Farnstädt",Sachsen-Anhalt
 Schrecksbach,Hessen
@@ -11198,6 +10986,7 @@ Schriesheim,Baden-Württemberg
 Schrobenhausen,Bayern
 Schrozberg,Baden-Württemberg
 Schuby,Schleswig-Holstein
+Schulenberg,Niedersachsen
 Schulzendorf b. Eichenwade,Brandenburg
 Schuttertal,Baden-Württemberg
 Schutterwald,Baden-Württemberg
@@ -11229,10 +11018,12 @@ Schwanewede,Niedersachsen
 Schwanfeld,Bayern
 Schwangau,Bayern
 Schwanstetten,Bayern
+Schwarme,Niedersachsen
 Schwarmstedt u.a.,Niedersachsen
 Schwarzach,Bayern
 Schwarzach a. Main,Bayern
 Schwarzach b. Nabburg,Bayern
+Schwarzbach,Thüringen
 Schwarzburg,Thüringen
 Schwarzenbach,Bayern
 Schwarzenbach a. Wald,Bayern
@@ -11248,6 +11039,7 @@ Schwebheim,Bayern
 Schwedt,Brandenburg
 Schwegenheim,Rheinland-Pfalz
 Schweich,Rheinland-Pfalz
+Schweindorf u.a.,Niedersachsen
 Schweinfurt,Bayern
 Schweitenkirchen,Bayern
 Schwelm,Nordrhein-Westfalen
@@ -11258,12 +11050,14 @@ Schwentinetal,Schleswig-Holstein
 Schwerin,Mecklenburg-Vorpommern
 "Schweringen, Warpe, Bücken",Niedersachsen
 Schwerte,Nordrhein-Westfalen
+Schwesing u.a.,Schleswig-Holstein
 Schwetzingen,Baden-Württemberg
 Schwieberdingen,Baden-Württemberg
 Schwielowswee,Brandenburg
 Schwienau,Niedersachsen
 Schwifting,Bayern
 Schwindegg,Bayern
+Schwittschau,Schleswig-Holstein
 Seßlach,Bayern
 Sebnitz,Sachsen
 Seckach,Baden-Württemberg
@@ -11272,6 +11066,7 @@ Seebach,Thüringen
 Seebad Ahlbeck,Mecklenburg-Vorpommern
 Seedorf,Schleswig-Holstein
 Seefeld,Bayern
+Seefeld u.a.,Schleswig-Holstein
 Seeg,Bayern
 Seegebiet Mansfelder Land,Sachsen-Anhalt
 "Seehausen, Werben, Leppin u.a.",Sachsen-Anhalt
@@ -11286,10 +11081,13 @@ Seesen,Niedersachsen
 Seeshaupt,Bayern
 Seester,Schleswig-Holstein
 Seestermühe,Schleswig-Holstein
+Seeth,Schleswig-Holstein
 Seevetal,Niedersachsen
 Seewald,Baden-Württemberg
+Seggebruch,Niedersachsen
 Sehestedt,Schleswig-Holstein
 Sehlde,Niedersachsen
+Sehlem,Rheinland-Pfalz
 Sehma,Sachsen
 Sehnde,Niedersachsen
 Seibersbach,Rheinland-Pfalz
@@ -11299,6 +11097,7 @@ Seitingen-Oberflacht,Baden-Württemberg
 Selb,Bayern
 Selbitz,Bayern
 Selent,Schleswig-Holstein
+Selfkant,Nordrhein-Westfalen
 Seligenstadt,Hessen
 "Selk, Geltdorf, Hahnekrug",Schleswig-Holstein
 Sellin,Mecklenburg-Vorpommern
@@ -11323,7 +11122,6 @@ Sexau,Baden-Württemberg
 Sibbesse,Niedersachsen
 "Sickte, Dettum u.a.",Niedersachsen
 Siedenburg,Niedersachsen
-Staffhorst,Niedersachsen
 Siegbach,Hessen
 Siegburg,Nordrhein-Westfalen
 Siegelsbach,Baden-Württemberg
@@ -11335,11 +11133,12 @@ Sielenbach,Bayern
 Siershahn,Rheinland-Pfalz
 Sievershütten,Schleswig-Holstein
 Sieverstedt,Schleswig-Holstein
+Siggelkow,Mecklenburg-Vorpommern
 Sigmaringen,Baden-Württemberg
 Sigmaringendorf,Baden-Württemberg
 Sigmarszell,Bayern
-Schwittschau,Schleswig-Holstein
 Silberstedt,Schleswig-Holstein
+Silz u.a.,Rheinland-Pfalz
 Simbach,Bayern
 Simbach a. Inn,Bayern
 Simmelsdorf,Bayern
@@ -11362,9 +11161,9 @@ Sinzing,Bayern
 Sippersfeld,Rheinland-Pfalz
 Sipplingen,Baden-Württemberg
 Sittensen u.a.,Niedersachsen
+Sitzendorf,Thüringen
 Sobernheim,Rheinland-Pfalz
 Soderstorf,Niedersachsen
-Soest,Nordrhein-Westfalen
 Sohland a. d. Spree,Sachsen
 Sohren,Rheinland-Pfalz
 Solingen,Nordrhein-Westfalen
@@ -11374,11 +11173,14 @@ Solnhofen,Bayern
 Soltau,Niedersachsen
 Soltendiek,Niedersachsen
 Sommerach,Bayern
+Sommersdorf,Sachsen-Anhalt
+Sonderhofen,Bayern
 Sondershausen,Thüringen
 Sonneberg,Thüringen
 Sonnefeld,Bayern
 Sonnen,Bayern
 Sonnenbühl,Baden-Württemberg
+Sonnenstein,Thüringen
 Sonnewalde,Brandenburg
 Sonsbeck,Nordrhein-Westfalen
 Sontheim,Bayern
@@ -11404,6 +11206,7 @@ Spiegelau,Bayern
 Spiegelberg,Baden-Württemberg
 Spiekeroog,Niedersachsen
 Spiesen-Elversberg,Saarland
+Spitzkunnersdorf,Sachsen
 "Sponholz, Neunkirchen u.a.",Mecklenburg-Vorpommern
 Spornitz,Mecklenburg-Vorpommern
 Spraitbach,Baden-Württemberg
@@ -11414,12 +11217,14 @@ Spreenhagen,Brandenburg
 Sprendlingen,Rheinland-Pfalz
 Springe,Niedersachsen
 Sprockhövel,Nordrhein-Westfalen
+St. Alban,Rheinland-Pfalz
 "St. Blasien, Ibach",Baden-Württemberg
 St. Egidien,Sachsen
 St. Georgen,Baden-Württemberg
 St. Johann,Baden-Württemberg
 St. Märgen,Baden-Württemberg
 "Stäbelow, Kritzmow",Mecklenburg-Vorpommern
+Stößen,Sachsen-Anhalt
 Stöckse,Niedersachsen
 Stödtlen,Baden-Württemberg
 Störnstein,Bayern
@@ -11433,6 +11238,7 @@ Stadecken-Elsheim,Rheinland-Pfalz
 Stadelhofen,Bayern
 Stadland,Niedersachsen
 Stadlern,Bayern
+Stadt,Rheinland-Pfalz
 Stadt Schwäbisch Gmünd,Baden-Württemberg
 Stadtallendorf,Hessen
 Stadtbergen,Bayern
@@ -11447,26 +11253,29 @@ Stadtprozelten,Bayern
 Stadtroda u.a.,Thüringen
 Stadtsteinach,Bayern
 Staffelstein,Bayern
+Staffhorst,Niedersachsen
 Staig,Baden-Württemberg
 Stallwang,Bayern
 Stammbach,Bayern
 Stammham,Bayern
 Stamsried,Bayern
-Stapel,Schleswig-Holstein
+Standenbühl,Rheinland-Pfalz
+Stapel,Niedersachsen
+Starkenberg,Thüringen
 Starnberg,Bayern
 Starzach,Baden-Württemberg
+Stauchitz,Sachsen
 Staudernheim,Rheinland-Pfalz
 Staufen im Breisgau,Baden-Württemberg
 Staufenberg,Hessen
 Stavenhagen,Mecklenburg-Vorpommern
 Stavern,Niedersachsen
+Stedesand,Schleswig-Holstein
 Steffenberg,Hessen
 Stegaurach,Bayern
-Stegen,Baden-Württemberg
 Steißlingen,Baden-Württemberg
 Steimbke,Niedersachsen
 Steimel,Rheinland-Pfalz
-Stein,Bayern
 Stein a.d. Traun,Bayern
 Steinach,Thüringen
 Steinau an der Straße,Hessen
@@ -11476,6 +11285,7 @@ Steinbach-Hallenberg,Thüringen
 "Steinbach, Weitersweiler, Bennhausen, Mörsfeld, Würzweiler, Ruppertsecken u.a.",Rheinland-Pfalz
 Steinberg,Bayern
 "Steinberg, Steinbergkirche",Schleswig-Holstein
+Steinbergkirche,Schleswig-Holstein
 Steinburg,Schleswig-Holstein
 Steindorf,Bayern
 Steinen,Baden-Württemberg
@@ -11498,6 +11308,7 @@ Steinwiesen,Bayern
 Stelle,Niedersachsen
 Stemwede,Nordrhein-Westfalen
 Stendal,Sachsen-Anhalt
+Stepenitztal,Mecklenburg-Vorpommern
 Stephanskirchen,Bayern
 Stephansposching,Bayern
 Sterley,Schleswig-Holstein
@@ -11539,6 +11350,7 @@ Strausberg,Brandenburg
 Strehla,Sachsen
 Stromberg,Rheinland-Pfalz
 Strullendorf,Bayern
+Struppen,Sachsen
 Struvenhütten,Schleswig-Holstein
 "Struxdorf, Schnarup-Thumby",Schleswig-Holstein
 Stubenberg,Bayern
@@ -11552,6 +11364,7 @@ Sugenheim,Bayern
 Suhl,Thüringen
 "Suhl, Marisfeld, Rohr u.a.",Thüringen
 Suhlendorf,Niedersachsen
+Sukow,Mecklenburg-Vorpommern
 Sulingen,Niedersachsen
 Sulz am Neckar,Baden-Württemberg
 Sulzbach (Taunus),Hessen
@@ -11575,6 +11388,7 @@ Swisttal,Nordrhein-Westfalen
 Syke,Niedersachsen
 Sylt,Schleswig-Holstein
 Syrgenstein,Bayern
+Täferrot,Baden-Württemberg
 Tännesberg,Bayern
 Töging a. Inn,Bayern
 Tönisvorst,Nordrhein-Westfalen
@@ -11588,6 +11402,8 @@ Taarstedt,Schleswig-Holstein
 Tabarz/ Thür. Wald,Thüringen
 Tacherting,Bayern
 Taching a. See,Bayern
+Tackesdorf,Schleswig-Holstein
+Tackesdorf-Nord,Schleswig-Holstein
 Tagmersheim,Bayern
 Talheim,Baden-Württemberg
 Tambach-Dietharz/ Thür.,Thüringen
@@ -11603,8 +11419,10 @@ Tapfheim,Bayern
 Tappenbeck,Niedersachsen
 "Tarmstedt, Breddorf u.a.",Niedersachsen
 Tarp,Schleswig-Holstein
+Tastrup,Schleswig-Holstein
 "Tating, Westerhever, Tümlauer Koog",Schleswig-Holstein
 Tauberbischofsheim,Baden-Württemberg
+Tauberrettersheim,Bayern
 Taucha,Sachsen
 Taufkirchen,Bayern
 Taufkirchen (Vils),Bayern
@@ -11620,6 +11438,7 @@ Teisnach,Bayern
 Telgte,Nordrhein-Westfalen
 Tellingstedt,Schleswig-Holstein
 Teltow,Brandenburg
+Temnitzquell,Brandenburg
 "Templin, Boitzenburg u.a.",Brandenburg
 Tengen,Baden-Württemberg
 Teningen,Baden-Württemberg
@@ -11653,6 +11472,7 @@ Tharandt u.a.,Sachsen
 "Thedinghausen, Emtinghausen",Niedersachsen
 Theilenhofen,Bayern
 Theilheim,Bayern
+Theisseil,Bayern
 Themar,Thüringen
 Theres,Bayern
 Thierhaupten,Bayern
@@ -11683,7 +11503,9 @@ Todendorf,Schleswig-Holstein
 Todtmoos,Baden-Württemberg
 Todtnau,Baden-Württemberg
 "Tolk, Twedt",Schleswig-Holstein
+Tonna,Thüringen
 Toppenstedt,Niedersachsen
+Torfhaus,Niedersachsen
 Torgau,Sachsen
 "Torgau, Dreiheide",Sachsen
 Torgelow,Mecklenburg-Vorpommern
@@ -11695,6 +11517,7 @@ Trabitz,Bayern
 Train,Bayern
 Traitsching,Bayern
 Trappenkamp,Schleswig-Holstein
+Trassem u.a.,Rheinland-Pfalz
 Traunreut,Bayern
 Traunstein,Bayern
 Trausnitz,Bayern
@@ -11710,6 +11533,7 @@ Treffurt/Ifta,Thüringen
 Treis-Karden,Rheinland-Pfalz
 Tremsbüttel,Schleswig-Holstein
 Trendelburg,Hessen
+Trennewurth,Schleswig-Holstein
 "Treplin, Jacobsdorf, Frankfurt (Oder)",Brandenburg
 Treuchtlingen,Bayern
 Treuen,Sachsen
@@ -11721,6 +11545,7 @@ Trier,Rheinland-Pfalz
 Trierweiler,Rheinland-Pfalz
 Triftern,Bayern
 "Triglitz, Putlitz",Brandenburg
+Trinwillershagen u.a.,Mecklenburg-Vorpommern
 Trippstadt u.a.,Rheinland-Pfalz
 Triptis,Thüringen
 Trittau,Schleswig-Holstein
@@ -11729,19 +11554,23 @@ Trochtelfingen,Baden-Württemberg
 Troisdorf,Nordrhein-Westfalen
 Trossingen,Baden-Württemberg
 Trostberg,Bayern
+Trulben,Rheinland-Pfalz
 Trunkelsberg,Bayern
+Tschernitz u.a.,Brandenburg
 Tschirn,Bayern
 Tuningen,Baden-Württemberg
 Tuntenhausen,Bayern
 Tussenhausen,Bayern
 Tuttlingen,Baden-Württemberg
 Tutzing,Bayern
+Twedt,Schleswig-Holstein
 Twist,Niedersachsen
 Twistetal,Hessen
 Twistringen,Niedersachsen
 Ubstadt-Weiher,Baden-Württemberg
 Uchte,Niedersachsen
 "Uckerland, Groß Luckow, Schönhausen",Mecklenburg-Vorpommern
+Uder u.a.,Thüringen
 "Udestedt, Mönchenholzhausen u.a.",Thüringen
 Uebigau-Wahrenbrück,Brandenburg
 Ueckermünde,Mecklenburg-Vorpommern
@@ -11762,13 +11591,15 @@ Ulmen,Rheinland-Pfalz
 Ulrichstein,Hessen
 Ulsnis,Schleswig-Holstein
 Umkirch,Baden-Württemberg
-Ummendorf,Baden-Württemberg
+Ummendorf,Sachsen-Anhalt
 Ummern,Niedersachsen
 Undeloh,Niedersachsen
 Ungerhausen,Bayern
+Unkel,Rheinland-Pfalz
 Unlingen,Baden-Württemberg
 Unna,Nordrhein-Westfalen
 Unnau,Rheinland-Pfalz
+Unstruttal,Thüringen
 Unter-Hainbrunn,Hessen
 Unterammergau,Bayern
 Unterbreizbach,Thüringen
@@ -11825,6 +11656,7 @@ Vöhl,Hessen
 Vöhrenbach,Baden-Württemberg
 Vöhringen,Baden-Württemberg
 Völklingen,Saarland
+Völpke,Sachsen-Anhalt
 Vörstetten,Baden-Württemberg
 Vaale,Schleswig-Holstein
 "Vacha, Unterbreizbach",Thüringen
@@ -11833,6 +11665,8 @@ Vaihingen an der Enz,Baden-Württemberg
 Vallendar,Rheinland-Pfalz
 Valley,Bayern
 Varel,Niedersachsen
+Varrel,Niedersachsen
+Vastorf,Niedersachsen
 Vaterstetten,Bayern
 Vechelde,Niedersachsen
 Vechta,Niedersachsen
@@ -11841,7 +11675,6 @@ Veitsbronn,Bayern
 Veitshöchheim,Bayern
 Velbert,Nordrhein-Westfalen
 Velburg,Bayern
-Velden,Bayern
 Velden/Hartenstein,Bayern
 Velen,Nordrhein-Westfalen
 Velgast,Mecklenburg-Vorpommern
@@ -11863,7 +11696,7 @@ Viöl,Schleswig-Holstein
 Viechtach,Bayern
 Viereth-Trunstadt,Bayern
 Vierhöfen,Niedersachsen
-Vierkirchen,Bayern
+Vierkirchen,Sachsen
 Viernau u.a.,Thüringen
 Viernheim,Hessen
 Viersen,Nordrhein-Westfalen
@@ -11896,6 +11729,7 @@ Vorbach,Bayern
 Vordorf,Niedersachsen
 Vorra,Bayern
 Vreden,Nordrhein-Westfalen
+Vrees,Niedersachsen
 Wächtersbach,Hessen
 Wäschenbeuren,Baden-Württemberg
 Wöhrden,Schleswig-Holstein
@@ -11913,20 +11747,24 @@ Wörth a.Main,Bayern
 Wörth an der Donau,Bayern
 Wörthsee,Bayern
 Wülfrath,Nordrhein-Westfalen
+Wülknitz,Sachsen
 Wünnenberg,Nordrhein-Westfalen
 Würselen,Nordrhein-Westfalen
 Würzburg,Bayern
 "Wüstenrot, Beilstein-Stocksberg",Baden-Württemberg
 Waabs,Schleswig-Holstein
+Waake u.a.,Niedersachsen
 Waakirchen,Bayern
-Waal,Bayern
 Wabern,Hessen
+Wachau,Sachsen
 Wachenheim an der Weinstraße,Rheinland-Pfalz
 Wachenroth,Bayern
+Wachsenburg,Thüringen
 Wachtberg,Nordrhein-Westfalen
 Wachtendonk,Nordrhein-Westfalen
 Wacken,Schleswig-Holstein
 Wackernheim,Rheinland-Pfalz
+Wackersberg,Bayern
 Wackersdorf,Bayern
 Waddeweitz,Niedersachsen
 Wadern,Saarland
@@ -11937,12 +11775,14 @@ Wagenfeld,Niedersachsen
 "Wagenhoff, Ringelah",Niedersachsen
 Waghäusel,Baden-Württemberg
 Waging a. See,Bayern
+Wahlsburg,Niedersachsen
 Wahlstedt,Schleswig-Holstein
 Wahrenholz,Niedersachsen
 Waiblingen,Baden-Württemberg
 Waibstadt,Baden-Württemberg
 Waidhaus,Bayern
 Waidhofen,Bayern
+Waigandshain,Rheinland-Pfalz
 Waigolshausen,Bayern
 Wain,Baden-Württemberg
 Waischenfeld,Bayern
@@ -11953,6 +11793,7 @@ Wald-Michelbach,Hessen
 Waldachtal,Baden-Württemberg
 Waldalgesheim,Rheinland-Pfalz
 "Waldaschaff, Waldaschaffer Forst",Bayern
+Waldaschaffer Forst,Bayern
 Waldböckelheim,Rheinland-Pfalz
 Waldbüttelbrunn,Bayern
 Waldbröl,Nordrhein-Westfalen
@@ -11971,6 +11812,7 @@ Waldershof,Bayern
 "Waldesch, Hünenfeld",Rheinland-Pfalz
 "Waldfeucht, Heinsberg",Nordrhein-Westfalen
 Waldfischbach-Burgalben,Rheinland-Pfalz
+Waldgrehweiler,Rheinland-Pfalz
 Waldheim,Sachsen
 Waldkappel,Hessen
 Waldkirch,Baden-Württemberg
@@ -11980,7 +11822,9 @@ Waldkraiburg,Bayern
 Waldmünchen,Bayern
 Waldmohr,Rheinland-Pfalz
 Waldolms,Hessen
+Waldorf,Rheinland-Pfalz
 Waldrach,Rheinland-Pfalz
+Waldrehna,Brandenburg
 Waldsassen,Bayern
 Waldsee,Rheinland-Pfalz
 Waldshut-Tiengen,Baden-Württemberg
@@ -12026,13 +11870,14 @@ Wanzleben-Börde,Sachsen-Anhalt
 Warberg,Niedersachsen
 Warburg,Nordrhein-Westfalen
 Wardenburg,Niedersachsen
-Warder,Schleswig-Holstein
+Wardow u.a.,Mecklenburg-Vorpommern
 Waren/ Müritz,Mecklenburg-Vorpommern
 Warendorf,Nordrhein-Westfalen
 Warin,Mecklenburg-Vorpommern
 Warmensteinach,Bayern
 Warmsen,Niedersachsen
 Warngau,Bayern
+Warpe,Niedersachsen
 Warstein,Nordrhein-Westfalen
 Wartenberg,Hessen
 Warthausen,Baden-Württemberg
@@ -12061,10 +11906,13 @@ Weeze,Nordrhein-Westfalen
 "Weferlingen, Behnsdorf, Belsdorf u.a.",Sachsen-Anhalt
 Wegberg,Nordrhein-Westfalen
 Wegeleben,Sachsen-Anhalt
+Wegenstedt,Sachsen-Anhalt
+Weggen-Ziegelhütte,Baden-Württemberg
 Wegscheid,Bayern
 "Wehingen, Reichenbach",Baden-Württemberg
 Wehlen,Sachsen
 Wehr,Baden-Württemberg
+Wehrblecker Heide,Niedersachsen
 Wehretal,Hessen
 Wehrheim,Hessen
 Wehringen,Bayern
@@ -12075,6 +11923,7 @@ Weißenborn,Hessen
 "Weißenborn, Oberschöna",Sachsen
 Weißenbrunn,Bayern
 Weißenburg i. Bay.,Bayern
+Weißendorf,Thüringen
 Weißenfels,Sachsen-Anhalt
 "Weißenfels, Stößen",Sachsen-Anhalt
 Weißenhorn,Bayern
@@ -12082,6 +11931,7 @@ Weißenohe,Bayern
 Weißensee,Thüringen
 Weißenstadt,Bayern
 Weißenthurm,Rheinland-Pfalz
+Weißkeißel,Sachsen
 "Weißwasser, Boxberg",Sachsen
 "Weibersbrunn, Rohrbrunner Forst",Bayern
 Weichering,Bayern
@@ -12090,6 +11940,7 @@ Weichs,Bayern
 "Weiden in der OPf., Theisseil",Bayern
 Weidenbach,Bayern
 "Weidenberg, Kirchenpingarten",Bayern
+Weidenhof,Schleswig-Holstein
 Weidenstetten,Baden-Württemberg
 Weidenthal,Rheinland-Pfalz
 Weidhausen b. Coburg,Bayern
@@ -12103,6 +11954,7 @@ Weil,Bayern
 Weil am Rhein,Baden-Württemberg
 Weil der Stadt,Baden-Württemberg
 Weil im Schönbuch,Baden-Württemberg
+Weilar,Thüringen
 Weilbach,Bayern
 Weilburg,Hessen
 Weilen unter den Rinnen,Baden-Württemberg
@@ -12121,6 +11973,7 @@ Weimar,Thüringen
 Weimar (Lahn),Hessen
 Weinböhla,Sachsen
 Weinbach,Hessen
+Weinbergen,Thüringen
 Weingarten,Baden-Württemberg
 Weingarten (Pfalz),Rheinland-Pfalz
 Weinheim,Baden-Württemberg
@@ -12139,12 +11992,14 @@ Weisweil,Baden-Württemberg
 Weitefeld,Rheinland-Pfalz
 Weitersburg,Rheinland-Pfalz
 Weiterstadt,Hessen
+Weitersweiler,Rheinland-Pfalz
 Weitnau,Bayern
 Weitramsdorf,Bayern
 Welden,Bayern
 Welle,Niedersachsen
 Wellendingen,Baden-Württemberg
 Wellheim,Bayern
+Welling u.a.,Rheinland-Pfalz
 "Welschbillig, Igel, Aach",Rheinland-Pfalz
 "Welsleben, Biere, Eickendorf u.a.",Sachsen-Anhalt
 Welver,Nordrhein-Westfalen
@@ -12163,6 +12018,7 @@ Wenningstedt-Braderup (Sylt),Schleswig-Holstein
 Wensin,Schleswig-Holstein
 Wenzenbach,Bayern
 Werbach,Baden-Württemberg
+Werben,Sachsen-Anhalt
 Werdau,Sachsen
 Werder/ Havel,Brandenburg
 Werdohl,Nordrhein-Westfalen
@@ -12194,7 +12050,9 @@ Westendorf,Bayern
 Westensee,Schleswig-Holstein
 Wester-Ohrstedt,Schleswig-Holstein
 Westerburg,Rheinland-Pfalz
+Westergellersen,Niedersachsen
 Westerheim,Bayern
+Westerhever,Schleswig-Holstein
 "Westerholt, Schweindorf u.a.",Niedersachsen
 Westerkappeln,Nordrhein-Westfalen
 Westermoor,Schleswig-Holstein
@@ -12209,6 +12067,7 @@ Westoverledingen,Niedersachsen
 Wettenberg,Hessen
 Wetter,Hessen
 Wetter (Ruhr),Nordrhein-Westfalen
+Wetterzeube,Sachsen-Anhalt
 Wettringen,Nordrhein-Westfalen
 Wettstetten,Bayern
 Wetzlar,Hessen
@@ -12221,6 +12080,7 @@ Weyhe,Niedersachsen
 Wickede (Ruhr),Nordrhein-Westfalen
 Widdern,Baden-Württemberg
 Wieden,Baden-Württemberg
+Wiedenborstel,Schleswig-Holstein
 Wiedensahl,Niedersachsen
 Wiedergeltingen,Bayern
 Wiefelstede,Niedersachsen
@@ -12235,9 +12095,11 @@ Wiesbaden,Hessen
 "Wiesen, Wiesener Forst",Bayern
 Wiesenbach,Bayern
 Wiesenburg,Brandenburg
+Wiesener Forst,Bayern
 Wiesenfelden,Bayern
 Wiesensteig,Baden-Württemberg
 Wiesent,Bayern
+Wiesenthal,Thüringen
 Wiesenthau,Bayern
 Wiesentheid,Bayern
 Wiesenttal,Bayern
@@ -12257,6 +12119,7 @@ Wildeck,Hessen
 Wildemann,Niedersachsen
 Wildenberg,Bayern
 "Wildenbungert, Gondershausen, Nörtershausen u.a.",Rheinland-Pfalz
+Wildenfels,Sachsen
 Wildeshausen,Niedersachsen
 Wildflecken,Bayern
 Wildpoldsried,Bayern
@@ -12278,7 +12141,6 @@ Willstätt,Baden-Württemberg
 Wilnsdorf,Nordrhein-Westfalen
 Wilsdruff,Sachsen
 Wilster,Schleswig-Holstein
-Wilsum,Niedersachsen
 Wilthen,Sachsen
 Wiltingen,Rheinland-Pfalz
 Wimsheim,Baden-Württemberg
@@ -12292,6 +12154,7 @@ Windhagen,Rheinland-Pfalz
 Windischeschenbach,Bayern
 Windorf,Bayern
 Windsbach,Bayern
+Wingerode,Thüringen
 Wingst,Niedersachsen
 Winhöring,Bayern
 Winkelhaid,Bayern
@@ -12314,13 +12177,14 @@ Wintrich,Rheinland-Pfalz
 Winzer,Bayern
 Wipfeld,Bayern
 Wipperfürth,Nordrhein-Westfalen
+Wirft,Rheinland-Pfalz
 "Wirges, Stadt",Rheinland-Pfalz
 Wischhafen,Niedersachsen
 Wismar,Mecklenburg-Vorpommern
 "Wismar, Groß Krankow u.a.",Mecklenburg-Vorpommern
 "Wissen, Hövels u.a.",Rheinland-Pfalz
+Wittbeck,Niedersachsen
 Wittelshofen,Bayern
-Witten,Nordrhein-Westfalen
 Wittenberg,Sachsen-Anhalt
 "Wittenberge, Rühstädt",Brandenburg
 Wittenborn,Schleswig-Holstein
@@ -12337,10 +12201,12 @@ Wittlingen,Baden-Württemberg
 Wittmar,Niedersachsen
 Wittmund,Niedersachsen
 Wittnau,Baden-Württemberg
+Wittorf,Niedersachsen
 "Wittstock/Dosse, Heiligengrabe",Brandenburg
 Witzenhausen,Hessen
 "Witzenhausen, Gutsbezirk",Hessen
 Witzhave,Schleswig-Holstein
+Witzwort,Schleswig-Holstein
 Wohlde,Schleswig-Holstein
 Wohratal,Hessen
 Woldegk,Mecklenburg-Vorpommern
@@ -12349,7 +12215,6 @@ Wolfegg,Baden-Württemberg
 Wolfenbüttel,Niedersachsen
 Wolferstadt,Bayern
 Wolfertschwenden,Bayern
-Wolfhagen,Hessen
 Wolframs-Eschenbach,Bayern
 Wolfratshausen,Bayern
 Wolfsburg,Niedersachsen
@@ -12357,7 +12222,9 @@ Wolfschlugen,Baden-Württemberg
 Wolfsegg,Bayern
 Wolfstein,Rheinland-Pfalz
 Wolgast,Mecklenburg-Vorpommern
+Wolken u.a.,Rheinland-Pfalz
 Wolkenstein,Sachsen
+Wollin,Brandenburg
 Wolmirstedt u.a.,Sachsen-Anhalt
 Wolnzach,Bayern
 Wolpertshausen,Baden-Württemberg
@@ -12391,7 +12258,7 @@ Wurster Nordseeküste,Niedersachsen
 Wurzbach,Thüringen
 Wurzen,Sachsen
 Wusterhausen,Brandenburg
-"Wusterwitz, Rosenau, Bensdorf",Brandenburg
+Wusterwitz,Brandenburg
 Wustrow,Niedersachsen
 Wutöschingen,Baden-Württemberg
 Wutach,Baden-Württemberg
@@ -12409,7 +12276,10 @@ Zandt,Bayern
 Zapfendorf,Bayern
 Zarpen,Schleswig-Holstein
 Zarrentin,Mecklenburg-Vorpommern
+Zechin u.a.,Brandenburg
+Zedlitz u.a.,Thüringen
 Zehdenick,Brandenburg
+Zehnhausen,Rheinland-Pfalz
 Zeil a. Main,Bayern
 Zeiskam,Rheinland-Pfalz
 Zeithain,Sachsen
@@ -12431,12 +12301,13 @@ Zenting,Bayern
 Zerbst/Anhalt,Sachsen-Anhalt
 Zerf,Rheinland-Pfalz
 Zernien,Niedersachsen
-"Zeschdorf, Podelzig, Lebus",Brandenburg
+Zernin u.a.,Mecklenburg-Vorpommern
+Zeschdorf,Brandenburg
 Zetel,Niedersachsen
 "Zeulenroda-Triebes, Langenwolschendorf",Thüringen
 "Zeulenroda-Triebes, Weißendorf",Thüringen
 Zeuthen,Brandenburg
-"Zeven, Elsdorf",Niedersachsen
+Zeven,Niedersachsen
 Ziegenrück,Thüringen
 Ziemetshausen,Bayern
 Zierenberg,Hessen
@@ -12466,3 +12337,4 @@ Zwickau,Sachsen
 Zwiefalten,Baden-Württemberg
 Zwiesel,Bayern
 Zwingenberg,Hessen
+
