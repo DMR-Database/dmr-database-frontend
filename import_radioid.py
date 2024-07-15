@@ -18,7 +18,8 @@ database_name = 'dmr-database'
 radioid_url = 'https://radioid.net/static/user.csv'
 
 # Path to city_state mapping CSV
-city_state_csv = 'citys.csv'
+city_state_nl_csv = 'citys_nl.csv'
+city_state_de_csv = 'citys_de.csv'
 
 # Path to users_ext.csv for merging
 ext_filename = 'users_ext.csv'
@@ -102,30 +103,38 @@ def merge_csv(csv_filename, ext_filename):
     except Exception as e:
         print(f"Error merging CSV files: {e}")
 
-def fill_empty_state(csv_filename, city_state_csv):
-    # Fills empty STATE values in user.csv from city_state_csv.
+
+def fill_empty_state_nl(csv_filename, city_state_nl_csv):
+    # Fills empty STATE values in user.csv from city_state_nl_csv.
+    initial_line_count = 0
+    final_line_count = 0
+    
     try:
-        print(f"Starting filling States from {city_state_csv}")
+        print(f"Starting filling States from {city_state_nl_csv}")
 
         # Check if the necessary files exist
         if not os.path.exists(csv_filename):
             print(f"Error: {csv_filename} not found.")
-            return
-        if not os.path.exists(city_state_csv):
-            print(f"Error: {city_state_csv} not found.")
-            return
+            return initial_line_count, final_line_count
+        if not os.path.exists(city_state_nl_csv):
+            print(f"Error: {city_state_nl_csv} not found.")
+            return initial_line_count, final_line_count
 
-        # Load city-state mapping from city_state_csv into a dictionary
+        # Load city-state mapping from city_state_nl_csv into a dictionary
         city_state_map = {}
-        with open(city_state_csv, 'r', newline='', encoding='utf-8') as city_file:
+        with open(city_state_nl_csv, 'r', newline='', encoding='utf-8') as city_file:
             city_reader = csv.DictReader(city_file)
 
             if 'CITY' not in city_reader.fieldnames or 'STATE' not in city_reader.fieldnames:
-                print(f"Error: Expected headers 'CITY' and 'STATE' not found in {city_state_csv}")
-                return
+                print(f"Error: Expected headers 'CITY' and 'STATE' not found in {city_state_nl_csv}")
+                return initial_line_count, final_line_count
 
             for row in city_reader:
                 city_state_map[row['CITY'].strip().lower()] = row['STATE']
+
+        # Count lines in user.csv before processing
+        with open(csv_filename, 'r', newline='', encoding='utf-8') as user_file:
+            initial_line_count = sum(1 for line in user_file)
 
         # Read user.csv and update the STATE where it is empty
         updated_rows = []
@@ -135,7 +144,7 @@ def fill_empty_state(csv_filename, city_state_csv):
 
             if 'CITY' not in fieldnames or 'STATE' not in fieldnames:
                 print(f"Error: Expected headers 'CITY' and 'STATE' not found in {csv_filename}")
-                return
+                return initial_line_count, final_line_count
 
             total_rows = sum(1 for row in user_reader)  # Count total rows in user.csv
 
@@ -146,15 +155,23 @@ def fill_empty_state(csv_filename, city_state_csv):
             current_row = 0
             for row in user_reader:
                 current_row += 1
-                if row['STATE'] == '' and row['CALLSIGN'].startswith(('PA', 'PB', 'PC', 'PD', 'PE', 'PF', 'PG', 'PH', 'PI')):
+                if row['STATE'] == '' and row['RADIO_ID'].startswith(('204')):
                     city = row['CITY'].strip().lower()  # Normalize city name to lowercase
                     if city in city_state_map:
-                        row['STATE'] = city_state_map[city]
-                        updated_rows.append(row)
+                        # Create a copy of the row before modifying it
+                        updated_row = row.copy()
+                        updated_row['STATE'] = city_state_map[city]
+                        updated_rows.append(updated_row)
+                        show_row_progress(current_row, total_rows, updated_row['RADIO_ID'], updated_row['CALLSIGN'])
+                    else:
+                        updated_rows.append(row)  # No state found, append original row
                         show_row_progress(current_row, total_rows, row['RADIO_ID'], row['CALLSIGN'])
                 else:
                     updated_rows.append(row)
                     show_row_progress(current_row, total_rows, row['RADIO_ID'], row['CALLSIGN'])
+
+        # Count lines in user.csv after processing
+        final_line_count = len(updated_rows)
 
         # Write the updated data back to user.csv
         with open(csv_filename, 'w', newline='', encoding='utf-8') as user_file:
@@ -162,10 +179,104 @@ def fill_empty_state(csv_filename, city_state_csv):
             user_writer.writeheader()
             user_writer.writerows(updated_rows)
 
-        print(f"\nCompleted updating {csv_filename} from {city_state_csv}")
+        print(f"\nCompleted updating {csv_filename} from {city_state_nl_csv}")
 
     except Exception as e:
         print(f"Error filling empty states: {e}")
+
+    return initial_line_count, final_line_count
+
+# Example usage:
+#initial_count, final_count = fill_empty_state('user.csv', 'city_state.csv')
+#print(f"Initial line count in user.csv: {initial_count}")
+#print(f"Final line count in user.csv after processing: {final_count}")
+
+def fill_empty_state_de(csv_filename, city_state_de_csv):
+    # Fills empty STATE values in user.csv from city_state_de_csv.
+    initial_line_count = 0
+    final_line_count = 0
+    
+    try:
+        print(f"Starting filling States from {city_state_de_csv}")
+
+        # Check if the necessary files exist
+        if not os.path.exists(csv_filename):
+            print(f"Error: {csv_filename} not found.")
+            return initial_line_count, final_line_count
+        if not os.path.exists(city_state_de_csv):
+            print(f"Error: {city_state_de_csv} not found.")
+            return initial_line_count, final_line_count
+
+        # Load city-state mapping from city_state_de_csv into a dictionary
+        city_state_map = {}
+        with open(city_state_de_csv, 'r', newline='', encoding='utf-8') as city_file:
+            city_reader = csv.DictReader(city_file)
+
+            if 'CITY' not in city_reader.fieldnames or 'STATE' not in city_reader.fieldnames:
+                print(f"Error: Expected headers 'CITY' and 'STATE' not found in {city_state_de_csv}")
+                return initial_line_count, final_line_count
+
+            for row in city_reader:
+                city_state_map[row['CITY'].strip().lower()] = row['STATE']
+
+        # Count lines in user.csv before processing
+        with open(csv_filename, 'r', newline='', encoding='utf-8') as user_file:
+            initial_line_count = sum(1 for line in user_file)
+
+        # Read user.csv and update the STATE where it is empty
+        updated_rows = []
+        with open(csv_filename, 'r', newline='', encoding='utf-8') as user_file:
+            user_reader = csv.DictReader(user_file)
+            fieldnames = user_reader.fieldnames
+
+            if 'CITY' not in fieldnames or 'STATE' not in fieldnames:
+                print(f"Error: Expected headers 'CITY' and 'STATE' not found in {csv_filename}")
+                return initial_line_count, final_line_count
+
+            total_rows = sum(1 for row in user_reader)  # Count total rows in user.csv
+
+            # Reset the reader to start from the beginning
+            user_file.seek(0)
+            next(user_reader)  # Skip header row
+
+            current_row = 0
+            for row in user_reader:
+                current_row += 1
+                if row['STATE'] == '' and row['RADIO_ID'].startswith(('264', '265')):
+                    city = row['CITY'].strip().lower()  # Normalize city name to lowercase
+                    if city in city_state_map:
+                        # Create a copy of the row before modifying it
+                        updated_row = row.copy()
+                        updated_row['STATE'] = city_state_map[city]
+                        updated_rows.append(updated_row)
+                        show_row_progress(current_row, total_rows, updated_row['RADIO_ID'], updated_row['CALLSIGN'])
+                    else:
+                        updated_rows.append(row)  # No state found, append original row
+                        show_row_progress(current_row, total_rows, row['RADIO_ID'], row['CALLSIGN'])
+                else:
+                    updated_rows.append(row)
+                    show_row_progress(current_row, total_rows, row['RADIO_ID'], row['CALLSIGN'])
+
+        # Count lines in user.csv after processing
+        final_line_count = len(updated_rows)
+
+        # Write the updated data back to user.csv
+        with open(csv_filename, 'w', newline='', encoding='utf-8') as user_file:
+            user_writer = csv.DictWriter(user_file, fieldnames=fieldnames)
+            user_writer.writeheader()
+            user_writer.writerows(updated_rows)
+
+        print(f"\nCompleted updating {csv_filename} from {city_state_de_csv}")
+
+    except Exception as e:
+        print(f"Error filling empty states: {e}")
+
+    return initial_line_count, final_line_count
+
+# Example usage:
+#initial_count, final_count = fill_empty_state('user.csv', 'city_state.csv')
+#print(f"Initial line count in user.csv: {initial_count}")
+#print(f"Final line count in user.csv after processing: {final_count}")
 
 def show_row_progress(current_row, total_rows, radio_id, callsign):
     progress_percent = current_row / total_rows * 100
@@ -271,10 +382,16 @@ def main(version):
 
     # Check if -r flag is set to load RadioID data
     if args.radioid:
-        print("Loading RadioID data...")
+        print("Start processing RadioID data...")
     else:
         parser.print_help()
         return
+    # Delete the user.csv file
+    try:
+        os.remove('user.csv')
+        print("Removed old user.csv file")
+    except OSError as e:
+        print(f"No old user csv found: {e}")
 
     # Connect to MySQL
     conn = connect_mysql()
@@ -284,8 +401,9 @@ def main(version):
     # Step 1: Merge users_ext.csv into user.csv
     merge_csv('user.csv', ext_filename)
 
-    # Step 2: Fill empty STATE values in user.csv from city_state_csv
-    fill_empty_state('user.csv', city_state_csv)
+    # Step 2: Fill empty STATE values in user.csv from city_state_nl_csv
+    fill_empty_state_nl('user.csv', city_state_nl_csv)
+    fill_empty_state_de('user.csv', city_state_de_csv)
 
     # Step 3: Import RadioID data from user.csv into MySQL
     total_imported = import_radio_id_from_file(conn, 'user.csv')
