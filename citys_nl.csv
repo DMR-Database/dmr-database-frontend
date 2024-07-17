@@ -1,6 +1,8 @@
 CITY,STATE
 1e Exloërmond,Drenthe
 2e Exloërmond,Drenthe
+1e Exloermond,Drenthe
+2e Exloermond,Drenthe
 2e Valthermond,Drenthe
 2e Vlotbrug,Zuid-Holland
 's-Graveland,Noord-Holland
@@ -18,6 +20,9 @@ CITY,STATE
 's-Heerenbroek,Overijssel
 's-Heerenhoek,Zeeland
 's-Hertogenbosch,Noord-Brabant
+Den Bosch,Noord-Brabant
+S-HERTOGENBOSCH,Noord-Brabant
+"s Hertogenbosch",Noord-Brabant
 't Bergje,Overijssel
 't Buurtje,Noord-Holland
 't Coll,Noord-Brabant
@@ -172,6 +177,12 @@ Almere-Haven,Flevoland
 Almere-Hout,Flevoland
 Almere-Poort,Flevoland
 Almere-Pampus,Flevoland
+Almere Stad,Flevoland
+Almere Buiten,Flevoland
+Almere Haven,Flevoland
+Almere Hout,Flevoland
+Almere Poort,Flevoland
+Almere Pampus,Flevoland
 Almkerk,Noord-Brabant
 Alphen,Noord-Brabant
 Alphen aan den Rijn,Zuid-Holland
@@ -5460,4 +5471,3 @@ Zwijnsbergen,Noord-Brabant
 Zwinderen,Drenthe
 Zwingelspaan,Noord-Brabant
 Zwolle,Gelderland
-
