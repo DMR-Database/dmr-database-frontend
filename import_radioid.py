@@ -7,6 +7,7 @@ import mysql.connector
 from mysql.connector import Error
 import csv
 import time
+from datetime import datetime
 
 # Define MySQL connection variables
 mysql_host = '127.0.0.1'
@@ -16,13 +17,17 @@ database_name = 'dmr-database'
 
 # URL to download the RadioID CSV file
 radioid_url = 'https://radioid.net/static/user.csv'
+city_state_nl_csv_url = 'https://raw.githubusercontent.com/DMR-Database/dmr-database-frontend/main/citys_nl.csv'
+city_state_de_csv_url = 'https://raw.githubusercontent.com/DMR-Database/dmr-database-frontend/main/citys_de.csv'
+user_ext_csv_url = 'https://raw.githubusercontent.com/DMR-Database/dmr-database-frontend/main/radioid_ext.csv'
 
 # Path to city_state mapping CSV
 city_state_nl_csv = 'citys_nl.csv'
 city_state_de_csv = 'citys_de.csv'
+radioid_filename = 'user.csv'
 
 # Path to users_ext.csv for merging
-ext_filename = 'users_ext.csv'
+ext_filename = 'radioid__ext.csv'
 
 # Define script version
 script_version = '1.2'
@@ -43,30 +48,55 @@ def connect_mysql():
         print(f"Error connecting to MySQL: {e}")
         return None
 
-def download_user_csv(csv_url):
+def check_files_csv():
+    try:
+        print(f"Check if needed files are present...")
+        # Check if the necessary files exist
+        if not os.path.exists(city_state_nl_csv):
+            print(f"{ext_filename} not found. Downloading it first.")
+            download_user_csv(user_ext_csv_url, ext_filename)
+        print(f"Found : {ext_filename}...")
+
+        # Check if the necessary files exist
+        if not os.path.exists(city_state_nl_csv):
+            print(f"{city_state_nl_csv} not found. Downloading it first.")
+            download_user_csv(city_state_nl_csv_url, city_state_nl_csv)
+        print(f"Found : {city_state_nl_csv}...")
+
+        # Check if the necessary files exist
+        if not os.path.exists(city_state_de_csv):
+            print(f"{city_state_de_csv} not found. Downloading it first.")
+            download_user_csv(city_state_de_csv_url, city_state_de_csv)
+        print(f"Found : {city_state_de_csv}...")
+
+        # Check if the necessary files exist
+        if not os.path.exists(radioid_filename):
+            print(f"{radioid_filename} not found. Downloading it first.")
+            download_user_csv(radioid_url, radioid_filename)
+        print(f"Found : {radioid_filename}...")
+        print("================================")
+
+    except Exception as e:
+        print(f"Error merging CSV files: {e}")
+
+def download_user_csv(csv_url, csv_name):
     # Downloads user.csv from URL.
     try:
-        print("Downloading user.csv")
+        print(f"Downloading {csv_name}")
         response = requests.get(csv_url)
         response.raise_for_status()  # Raise an exception for HTTP errors
 
-        with open('user.csv', 'wb') as f:
+        with open(csv_name, 'wb') as f:
             f.write(response.content)
 
-        print("Download complete: user.csv")
+        print(f"Download complete: {csv_name}")
     except Exception as e:
-        print(f"Error downloading user.csv: {e}")
+        print(f"Error downloading {csv_name}: {e}")
 
 def merge_csv(csv_filename, ext_filename):
     # Merge users_ext.csv into user.csv, overwriting data in user.csv.
     try:
         print(f"Merging {ext_filename} into {csv_filename}...")
-        
-        # Check if the necessary files exist
-        if not os.path.exists(csv_filename):
-            print(f"{csv_filename} not found. Downloading it first.")
-            download_user_csv(radioid_url)
-
         if os.path.exists(csv_filename) and os.path.exists(ext_filename):
             # Read user.csv into a dictionary keyed by RADIO_ID
             user_data = {}
@@ -242,7 +272,7 @@ def fill_empty_state_de(csv_filename, city_state_de_csv):
             current_row = 0
             for row in user_reader:
                 current_row += 1
-                if row['STATE'] == '' and row['RADIO_ID'].startswith(('264', '265')):
+                if row['STATE'] == '' and row['RADIO_ID'].startswith(('262', '263', '264', '265')):
                     city = row['CITY'].strip().lower()  # Normalize city name to lowercase
                     if city in city_state_map:
                         # Create a copy of the row before modifying it
@@ -280,12 +310,13 @@ def fill_empty_state_de(csv_filename, city_state_de_csv):
 
 def show_row_progress(current_row, total_rows, radio_id, callsign):
     progress_percent = current_row / total_rows * 100
-    print(f"\rProcessed {current_row}/{total_rows} rows - RADIO_ID: {radio_id}, CALLSIGN: {callsign} ({progress_percent:.2f}%)", end='')
+    print(f"\rProcessed {current_row}/{total_rows} rows - RADIO_ID: {radio_id}, CALLSIGN: {callsign} ({progress_percent:.2f}%) ", end='')
+
 
 def import_radio_id_from_file(conn, csv_filename):
     # Imports RadioID data from user.csv into MySQL.
     try:
-        print("RADIOID data import started from file")
+        print(f"RADIOID data import started from {csv_filename}")
 
         # Read CSV into DataFrame
         df = pd.read_csv(csv_filename)
@@ -301,6 +332,8 @@ def import_radio_id_from_file(conn, csv_filename):
 
         # Create new table and import data
         cursor = conn.cursor()
+
+
         cursor.execute("DROP TABLE IF EXISTS radioid_data;")
         create_table_query = """
             CREATE TABLE radioid_data (
@@ -336,41 +369,6 @@ def import_radio_id_from_file(conn, csv_filename):
         print(f"Error importing RadioID data into MySQL: {e}")
         return 0
 
-def copy_data_to_new_tables(conn):
-    try:
-        cursor = conn.cursor()
-
-        # Drop existing tables if they exist
-        tables = ['userat', 'usermd2017', 'userbin', 'usrbin', 'pistar']
-        for table in tables:
-            cursor.execute(f"DROP TABLE IF EXISTS {table};")
-
-        # Create new tables
-        create_tables_query = """
-            CREATE TABLE userat LIKE radioid_data;
-            CREATE TABLE usermd2017 LIKE radioid_data;
-            CREATE TABLE userbin LIKE radioid_data;
-            CREATE TABLE usrbin LIKE radioid_data;
-            CREATE TABLE pistar LIKE radioid_data;
-        """
-        cursor.execute(create_tables_query)
-
-        # Copy data from radioid_data to new tables
-        copy_data_query = """
-            INSERT INTO userat SELECT * FROM radioid_data;
-            INSERT INTO usermd2017 SELECT * FROM radioid_data;
-            INSERT INTO userbin SELECT * FROM radioid_data;
-            INSERT INTO usrbin SELECT * FROM radioid_data;
-            INSERT INTO pistar SELECT * FROM radioid_data;
-        """
-        cursor.execute(copy_data_query)
-
-        conn.commit()
-        print("Data copied to new tables successfully")
-
-    except Exception as e:
-        print(f"Error copying data to new tables: {e}")
-
 def main(version):
     start_time = time.time()
 
@@ -380,9 +378,17 @@ def main(version):
     parser.add_argument('-v', action='version', version=f'%(prog)s {version}')
     args = parser.parse_args()
 
+    if not any(vars(args).values()):
+        args.radioid = True
+
     # Check if -r flag is set to load RadioID data
     if args.radioid:
+        now = datetime.now()
+        current_time = now.strftime("%H:%M:%S")
+        print("================================")
         print("Start processing RadioID data...")
+        print("Starting process at:", current_time)
+        print("================================")        
     else:
         parser.print_help()
         return
@@ -393,40 +399,49 @@ def main(version):
     except OSError as e:
         print(f"No old user csv found: {e}")
 
+    #Check if needed files are present
+    check_files_csv()
+    # Merge users_ext.csv into user.csv
+    merge_csv('user.csv', ext_filename)
+    print("================================")           
+
+    # Fill empty STATE values in user.csv from city_state_nl_csv
+    fill_empty_state_nl('user.csv', city_state_nl_csv)
+    print("================================")           
+    fill_empty_state_de('user.csv', city_state_de_csv)
+    print("================================")           
+
+
     # Connect to MySQL
+    print(f"Connecting to SQL on {mysql_host}")
     conn = connect_mysql()
     if conn is None:
         return
-
-    # Step 1: Merge users_ext.csv into user.csv
-    merge_csv('user.csv', ext_filename)
-
-    # Step 2: Fill empty STATE values in user.csv from city_state_nl_csv
-    fill_empty_state_nl('user.csv', city_state_nl_csv)
-    fill_empty_state_de('user.csv', city_state_de_csv)
-
-    # Step 3: Import RadioID data from user.csv into MySQL
+    
+    # Import RadioID data from user.csv into MySQL
     total_imported = import_radio_id_from_file(conn, 'user.csv')
 
-    # Step 4: Copy data to new tables
+    # Copy data to new tables
     #copy_data_to_new_tables(conn)
-
-    # Calculate and print total script execution time
-    end_time = time.time()
-    execution_time = end_time - start_time
-    print(f"Total execution time: {execution_time:.2f} seconds")
 
     # Close MySQL connection
     conn.close()
     print("MySQL connection closed")
+    print("================================")
+
+    # Calculate and print total script execution time
+    end_time = time.time()
+    execution_time = end_time - start_time
+    #print(f"Total execution time: {execution_time:.2f} seconds")
+    print("Process completed at:", datetime.now().strftime("%H:%M:%S"))
+    print("Time taken:", round(execution_time, 2), "seconds (", round(execution_time / 60, 2), "minutes)")
     
     # Delete the user.csv file
-    try:
-        os.remove('user.csv')
-        print("user.csv file deleted")
-    except OSError as e:
-        print(f"Error deleting user.csv file: {e}")
+#    try:
+#        os.remove('user.csv')
+#        print("user.csv file deleted")
+#    except OSError as e:
+#        print(f"Error deleting user.csv file: {e}")
         
 if __name__ == "__main__":
     main(script_version)
-
