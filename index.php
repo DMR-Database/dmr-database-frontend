@@ -551,7 +551,6 @@ if (isset($_POST['download_all'])) {
     <header>
         <h1>DMR-Database Download Portal</h1>
     </header>
-    
     <nav>
         <a href="#home" onclick="showSection('home')">Home</a>
         <a href="#download-all" onclick="showSection('download-all')">Full Database</a>
@@ -854,7 +853,7 @@ if (isset($_POST['download_all'])) {
         document.getElementById('login-form').addEventListener('submit', function(e) {
             e.preventDefault();
             var password = document.getElementById('password').value;
-            if (password === 'roodwitblauw') {
+            if (password === 'passw0rd') {
                 document.getElementById('login').style.display = 'none';
                 document.querySelector('nav').style.display = 'block';
                 showSection('home');
