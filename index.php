@@ -1,7 +1,7 @@
 <?php
 
 // Centralized Database connection settings
-$host = '127.0.0.1';
+$host = '172.18.0.2';
 $user = 'root';
 $password = 'passw0rd';
 $database = 'dmr-database';
@@ -551,6 +551,7 @@ if (isset($_POST['download_all'])) {
     <header>
         <h1>DMR-Database Download Portal</h1>
     </header>
+    
     <nav>
         <a href="#home" onclick="showSection('home')">Home</a>
         <a href="#download-all" onclick="showSection('download-all')">Full Database</a>
@@ -562,7 +563,8 @@ if (isset($_POST['download_all'])) {
     </nav>
     <div class="container">
         <div id="home" class="section">
-            <h2>Welcome to the CSV Download Portal</h2>
+            <img src="logo.jpeg" alt="DMR Database Team" width="100" height="100">
+	    <h2>Welcome to the CSV Download Portal</h2>
             <p>Welcome to the CSV Download Portal, your one-stop destination for accessing a wide range of CSV databases tailored to your specific needs. This portal provides a streamlined and user-friendly interface for generating and downloading various CSV files. Whether you need comprehensive databases for Anytone devices or specific regional data, our portal ensures you have the right tools at your fingertips.</p>
             <p>Choose an option from the menu to proceed.</p>
         </div>
@@ -852,7 +854,7 @@ if (isset($_POST['download_all'])) {
         document.getElementById('login-form').addEventListener('submit', function(e) {
             e.preventDefault();
             var password = document.getElementById('password').value;
-            if (password === 'passw0rd') {
+            if (password === 'roodwitblauw') {
                 document.getElementById('login').style.display = 'none';
                 document.querySelector('nav').style.display = 'block';
                 showSection('home');
@@ -871,7 +873,8 @@ if (isset($_POST['download_all'])) {
     </script>
     </script>
     <div class="copyright">
-        &copy; 2024 CSV Download Portal by DMR-Database Team. All rights reserved. | <a href="https://github.com/DMR-Database" target="_blank">Visit us on GitHub</a>
+        &copy; 2024 CSV Download Portal by 
+DMR User Database Team. All rights reserved. | <a href="https://github.com/DMR-Database" target="_blank">Visit us on GitHub</a>
     </div>
 </body>
 </html>
