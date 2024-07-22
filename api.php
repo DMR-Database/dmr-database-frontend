@@ -7,6 +7,9 @@ $database = 'dmr-database';
 $table = 'radioid_data';
 $columns = ['RADIO_ID', 'CALLSIGN', 'FIRST_NAME', 'CITY', 'STATE', 'COUNTRY'];
 
+// Define the API password
+$apiPassword = 'passw0rd';
+
 // Create connection
 $conn = new mysqli($host, $user, $password, $database);
 
@@ -19,6 +22,13 @@ if ($conn->connect_error) {
 function escape($value) {
     global $conn;
     return $conn->real_escape_string($value);
+}
+
+// Check for password
+if (!isset($_GET['key']) || $_GET['key'] !== $apiPassword) {
+    header('Content-Type: application/json');
+    echo json_encode(['error' => 'Unauthorized access. Please provide a valid password.']);
+    exit;
 }
 
 // Fetch query parameters
