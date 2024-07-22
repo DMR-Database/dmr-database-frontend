@@ -1,0 +1,52 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: mariadb:10.10
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: passw0rd
+    ports:
+      - 3306:3306
+    volumes:
+      - mariadb-volume:/var/lib/mysql	
+    networks:
+      dmrdatabasenet:
+        ipv4_address: 172.18.0.2
+        
+  adminer:
+    image: adminer:latest
+    restart: always
+    ports:
+      - 8085:8080
+    networks:
+      dmrdatabasenet:
+        ipv4_address: 172.18.0.3
+
+  php-nginx:
+    image: trafex/php-nginx:latest
+    restart: always
+    ports:
+      - 80:8080
+    volumes:
+      - php-nginx-volume:/var/www/html
+    networks:
+      dmrdatabasenet:
+        ipv4_address: 172.18.0.4
+        
+volumes:
+  php-nginx-volume:
+    external: true
+  mariadb-volume:
+    external: true
+
+networks:
+  dmrdatabasenet:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.18.0.0/24
+          gateway: 172.18.0.1
+
