@@ -1,4 +1,5 @@
 <?php
+ini_set('memory_limit', '256M'); // or any higher value like '512M'
 // Database connection settings
 $host = '172.18.0.2';
 $user = 'root';
@@ -85,3 +86,4 @@ if ($result->num_rows > 0) {
 // Close connection
 $conn->close();
 ?>
+
