@@ -551,6 +551,7 @@ if (isset($_POST['download_all'])) {
     <header>
         <h1>DMR-Database Download Portal</h1>
     </header>
+    
     <nav>
         <a href="#home" onclick="showSection('home')">Home</a>
         <a href="#download-all" onclick="showSection('download-all')">Full Database</a>
@@ -564,7 +565,7 @@ if (isset($_POST['download_all'])) {
         <div id="home" class="section">
             <img src="logo.jpeg" alt="DMR Database Team" width="100" height="100">
 	    <h2>Welcome to the CSV Download Portal</h2>
-            <p>Welcome to the CSV Download Portal, your one-stop destination for accessing a wide range of CSV databases tailored to your specific needs. This portal provides a streamlined and user-friendly interface for generating and downloading various CSV files. Whether you need comprehensive databases for Anytone devices or specific regional data, our portal ensures you have the right tools at your fingertips.</p>
+            <p>Welcome to the CSV Download Portal, your one-stop destination for accessing a wide range of CSV databases tailored to your specific needs. This portal provides a streamlined and user-friendly interface for generating and downloading various CSV files. Whether you need comprehensive databases for Anytone devices or specific regional data, our portal ensures you have the right tools at your fingertips. Api user : api.php?key=passw0rd | api raptors: api-rptrs.php?key=passw0rd</p>
             <p>Choose an option from the menu to proceed.</p>
         </div>
         

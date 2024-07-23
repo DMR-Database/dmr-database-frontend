@@ -4,8 +4,12 @@ $host = '172.18.0.2';
 $user = 'root';
 $password = 'passw0rd';
 $database = 'dmr-database';
-$table = 'radioid_data';
-$columns = ['RADIO_ID', 'CALLSIGN', 'FIRST_NAME', 'CITY', 'STATE', 'COUNTRY'];
+$table = 'rptrs';
+$columns = [
+    'locator', 'id', 'callsign', 'city', 'state', 'country',
+    'frequency', 'color_code', 'offset', 'assigned', 'ts_linked',
+    'trustee', 'map_info', 'map', 'ipsc_network'
+];
 
 // Define the API password
 $apiPassword = 'passw0rd';
@@ -43,7 +47,7 @@ foreach ($columns as $column) {
 if (empty($searchParams)) {
     header('Content-Type: application/json');
     echo json_encode([
-        'message' => 'Please provide one or more of the following parameters: f.e. api.php?callsign=pd2emc',
+        'message' => 'Please provide one or more of the following parameters:',
         'parameters' => array_map('strtolower', $columns)
     ]);
     exit;
@@ -85,3 +89,4 @@ if ($result->num_rows > 0) {
 // Close connection
 $conn->close();
 ?>
+
