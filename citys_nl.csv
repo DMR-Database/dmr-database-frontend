@@ -1,14 +1,4 @@
 CITY,STATE
-(De ?) Vleut,Noord-Brabant
-(De) Dingen,Groningen
-(De) Haspel,Groningen
-(De) Langstraat (?),Zuid-Holland
-(De) Laren (?),Noord-Brabant
-(De) Schifpot,Groningen
-(De) Val (?),Zeeland
-(De) Wippert,Gelderland
-(De) Wippert (?),Gelderland
-(Den) Broek (?),Limburg
 1e Exloermond,Drenthe
 1e Exloërmond,Drenthe
 2e Exloermond,Drenthe
@@ -1045,6 +1035,7 @@ De Buurt,Noord-Holland
 De Cocksdorp,Noord-Holland
 De Dellen,Noord-Brabant
 De Dingen,Groningen
+De Dingen,Groningen
 De Donk,Zuid-Holland
 de Donk,Zuid-Holland
 De Dood,Noord-Brabant
@@ -1072,6 +1063,7 @@ De Haandrik,Overijssel
 De Haar,Drenthe
 De Haart,Gelderland
 De Haere,Gelderland
+De Haspel,Groningen
 De Haspel,Groningen
 De Haukes,Noord-Holland
 De Heemen,Groningen
@@ -1140,6 +1132,8 @@ De Krosselt,Limburg
 De Kwakel,Noord-Holland
 De Laan,Noord-Brabant
 De Laatste Stuiver,Friesland
+De Langstraat,Zuid-Holland
+De Laren,Noord-Brabant
 De Laren,Noord-Brabant
 De Leijen,Overijssel
 De Lent,Noord-Brabant
@@ -1207,6 +1201,7 @@ De Ryp,Friesland
 De Schans,Overijssel
 De Schatkuil,Gelderland
 De Schietbaan,Noord-Brabant
+De Schifpot,Groningen
 De Schiphorst,Drenthe
 De Schoolt,Gelderland
 De Schutterij,Gelderland
@@ -1229,6 +1224,7 @@ De Tippe,Drenthe
 De Trieme,Friesland
 De Tuut,Gelderland
 De Uithorn,Groningen
+De Val,Zeeland
 De Valk,Gelderland
 De Valom,Friesland
 De Vecht,Gelderland
@@ -1237,6 +1233,7 @@ De Veenhoop,Friesland
 De Veenhuis,Gelderland
 De Velde,Overijssel
 De Vennen,Groningen
+De Vleut,Noord-Brabant
 De Vlietberg,Gelderland
 De Voorstad,Noord-Brabant
 De Voort,Noord-Brabant
@@ -1262,6 +1259,7 @@ De Wildenberg,Drenthe
 De Wilgen,Friesland
 De Wilp,Groningen
 De Wind,Noord-Brabant
+De Wippert,Gelderland
 De Wolfsputten,Noord-Brabant
 De Wopereis,Gelderland
 De Woude,Noord-Holland
@@ -1305,6 +1303,7 @@ Den Berg,Noord-Brabant
 Den Bommel,Zuid-Holland
 Den Bosch,Noord-Brabant
 Den Braam,Overijssel
+Den Broek,Limburg
 Den Broek,Limburg
 Den Burg,Noord-Holland
 Den Deel,Groningen
