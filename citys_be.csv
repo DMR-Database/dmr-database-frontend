@@ -81,7 +81,10 @@ Bellaire,Liège
 Beloeil,Hainaut
 Belrade,Namur
 Belsele,Oost-Vlaanderen
+Berchem,Antwerpen
 Berchem-Sainte-Agathe,Brussels Hoofdstedelijk Gewest
+Berendrecht,Antwerpen
+Berg,Vlaams-Brabant
 Beringen,Limburg
 Berlaar,Antwerpen
 Berlare,Oost-Vlaanderen
@@ -93,17 +96,25 @@ Bertrix,Luxembourg
 Bever,Vlaams-Brabant
 Beveren,Oost-Vlaanderen
 Beveren-Waas,Oost-Vlaanderen
+Beverlo,Limburg
+Beyne Heusay,Liège
 Beyne-Heusay,Liège
 Bierbeek,Vlaams-Brabant
+Bierce,Hainaut
 Biez,Vlaams-Brabant
 Bilzen,Limburg
 Binche,Hainaut
+Bissegem,West-Vlaanderen
 Bièvre,Namur
 Blankenberge,West-Vlaanderen
+Blegny,Liège
 Blégny,Liège
 Bocholt,Limburg
 Boechout,Antwerpen
+Boevange,Luxembourg
+Boncelles,Liège
 Bonheiden,Antwerpen
+Booischot,Antwerpen
 Boom,Antwerpen
 Boortmeerbeek,Vlaams-Brabant
 Borgerhout,Antwerpen
@@ -113,7 +124,10 @@ Borsbeek,Antwerpen
 Bouillon,Luxembourg
 Boussu,Hainaut
 Boutersem,Vlaams-Brabant
+Braine lAlleud,Brabant wallon
+Braine le compte,Hainaut
 Braine-l'Alleud,Brabant wallon
+Braine-lAlleud,Brabant wallon
 Braine-le-Château,Brabant wallon
 Braine-le-Comte,Hainaut
 Braives,Liège
@@ -139,6 +153,7 @@ Cerfontaine,Namur
 Chapelle-lez-Herlaimont,Hainaut
 Charleroi,Hainaut
 Chastre,Brabant wallon
+Chatelet,Hainaut
 Chaudfontaine,Liège
 Chaumont-Gistoux,Brabant wallon
 Chimay,Hainaut
@@ -146,31 +161,44 @@ Chiny,Luxembourg
 Chièvres,Hainaut
 Châtelet,Hainaut
 Ciney,Namur
+Ciplet,Liège
 Clavier,Liège
+Clermont Sous Huy,Liège
 Colfontaine,Hainaut
 Comblain-au-Pont,Liège
 Comines-Warneton,Hainaut
+Cornesse,Liège
+Cour sur heure,Hainaut
 Courcelles,Hainaut
+Court-Saint-Etienne,Brabant wallon
 Court-Saint-Étienne,Brabant wallon
 Courtrai,West-Vlaanderen
 Couvin,Namur
+Crisnee,Liège
 Crisnée,Liège
+Dadizele,West-Vlaanderen
 Dalhem,Liège
 Damme,West-Vlaanderen
+Dampremy,Hainaut
 Daverdisse,Luxembourg
 De Haan,West-Vlaanderen
 De Panne,West-Vlaanderen
 De Pinte,Oost-Vlaanderen
 Deerlijk,West-Vlaanderen
 Deinze,Oost-Vlaanderen
+Denderbelle,Oost-Vlaanderen
+Denderhoutem,Oost-Vlaanderen
 Denderleeuw,Oost-Vlaanderen
 Dendermonde,Oost-Vlaanderen
 Dentergem,West-Vlaanderen
 Dessel,Antwerpen
+Desselgem,West-Vlaanderen
 Destelbergen,Oost-Vlaanderen
+Deurle,Oost-Vlaanderen
 Deurne,Antwerpen
 Diepenbeek,Limburg
 Diest,Vlaams-Brabant
+Dikkebus,West-Vlaanderen
 Diksmuide,West-Vlaanderen
 Dilbeek,Vlaams-Brabant
 Dilsen-Stokkem,Limburg
@@ -179,35 +207,53 @@ Dison,Liège
 Doische,Namur
 Donceel,Liège
 Doornik,Hainaut
+Dottenijs,Hainaut
+Dottignies,Hainaut
 Dour,Hainaut
 Drogenbos,Vlaams-Brabant
 Duffel,Antwerpen
 Durbuy,Luxembourg
+ERTVELDE,Oost-Vlaanderen
 Ecaussinnes,Hainaut
 Edegem,Antwerpen
 Eeklo,Oost-Vlaanderen
+Eernegem,West-Vlaanderen
 Eghezée,Namur
+Eke,Oost-Vlaanderen
+Ekeren,Antwerpen
 Ellezelles,Hainaut
+Elsegem,Oost-Vlaanderen
 Elsene,Brussels Hoofdstedelijk Gewest
 Enghien,Hainaut
 Engis,Liège
+Eper,West-Vlaanderen
 Erezée,Luxembourg
+Erpe,Oost-Vlaanderen
 Erpe-Mere,Oost-Vlaanderen
+Erps kwerps,Vlaams-Brabant
+Ertvelde,Oost-Vlaanderen
 Esneux,Liège
 Essen,Antwerpen
 Estaimpuis,Hainaut
 Estinnes,Hainaut
 Etterbeek,Brussels Hoofdstedelijk Gewest
 Eupen,Liège
+Everberg,Vlaams-Brabant
 Evere,Brussels Hoofdstedelijk Gewest
 Evergem,Oost-Vlaanderen
 Faimes,Liège
+Falmignoul,Namur
 Farciennes,Hainaut
 Fauvillers,Luxembourg
 Fernelmont,Namur
 Ferrières,Liège
+Feschaux,Namur
 Fexhe-le-Haut-Clocher,Liège
+Flemalle,Liège
+Fleron,Liège
 Fleurus,Hainaut
+Flmalle,Liège
+Flmalle-Haute,Liège
 Flobecq,Hainaut
 Floreffe,Namur
 Florennes,Namur
@@ -220,37 +266,59 @@ Fosses-la-Ville,Namur
 Frameries,Hainaut
 Francorchamps,Liège
 Frasnes-lez-Anvaing,Hainaut
+Frasnes-lez-Buissenal,Hainaut
 Froidchapelle,Hainaut
+GENT-SA,Oost-Vlaanderen
 Galmaarden,Vlaams-Brabant
 Gand,Oost-Vlaanderen
 Ganshoren,Brussels Hoofdstedelijk Gewest
+Gaurain,Hainaut
 Gavere,Oost-Vlaanderen
 Gedinne,Namur
 Geel,Antwerpen
 Geer,Liège
 Geetbets,Vlaams-Brabant
+Gelrode,Vlaams-Brabant
+Geluveld,West-Vlaanderen
+Geluwe,West-Vlaanderen
 Gembloux,Namur
 Genappe,Brabant wallon
 Genk,Limburg
 Gent,Oost-Vlaanderen
+Gentbrugge,Oost-Vlaanderen
 Geraardsbergen,Oost-Vlaanderen
+Gerouville,Luxembourg
 Gerpinnes,Hainaut
 Gesves,Namur
 Ghent,Oost-Vlaanderen
+Gijhzegem,Oost-Vlaanderen
+Gijzegem,Oost-Vlaanderen
 Gingelom,Limburg
 Gistel,West-Vlaanderen
 Gistoux,Brabant wallon
 Glabbeek,Vlaams-Brabant
 Gooik,Vlaams-Brabant
+Gosselies,Hainaut
 Gouvy,Luxembourg
 Grammont,Oost-Vlaanderen
+Grembergen,Oost-Vlaanderen
 Grez-Doiceau,Brabant wallon
 Grimbergen,Vlaams-Brabant
 Grobbendonk,Antwerpen
+Groot-Bijgaarden,Vlaams-Brabant
+Gruitrode,Limburg
 Grâce-Hollogne,Liège
+Gullegem,West-Vlaanderen
+H,West-Vlaanderen
+HERSEAUX,Hainaut
+HEULE,West-Vlaanderen
+HEUSDEN - ZOLDER,Limburg
+HEUSY,Liège
 Haacht,Vlaams-Brabant
 Haaltert,Oost-Vlaanderen
+Haasdonk,Antwerpen
 Habay,Luxembourg
+Halanzy,Vlaams-Brabant
 Halen,Limburg
 Halle,Vlaams-Brabant
 Ham,Limburg
@@ -264,28 +332,42 @@ Harelbeke,West-Vlaanderen
 Hasselt,Limburg
 Hastière,Namur
 Havelange,Namur
+Hechtel,Limburg
 Hechtel-Eksel,Limburg
 Heers,Limburg
+Heist Op Den Berg,Antwerpen
+Heist op den Berg,Antwerpen
 Heist-op-den-Berg,Antwerpen
+Helchteren,Limburg
+Helecine,Brabant wallon
 Hemiksem,Antwerpen
 Hensies,Hainaut
+Heppen,Limburg
 Herbeumont,Luxembourg
+Herdersem,Oost-Vlaanderen
 Herent,Vlaams-Brabant
 Herentals,Antwerpen
 Herenthout,Antwerpen
 Herk-de-Stad,Limburg
 Herne,Vlaams-Brabant
+Herseaux,Hainaut
 Herselt,Antwerpen
 Herstal,Liège
 Herstappe,Limburg
 Herve,Liège
 Herzele,Oost-Vlaanderen
+Heule,West-Vlaanderen
 Heusden-Zolder,Limburg
+Heusy,Liège
+Heusy Verviers,Liège
 Heuvelland,West-Vlaanderen
+Heverlee,Vlaams-Brabant
 Hoegaarden,Vlaams-Brabant
 Hoei,Liège
 Hoeilaart,Vlaams-Brabant
 Hoeselt,Limburg
+Hoevenen,Antwerpen
+Hofstade,Oost-Vlaanderen
 Holsbeek,Vlaams-Brabant
 Honnelles,Hainaut
 Hooglede,West-Vlaanderen
@@ -293,48 +375,62 @@ Hoogstraten,Antwerpen
 Horebeke,Oost-Vlaanderen
 Hornu,Hainaut
 Hotton,Luxembourg
+Houdeng-Goegnies,Hainaut
 Houffalize,Luxembourg
 Houthalen-Helchteren,Limburg
 Houthulst,West-Vlaanderen
 Houyet,Namur
 Hove,Antwerpen
+Hoves,Hainaut
+Huizingen,Vlaams-Brabant
 Huldenberg,Vlaams-Brabant
 Hulshout,Antwerpen
 Huy,Liège
 Hélécine,Brabant wallon
 Héron,Liège
+IPER,West-Vlaanderen
 Ichtegem,West-Vlaanderen
 Ieper,West-Vlaanderen
 Incourt,Brabant wallon
 Ingelmunster,West-Vlaanderen
+Iper,West-Vlaanderen
 Ittre,Brabant wallon
 Ixelles,Brussels Hoofdstedelijk Gewest
 Izegem,West-Vlaanderen
+JAUCHELETTE,Brabant wallon
 Jabbeke,West-Vlaanderen
 Jalhay,Liège
 Jambes,Namur
+Jauchelette,Brabant wallon
 Jemappes,Hainaut
 Jemeppe-sur-Sambre,Namur
 Jette,Brussels Hoofdstedelijk Gewest
 Jodoigne,Brabant wallon
 Juprelle,Liège
 Jurbise,Hainaut
+Kain,Hainaut
 Kalmthout,Antwerpen
 Kampenhout,Vlaams-Brabant
 Kapelle-op-den-Bos,Vlaams-Brabant
 Kapellen,Antwerpen
+Kapllen,Antwerpen
 Kaprijke,Oost-Vlaanderen
 Kasterlee,Antwerpen
 Keerbergen,Vlaams-Brabant
 Kelmis,Liège
+Kessel,Antwerpen
 Kinrooi,Limburg
+Klerken,West-Vlaanderen
 Kluisbergen,Oost-Vlaanderen
 Knesselare,Oost-Vlaanderen
+Knokke,West-Vlaanderen
 Knokke-Heist,West-Vlaanderen
 Koekelare,West-Vlaanderen
 Koekelberg,Brussels Hoofdstedelijk Gewest
 Koksijde,West-Vlaanderen
+Koningshooikt,Antwerpen
 Kontich,Antwerpen
+Kooigem,West-Vlaanderen
 Kortemark,West-Vlaanderen
 Kortenaken,Vlaams-Brabant
 Kortenberg,Vlaams-Brabant
@@ -343,42 +439,69 @@ Kortrijk,West-Vlaanderen
 Kraainem,Vlaams-Brabant
 Kruibeke,Oost-Vlaanderen
 Kruishoutem,Oost-Vlaanderen
+Kuringen - Hasselt,Limburg
 Kuurne,West-Vlaanderen
+Kwaadmechelen,Vlaams-Brabant
+LIEGE,Liège
+LINDEN,Vlaams-Brabant
 La Bruyère,Namur
 La Calamine,Liège
+La Hestre,Hainaut
 La Hulpe,Brabant wallon
+La Louvire,Hainaut
 La Louvière,Hainaut
 La Roche-en-Ardenne,Luxembourg
+La louviere,Hainaut
 Laakdal,Antwerpen
 Laarne,Oost-Vlaanderen
+Lampernisse,West-Vlaanderen
 Lanaken,Limburg
 Landen,Vlaams-Brabant
+Langemark,West-Vlaanderen
 Langemark-Poelkapelle,West-Vlaanderen
 Lasne,Brabant wallon
 Le Roeulx,Hainaut
 Lebbeke,Oost-Vlaanderen
 Lede,Oost-Vlaanderen
 Ledegem,West-Vlaanderen
+Leffinge,West-Vlaanderen
 Lendelede,West-Vlaanderen
 Lennik,Vlaams-Brabant
 Lens,Hainaut
 Leopoldsburg,Limburg
+Leper,West-Vlaanderen
 Les Bons Villers,Hainaut
 Lessines,Hainaut
+Letterhoutem,Oost-Vlaanderen
+Leudelange,Luxembourg
 Leuven,Vlaams-Brabant
+Leuven Heverlee,Vlaams-Brabant
+Leuze Hainait,Hainaut
 Leuze-en-Hainaut,Hainaut
+Leval trahegnies,Hainaut
+Leval-Trahegnies,Hainaut
+"LiA""""ge",Liège
+Liberchies,Hainaut
 Libin,Luxembourg
 Libramont-Chevigny,Luxembourg
 Lichtervelde,West-Vlaanderen
 Liedekerke,Vlaams-Brabant
+Liege,Liège
 Lier,Antwerpen
 Lierde,Oost-Vlaanderen
 Lierneux,Liège
+Lige,Liège
+Ligny,Hainaut
 Lille,Antwerpen
 Limbourg,Liège
+Limelette,Brabant wallon
 Lincent,Liège
+Linden,Vlaams-Brabant
 Linkebeek,Vlaams-Brabant
+Lint,Antwerpen
 Linter,Vlaams-Brabant
+Lissewege,West-Vlaanderen
+LiÃ¨ge,Liège
 Liège,Liège
 Lo-Reninge,West-Vlaanderen
 Lobbes,Hainaut
@@ -387,78 +510,128 @@ Lokeren,Oost-Vlaanderen
 Lommel,Limburg
 Londerzeel,Vlaams-Brabant
 Lontzen,Liège
+Loppem,West-Vlaanderen
 Louvain,Vlaams-Brabant
 Louvain-la-Neuve,Brabant wallon
+Lovendegem,Oost-Vlaanderen
+Loverval,Hainaut
 Lubbeek,Vlaams-Brabant
 Luik,Liège
 Lummen,Limburg
 Léglise,Luxembourg
+MAFFLE,Hainaut
+MAINVAULT,Hainaut
+MARQUAIN,Hainaut
+MELEN,Liège
+MELLET,Hainaut
+MONTEGNEE,Liège
+MONTIGNIES SUR SAMBRE,Hainaut
+MUIZE,Antwerpen
 Maarkedal,Oost-Vlaanderen
 Maaseik,Limburg
+Maaseik - Neeroeteren,Limburg
 Maasmechelen,Limburg
 Machelen,Vlaams-Brabant
+Maffle,Hainaut
+Mainvault,Hainaut
+Maizeret,Namur
 Maldegem,Oost-Vlaanderen
+Malderen,Vlaams-Brabant
 Malines,Antwerpen
 Malle,Antwerpen
 Malmedy,Liège
+Malonne,Namur
 Manage,Hainaut
 Manhay,Luxembourg
 Marbehan,Luxembourg
+Marche En Famenne,Luxembourg
 Marche-en-Famenne,Luxembourg
+Marche-lez-Ecaussinnes,Hainaut
+Marchienne au pont,Hainaut
 Marchin,Liège
+Marke,West-Vlaanderen
+Marquain,Hainaut
 Martelange,Luxembourg
 Maurage,Hainaut
 Mechelen,Antwerpen
+Meerbeke,Oost-Vlaanderen
 Meerhout,Antwerpen
+Meeuwen,Limburg
 Meeuwen-Gruitrode,Limburg
 Meise,Vlaams-Brabant
 Meix-devant-Virton,Luxembourg
+Meldert,Oost-Vlaanderen
+Melen,Liège
 Melle,Oost-Vlaanderen
+Mellet,Hainaut
 Menen,West-Vlaanderen
+Menil-Lierneux,Liège
 Merbes-le-Château,Hainaut
 Merchtem,Vlaams-Brabant
 Merelbeke,Oost-Vlaanderen
+Merksem,Antwerpen
+Merksem Antwerpen,Antwerpen
 Merksplas,Antwerpen
 Messancy,Luxembourg
 Mesvin,Hainaut
 Mettet,Namur
 Meulebeke,West-Vlaanderen
 Middelkerke,West-Vlaanderen
+Mignault,Hainaut
 Modave,Liège
 Moerbeke,Oost-Vlaanderen
+Moerkerke,West-Vlaanderen
 Mol,Antwerpen
+Molenbeek Saint-Jean,Brussels Hoofdstedelijk Gewest
 Molenbeek-Saint-Jean,Brussels Hoofdstedelijk Gewest
 Momignies,Hainaut
 Mons,Hainaut
 Mont-Saint-Guibert,Brabant wallon
 Mont-de-l'Enclus,Hainaut
+Montegnee,Liège
+Montegnée,Liège
+Montignies sur Sambre,Hainaut
+Montigny le tilleul,Hainaut
 Montigny-le-Tilleul,Hainaut
+Moorsele,West-Vlaanderen
 Moorslede,West-Vlaanderen
 Morlanwelz,Hainaut
 Mortsel,Antwerpen
 Mouscron,Hainaut
 Musson,Luxembourg
+NAAST,Hainaut
 Namen,Namur
 Namur,Namur
 Nandrin,Liège
 Nassogne,Luxembourg
 Nazareth,Oost-Vlaanderen
+Nederokkerzeel,Vlaams-Brabant
+Neeroeteren,Limburg
 Neerpelt,Limburg
 Neufchâteau,Luxembourg
 Neufvilles,Hainaut
 Neupré,Liège
+Neuville,Hainaut
 Nevele,Oost-Vlaanderen
 Niel,Antwerpen
 Nieuwerkerken,Limburg
+Nieuwerkerken-Aalst,Oost-Vlaanderen
+Nieuwkerken-Waas,Oost-Vlaanderen
 Nieuwpoort,West-Vlaanderen
+Nieuwrode,Vlaams-Brabant
 Nijlen,Antwerpen
 Nijvel,Brabant wallon
 Ninove,Oost-Vlaanderen
 Nivelles,Brabant wallon
+Obaix Pont - A - Celles,Hainaut
+Oedelem,West-Vlaanderen
 Ohey,Namur
 Olen,Antwerpen
 Olne,Liège
 Onhaye,Namur
+Oordegem,Oost-Vlaanderen
+Oostakker,Oost-Vlaanderen
+Oostduinkerke,West-Vlaanderen
 Oostende,West-Vlaanderen
 Oosterzele,Oost-Vlaanderen
 Oostkamp,West-Vlaanderen
@@ -467,7 +640,9 @@ Opglabbeek,Limburg
 Opwijk,Vlaams-Brabant
 Oreye,Liège
 Orp-Jauche,Brabant wallon
+Orroir,Hainaut
 Ostend,West-Vlaanderen
+Ottergem,Oost-Vlaanderen
 Ottignies,Brabant wallon
 Ottignies-Louvain-la-Neuve,Brabant wallon
 Oud-Heverlee,Vlaams-Brabant
@@ -479,45 +654,66 @@ Ouffet,Liège
 Oupeye,Liège
 Overijse,Vlaams-Brabant
 Overpelt,Limburg
+PAAL,Limburg
+POMMEROEUL,Hainaut
 Paliseul,Luxembourg
 Peer,Limburg
 Pepingen,Vlaams-Brabant
 Pepinster,Liège
+Peruwelz,Hainaut
 Perwez,Brabant wallon
 Philippeville,Namur
+Pietrain,Brabant wallon
 Pittem,West-Vlaanderen
 Plombières,Liège
+Pollare,Oost-Vlaanderen
+Pommeroeul,Hainaut
+Pont a Celles,Hainaut
+Pont--Celles,Hainaut
+Pont-a-Celles,Hainaut
 Pont-à-Celles,Hainaut
 Poperinge,West-Vlaanderen
+Pottes,Hainaut
 Profondeville,Namur
 Putte,Antwerpen
 Puurs,Antwerpen
 Puurs-Sint-Amands,Antwerpen
 Péruwelz,Hainaut
+QUIEVRAIN,Hainaut
 Quaregnon,Hainaut
+Quievrain,Hainaut
 Quiévrain,Hainaut
 Quévy,Hainaut
+RONGY,Hainaut
 Raeren,Liège
 Ramillies,Brabant wallon
+Ransart,Hainaut
 Ranst,Antwerpen
 Ravels,Antwerpen
 Rebecq,Brabant wallon
+Rekem,Limburg
 Remicourt,Liège
 Renaix,Oost-Vlaanderen
 Rendeux,Luxembourg
 Retie,Antwerpen
 Riemst,Limburg
 Rijkevorsel,Antwerpen
+Rijmenam,Vlaams-Brabant
 Rixensart,Brabant wallon
 Rochefort,Namur
 Roeselare,West-Vlaanderen
+Rongy,Hainaut
+Rongy brunehaut,Hainaut
+Ronquires,Hainaut
 Ronse,Oost-Vlaanderen
 Roosdaal,Vlaams-Brabant
 Rotselaar,Vlaams-Brabant
 Rouvroy,Luxembourg
+Roux,Hainaut
 Ruiselede,West-Vlaanderen
 Rumes,Hainaut
 Rumst,Antwerpen
+SINT-JORIS-WINGE,Vlaams-Brabant
 Saint-Georges-sur-Meuse,Liège
 Saint-Ghislain,Hainaut
 Saint-Gilles,Brussels Hoofdstedelijk Gewest
@@ -525,20 +721,34 @@ Saint-Hubert,Luxembourg
 Saint-Josse-ten-Noode,Brussels Hoofdstedelijk Gewest
 Saint-Léger,Luxembourg
 Saint-Nicolas,Liège
+Saint-Remy,Luxembourg
 Sainte-Ode,Luxembourg
+Saive,Liège
 Sambreville,Namur
 Sankt Vith,Liège
 Schaarbeek,Brussels Hoofdstedelijk Gewest
 Schaerbeek,Brussels Hoofdstedelijk Gewest
+Scheldewindeke,Oost-Vlaanderen
 Schelle,Antwerpen
+Schendelbeke,Oost-Vlaanderen
+Schepdaal,Vlaams-Brabant
+Scherpenheuvel,Vlaams-Brabant
 Scherpenheuvel-Zichem,Vlaams-Brabant
 Schilde,Antwerpen
 Schoten,Antwerpen
+Schulen,Limburg
 Seneffe,Hainaut
 Seraing,Liège
 Silly,Hainaut
+Sint Gillis-Waas,Oost-Vlaanderen
+Sint Laureins,Oost-Vlaanderen
+Sint Lenaarts,Antwerpen
+Sint Truiden,Limburg
+Sint gillis waas,Oost-Vlaanderen
+Sint niklaas,Oost-Vlaanderen
 Sint-Agatha-Berchem,Brussels Hoofdstedelijk Gewest
 Sint-Amands,Antwerpen
+Sint-Amandsberg,Oost-Vlaanderen
 Sint-Genesius-Rode,Vlaams-Brabant
 Sint-Gillis,Brussels Hoofdstedelijk Gewest
 Sint-Gillis-Waas,Oost-Vlaanderen
@@ -550,6 +760,7 @@ Sint-Laureins,Oost-Vlaanderen
 Sint-Lievens-Houtem,Oost-Vlaanderen
 Sint-Martens-Latem,Oost-Vlaanderen
 Sint-Niklaas,Oost-Vlaanderen
+Sint-Pauwels,Oost-Vlaanderen
 Sint-Pieters-Leeuw,Vlaams-Brabant
 Sint-Pieters-Woluwe,Brussels Hoofdstedelijk Gewest
 Sint-Truiden,Limburg
@@ -560,23 +771,33 @@ Soumagne,Liège
 Spa,Liège
 Spiere-Helkijn,West-Vlaanderen
 Sprimont,Liège
+St Pietersleew,Vlaams-Brabant
 Stabroek,Antwerpen
 Staden,West-Vlaanderen
+Stavele,West-Vlaanderen
 Stavelot,Liège
+Steenkerque,Hainaut
 Steenokkerzeel,Vlaams-Brabant
 Stekene,Oost-Vlaanderen
+Stembert,Liège
+Sterrebeek,Vlaams-Brabant
 Stoumont,Liège
+TIELT Aarsele,West-Vlaanderen
 Tellin,Luxembourg
+Templeuve,Hainaut
 Temse,Oost-Vlaanderen
 Tenneville,Luxembourg
 Termonde,Oost-Vlaanderen
 Ternat,Vlaams-Brabant
+Tertre,Hainaut
 Tervuren,Vlaams-Brabant
 Tessenderlo,Limburg
 Theux,Liège
 Thimister-Clermont,Liège
 Thuin,Hainaut
+Tielrode,Oost-Vlaanderen
 Tielt,West-Vlaanderen
+Tielt Winge,Vlaams-Brabant
 Tielt-Winge,Vlaams-Brabant
 Tienen,Vlaams-Brabant
 Tinlot,Liège
@@ -586,51 +807,84 @@ Tongeren,Limburg
 Tongres,Limburg
 Torhout,West-Vlaanderen
 Tournai,Hainaut
+Trazegnies,Hainaut
 Tremelo,Vlaams-Brabant
 Trois-Ponts,Liège
 Trooz,Liège
 Tubize,Brabant wallon
 Turnhout,Antwerpen
 Uccle,Brussels Hoofdstedelijk Gewest
+Uitkerke,West-Vlaanderen
 Ukkel,Brussels Hoofdstedelijk Gewest
+VEZON,Hainaut
+VRASENE,Oost-Vlaanderen
+Varsenare,West-Vlaanderen
 Vaux-sur-Sûre,Luxembourg
+Vedrin,Namur
+Veldegem,West-Vlaanderen
+Velm,Limburg
 Verlaine,Liège
 Verviers,Liège
 Veurne,West-Vlaanderen
+Vezon,Hainaut
+Vezon Tournai,Hainaut
 Vielsalm,Luxembourg
+Viesville,Hainaut
+Villers Dt Orval,Luxembourg
 Villers-la-Ville,Brabant wallon
 Villers-le-Bouillet,Liège
 Vilvoorde,Vlaams-Brabant
 Vilvorde,Vlaams-Brabant
 Viroinval,Namur
 Virton,Luxembourg
+Vise,Liège
 Visé,Liège
+Vitrival,Namur
+Vlamertinge,West-Vlaanderen
 Vleteren,West-Vlaanderen
 Voeren,Limburg
 Vorselaar,Antwerpen
 Vorst,Brussels Hoofdstedelijk Gewest
 Vosselaar,Antwerpen
 Vosseslag,West-Vlaanderen
+Vrasene,Oost-Vlaanderen
 Vresse-sur-Semois,Namur
+WAKKEN,West-Vlaanderen
+WILRIJK,Antwerpen
+Waarbeke,Oost-Vlaanderen
 Waarschoot,Oost-Vlaanderen
+Waasmont,Limburg
 Waasmunster,Oost-Vlaanderen
 Wachtebeke,Oost-Vlaanderen
 Waimes,Liège
+Wakken,West-Vlaanderen
 Walcourt,Namur
 Walhain,Brabant wallon
 Wanze,Liège
 Waregem,West-Vlaanderen
 Waremme,Liège
+Warisoulx,Namur
+Warquignies,Hainaut
 Wasseiges,Liège
 Waterloo,Brabant wallon
 Watermaal-Bosvoorde,Brussels Hoofdstedelijk Gewest
 Watermael-Boitsfort,Brussels Hoofdstedelijk Gewest
+Watervliet,Oost-Vlaanderen
 Wavre,Brabant wallon
+Weelde,Antwerpen
+Weerde,Vlaams-Brabant
 Welkenraedt,Liège
+Welle,Oost-Vlaanderen
 Wellen,Limburg
 Wellin,Luxembourg
+Wemmel,Vlaams-Brabant
+Wenduine,West-Vlaanderen
+Wepion,Namur
 Wervik,West-Vlaanderen
+Wespelaar,Vlaams-Brabant
+Westende,West-Vlaanderen
 Westerlo,Antwerpen
+Westmeerbeek,Antwerpen
 Wetteren,Oost-Vlaanderen
 Wevelgem,West-Vlaanderen
 Wezembeek-Oppem,Vlaams-Brabant
@@ -638,22 +892,34 @@ Wichelen,Oost-Vlaanderen
 Wielsbeke,West-Vlaanderen
 Wijnegem,Antwerpen
 Willebroek,Antwerpen
+Wilrijk,Antwerpen
+Wilsele,Vlaams-Brabant
 Wingene,West-Vlaanderen
+Winksele,Vlaams-Brabant
+Woluw-Saint-Lambert,Brussels Hoofdstedelijk Gewest
 Woluwe-Saint-Lambert,Brussels Hoofdstedelijk Gewest
 Woluwe-Saint-Pierre,Brussels Hoofdstedelijk Gewest
+Wolvertem,Vlaams-Brabant
 Wommelgem,Antwerpen
+Wondelgem,Oost-Vlaanderen
+Wortegem - Petegem,Oost-Vlaanderen
 Wortegem-Petegem,Oost-Vlaanderen
 Wuustwezel,Antwerpen
 Ypres,West-Vlaanderen
 Yvoir,Namur
 Zandhoven,Antwerpen
+Zandvliet,Antwerpen
 Zaventem,Vlaams-Brabant
 Zedelgem,West-Vlaanderen
 Zeebrugge,West-Vlaanderen
 Zele,Oost-Vlaanderen
+Zellik,Vlaams-Brabant
 Zelzate,Oost-Vlaanderen
 Zemst,Vlaams-Brabant
+Zichem,Vlaams-Brabant
+Zingem,Oost-Vlaanderen
 Zoersel,Antwerpen
+Zolder,Limburg
 Zomergem,Oost-Vlaanderen
 Zonhoven,Limburg
 Zonnebeke,West-Vlaanderen
